@@ -1,0 +1,35 @@
+{
+    "id": 213330,
+    "nombre": "LEGO® Batman™ 2: DC Super Heroes",
+    "estudio": [
+        "TT Games"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "6957 pos / 426 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "LEGO",
+        "Action",
+        "Adventure",
+        "Open World",
+        "Local Co-Op",
+        "Superhero",
+        "Family Friendly",
+        "Multiplayer",
+        "Co-op",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "22 JUN 2012",
+    "precio": "Mex$ 349.00",
+    "requerimientos": {
+        "minimos": "<strong> Mínimo</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP, Windows Vista o Windows 7<br>        </li><li><strong>Procesador:</strong> Intel Core 2 Duo a 2 GHz o AMD Athlon 64 X2 3800 a 2 GHz<br>        </li><li><strong>Memoria:</strong> 1 GB de RAM<br>        </li><li><strong>Disco Duro:</strong> 10 GB de espacio libre   <br>        </li><li><strong>Gráficos:</strong> nVidia 7600, 7800, 8xxx o superior / ATI 1950 o superior<br>        </li><li><strong>Versión de DirectX®:</strong> 9.0c<br>        </li><li><strong>Sonido:</strong> Dispositivo compatible con DirectX 9.0c<br>        </li><li><strong>Adicional:</strong> Necesario ordenador 100% compatible con DirectX 9.0c</li></ul>",
+        "recomendados": "<strong> Recomendado</strong><br><ul class=\"bb_ul\"><li><strong>Procesador:</strong> Quad Core a 2.7 GHz<br>        </li><li><strong>Memoria:</strong> 2 GB de RAM        <br>        </li><li><strong>Gráficos:</strong> nVidia GeForce 8800 / ATI HD3870 o superior<br>        </li><li><strong>Adicional:</strong> Ordenador 100% compatible con DirectX 9.0c</li></ul>"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

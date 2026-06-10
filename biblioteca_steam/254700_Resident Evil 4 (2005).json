@@ -1,0 +1,35 @@
+{
+    "id": 254700,
+    "nombre": "Resident Evil 4 (2005)",
+    "estudio": [
+        "Capcom"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "77003 pos / 5431 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Inventory Management",
+        "Survival Horror",
+        "Action",
+        "Zombies",
+        "Horror",
+        "Third-Person Shooter",
+        "Singleplayer",
+        "Adventure",
+        "Classic",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "27 FEB 2014",
+    "precio": "Mex$ 289.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10<br></li><li><strong>Procesador:</strong> Intel® CoreTM2 Duo 2,4 GHz o superior, AMD AthlonTM X2 2,8 GHz o superior<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® 8800GTS o superior, ATI RadeonTM HD 4850 o superior<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Dispositivo de sonido estándar</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10<br></li><li><strong>Procesador:</strong> Intel® CoreTM 2 Quad 2,7 GHz o superior, AMD PhenomTM II X4 3 GHz o superior<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 560 o superior<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

@@ -1,0 +1,35 @@
+{
+    "id": 12200,
+    "nombre": "Bully: Scholarship Edition",
+    "estudio": [
+        "Rockstar New England"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "30730 pos / 5604 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Adventure",
+        "Third Person",
+        "Singleplayer",
+        "Comedy",
+        "Great Soundtrack",
+        "Funny",
+        "Classic",
+        "Dark Humor"
+    ],
+    "fecha_lanzamiento": "23 DIC 2010",
+    "precio": "Mex$ 52.49",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Pentium 4 a 3.0 GHz / AMD Athlon 3000+   <br></li><li><strong>Memoria:</strong> 1 GB de RAM   <br></li><li><strong>Gráficos:</strong> Tarjeta gráfica compatible con DirectX 9.0c y con soporte para Shader 3.0 (nVidia 6800 o 7300 o superior / ATI Radeon X1300 o superior)   <br></li><li><strong>Versión de DirectX:</strong> DirectX 9.0c   <br></li><li><strong>Disco Duro:</strong> 4.7 GB de espacio libre   <br></li><li><strong>Sonido:</strong> Dispositivo de sonido compatible con DX9   <br></li><li><strong>Entrada:</strong> Teclado, ratón o controlador de Xbox 360 (soportado)   </li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

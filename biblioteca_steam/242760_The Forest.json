@@ -1,0 +1,37 @@
+{
+    "id": 242760,
+    "nombre": "The Forest",
+    "estudio": [
+        "Endnight Games Ltd"
+    ],
+    "publisher": [
+        "Endnight Games Ltd"
+    ],
+    "valoracion": "599805 pos / 27986 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Simuladores"
+    ],
+    "tags": [
+        "Open World Survival Craft",
+        "Survival",
+        "Open World",
+        "Horror",
+        "Crafting",
+        "Adventure",
+        "Building",
+        "Survival Horror",
+        "First-Person",
+        "Action"
+    ],
+    "fecha_lanzamiento": "30 ABR 2018",
+    "precio": "Mex$ 185.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Intel Dual-Core 2.4 GHz<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 8800GT<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR or Oculus PC<br></li><li><strong>Notas adicionales:</strong> 32bit windows users need to ensure they have at least 4gb of ram usable on their system.</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Quad Core Processor<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 560<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": []
+}

@@ -1,0 +1,41 @@
+{
+    "id": 21690,
+    "nombre": "Resident Evil 5",
+    "estudio": [
+        "Capcom"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "42807 pos / 6310 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Co-op",
+        "Action",
+        "Zombies",
+        "Co-op Campaign",
+        "Third-Person Shooter",
+        "Online Co-Op",
+        "Horror",
+        "Multiplayer",
+        "Adventure",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "15 SEP 2009",
+    "precio": "Mex$ 289.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>Supported OS: </strong>Windows®10                         <br>        </li><li><strong>Processor: </strong>Intel Core™ 2 Quad 2.4GHz or better, AMD Phenom™ II x4 3.4GHZ or better                         <br>        </li><li><strong>Memory: </strong>4GB or better  <br>        </li><li><strong>Graphics: </strong>512 MB VRAM, NVIDIA® GeForce 9800 series or better, ATI Radeon HD 7770 or better<br>        </li><li><strong>Display:  </strong>Minimum 800 x 600 pixel resolution<br>        </li><li><strong>Sound: </strong>DirectSound Compatible (DirectX 9.0c or higher)     <br>        </li><li><strong>DirectX®: </strong>DirectX 9.0c / Shader 3.0  or better                   <br>        </li><li><strong>Hard Drive: </strong>15 GB free hard drive space         <br>        </li><li><strong>Peripherals: </strong>Keyboard and mouse       <br>        </li></ul>Internet connection required for game activation.",
+        "recomendados": "<ul class=\"bb_ul\"><li><strong>Supported OS: </strong>Windows®10                      <br>        </li><li><strong>Processor: </strong>Intel Core™ i5-3570 or better, AMD Phenom™ II x4 3.4GHZ or better                         <br>        </li><li><strong>Memory: </strong>4GB or better  <br>        </li><li><strong>Graphics: </strong>512 MB VRAM, NVIDIA(R) GeForce® GTX 650 or better, ATI Radeon HD 7770 or better<br>        </li><li><strong>Display:  </strong>Minimum 1280 x 720 pixel resolution<br>        </li><li><strong>Sound: </strong>DirectSound Compatible (DirectX 9.0c or higher)     <br>        </li><li><strong>DirectX®: </strong>DirectX 9.0c / Shader 3.0 or better                    <br>        </li><li><strong>Hard Drive: </strong>15 GB free hard drive space         <br>        </li><li><strong>Peripherals: </strong>Keyboard and mouse, controller supported        <br>        </li></ul>Internet connection required for game activation."
+    },
+    "peso_estimado": "</strong>4 GB",
+    "dlcs": [
+        {
+            "nombre": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
+            "fecha": "26 Mar, 2015",
+            "precio": "Mex$ 229.00"
+        }
+    ]
+}

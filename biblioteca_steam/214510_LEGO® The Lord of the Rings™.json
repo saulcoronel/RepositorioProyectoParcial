@@ -1,0 +1,35 @@
+{
+    "id": 214510,
+    "nombre": "LEGO® The Lord of the Rings™",
+    "estudio": [
+        "Traveller's Tales"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "12822 pos / 1390 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "LEGO",
+        "Adventure",
+        "Local Co-Op",
+        "Action",
+        "Fantasy",
+        "Open World",
+        "Comedy",
+        "Family Friendly",
+        "Co-op",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "27 NOV 2012",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft® Windows® XP SP3, Vista, or Windows® 7 <br>                </li><li><strong>Processor:</strong> Dual Core CPU @ 2GHz (Pentium D or better)<br>                </li><li><strong>Memory:</strong> 1GB RAM<br>                </li><li><strong>Hard Disk Space:</strong> 8 GB free HDD space<br>                </li><li><strong>Video Card:</strong> NVIDIA® 7600, 7800, 8800 GT or ATI Radeon™ HD 1950 or higher <br>                </li><li><strong>Sound:</strong> 16-bit Sound Card</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

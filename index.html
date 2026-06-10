@@ -1,0 +1,389 @@
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
+
+.header {
+  background: #171d25;
+  border-bottom: 1px solid #2a3f5f;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.header-logo { color: #66c0f4; font-size: 20px; font-weight: 500; }
+.header-sub { color: #8ba7c7; font-size: 13px; }
+
+.status-bar {
+  background: #171d25;
+  border-bottom: 1px solid #1e2d3d;
+  padding: 6px 24px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.status-dot { width: 7px; height: 7px; border-radius: 50%; background: #555; }
+.status-dot.online { background: #a4d007; }
+.status-text { font-size: 12px; color: #8ba7c7; }
+.status-count { font-size: 12px; color: #66c0f4; margin-left: auto; }
+
+.main { padding: 24px; max-width: 860px; margin: 0 auto; }
+
+.tabs {
+  display: flex;
+  gap: 2px;
+  margin-bottom: 20px;
+  background: #16202d;
+  border-radius: 4px;
+  padding: 4px;
+}
+.tab {
+  flex: 1;
+  padding: 9px 0;
+  font-size: 13px;
+  font-weight: 500;
+  color: #8ba7c7;
+  background: transparent;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+}
+.tab:hover { color: #c6d4df; background: #1e2d3d; }
+.tab.active { background: #2a475e; color: #66c0f4; }
+
+.search-section { display: none; }
+.search-section.active { display: block; }
+
+.search-box { display: flex; gap: 8px; margin-bottom: 16px; }
+.search-input {
+  flex: 1;
+  background: #16202d;
+  border: 1px solid #2a3f5f;
+  border-radius: 3px;
+  padding: 10px 14px;
+  font-size: 14px;
+  color: #c6d4df;
+  outline: none;
+  font-family: inherit;
+}
+.search-input::placeholder { color: #4a6480; }
+.search-input:focus { border-color: #66c0f4; }
+.search-btn {
+  background: #2a475e;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #c6d4df;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.search-btn:hover { background: #3d6b8c; }
+
+.hint { font-size: 12px; color: #4a6480; margin-bottom: 20px; line-height: 1.5; }
+.results-label { font-size: 12px; color: #8ba7c7; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.8px; }
+
+.game-card {
+  background: #16202d;
+  border: 1px solid #2a3f5f;
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 10px;
+}
+.game-card:hover { border-color: #66c0f4; }
+.game-name { font-size: 15px; font-weight: 500; color: #c6d4df; margin-bottom: 6px; }
+.game-meta { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.tag {
+  background: #1b2838;
+  border: 1px solid #2a3f5f;
+  border-radius: 2px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: #8ba7c7;
+}
+.game-row { display: flex; gap: 24px; flex-wrap: wrap; }
+.game-field { font-size: 12px; color: #4a6480; }
+.game-field span { color: #8ba7c7; }
+.game-rating { color: #a4d007 !important; }
+.distance-badge {
+  background: #1e3a52;
+  border: 1px solid #2a5870;
+  border-radius: 2px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: #66c0f4;
+  font-family: monospace;
+}
+
+.add-results {
+  max-height: 220px;
+  overflow-y: auto;
+  border: 1px solid #2a3f5f;
+  border-radius: 3px;
+  background: #16202d;
+}
+.add-result-item {
+  padding: 10px 14px;
+  font-size: 13px;
+  color: #c6d4df;
+  cursor: pointer;
+  border-bottom: 1px solid #1e2d3d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.add-result-item:last-child { border-bottom: none; }
+.add-result-item:hover { background: #1e2d3d; }
+.add-result-id { font-size: 11px; color: #4a6480; font-family: monospace; }
+.select-btn {
+  background: #2a475e;
+  border: none;
+  border-radius: 2px;
+  padding: 4px 10px;
+  font-size: 11px;
+  color: #66c0f4;
+  cursor: pointer;
+}
+.select-btn:hover { background: #3d6b8c; }
+
+.confirm-card {
+  background: #16202d;
+  border: 1px solid #2a5870;
+  border-radius: 4px;
+  padding: 16px;
+  margin-top: 12px;
+  display: none;
+}
+.confirm-name { font-size: 16px; font-weight: 500; color: #66c0f4; margin-bottom: 4px; }
+.confirm-id { font-size: 12px; color: #4a6480; font-family: monospace; margin-bottom: 14px; }
+.confirm-btns { display: flex; gap: 8px; }
+.btn-confirm {
+  background: #4c6b22;
+  border: none;
+  border-radius: 3px;
+  padding: 9px 18px;
+  font-size: 13px;
+  color: #c6d4df;
+  cursor: pointer;
+  font-family: inherit;
+}
+.btn-confirm:hover { background: #5c8226; }
+.btn-cancel {
+  background: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  border-radius: 3px;
+  padding: 9px 18px;
+  font-size: 13px;
+  color: #8ba7c7;
+  cursor: pointer;
+  font-family: inherit;
+}
+.btn-cancel:hover { background: #333; }
+
+.loading { text-align: center; padding: 24px; color: #66c0f4; font-size: 13px; }
+.error-msg { background: #2d1a1a; border: 1px solid #5a2020; border-radius: 3px; padding: 10px 14px; font-size: 13px; color: #e8a0a0; margin-top: 10px; }
+.success-msg { background: #1a2d1a; border: 1px solid #205a20; border-radius: 3px; padding: 10px 14px; font-size: 13px; color: #a0e8a0; margin-top: 10px; }
+</style>
+
+<div style="background:#1b2838; min-height:100vh;">
+  <div class="header">
+    <span style="color:#66c0f4; font-size:22px;">&#9881;</span>
+    <span class="header-logo">Steam Library</span>
+    <span class="header-sub">— buscador de juegos</span>
+  </div>
+  <div class="status-bar">
+    <div class="status-dot" id="statusDot"></div>
+    <span class="status-text" id="statusText">Verificando conexión...</span>
+    <span class="status-count" id="statusCount"></span>
+  </div>
+
+  <div class="main">
+    <div class="tabs">
+      <button class="tab active" onclick="switchTab('nombre')" id="tab-nombre">Por nombre</button>
+      <button class="tab" onclick="switchTab('concepto')" id="tab-concepto">Por concepto</button>
+      <button class="tab" onclick="switchTab('agregar')" id="tab-agregar">Agregar juego</button>
+    </div>
+
+    <div class="search-section active" id="sec-nombre">
+      <div class="search-box">
+        <input class="search-input" id="inputNombre" placeholder="Escribe el nombre del juego..." onkeydown="if(event.key==='Enter') buscarNombre()" />
+        <button class="search-btn" onclick="buscarNombre()">Buscar</button>
+      </div>
+      <div class="hint">Busca por nombre exacto o parcial en MongoDB.</div>
+      <div id="resNombre"></div>
+    </div>
+
+    <div class="search-section" id="sec-concepto">
+      <div class="search-box">
+        <input class="search-input" id="inputConcepto" placeholder="Ej: juegos de terror en primera persona..." onkeydown="if(event.key==='Enter') buscarConcepto()" />
+        <button class="search-btn" onclick="buscarConcepto()">Buscar</button>
+      </div>
+      <div class="hint">Describe el tipo de juego. Menor distancia = más similar.</div>
+      <div id="resConcepto"></div>
+    </div>
+
+    <div class="search-section" id="sec-agregar">
+      <div class="search-box">
+        <input class="search-input" id="inputAgregar" placeholder="Nombre del juego a agregar..." onkeydown="if(event.key==='Enter') buscarEnSteam()" />
+        <button class="search-btn" onclick="buscarEnSteam()">Buscar en Steam</button>
+      </div>
+      <div class="hint">Busca en Steam, elige el correcto y se agregará a MongoDB y ChromaDB.</div>
+      <div id="steamResultados"></div>
+      <div class="confirm-card" id="confirmCard">
+        <div class="confirm-name" id="confirmName"></div>
+        <div class="confirm-id" id="confirmId"></div>
+        <div class="confirm-btns">
+        <button class="btn-confirm" onclick="confirmarAgregar()">Agregar a la biblioteca</button>          <button class="btn-cancel" onclick="cancelarAgregar()">Cancelar</button>
+        </div>
+      </div>
+      <div id="addMsg"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const API = 'http://localhost:8080';
+let selectedGame = null;
+
+async function checkHealth() {
+  try {
+    const r = await fetch(API + '/health');
+    const d = await r.json();
+    document.getElementById('statusDot').className = 'status-dot online';
+    document.getElementById('statusText').textContent = 'MongoDB conectado';
+    document.getElementById('statusCount').textContent = d.juegos_en_db + ' juegos en la base de datos';
+  } catch {
+    document.getElementById('statusDot').className = 'status-dot';
+    document.getElementById('statusText').textContent = 'Sin conexión — asegúrate de que uvicorn esté corriendo';
+    document.getElementById('statusCount').textContent = '';
+  }
+}
+
+function switchTab(tab) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.search-section').forEach(s => s.classList.remove('active'));
+  document.getElementById('tab-' + tab).classList.add('active');
+  document.getElementById('sec-' + tab).classList.add('active');
+}
+
+function renderGameCard(juego) {
+  const tags = (juego.tags || []).slice(0, 5).map(t => `<span class="tag">${t}</span>`).join('');
+  return `
+    <div class="game-card">
+      <div class="game-name">${juego.nombre || 'Sin nombre'}</div>
+      <div class="game-meta">${tags}</div>
+      <div class="game-row">
+        <div class="game-field">Estudio: <span>${(juego.estudio || []).join(', ') || 'N/A'}</span></div>
+        <div class="game-field">Precio: <span>${juego.precio || 'N/A'}</span></div>
+        <div class="game-field">Lanzamiento: <span>${juego.fecha_lanzamiento || 'N/A'}</span></div>
+        <div class="game-field">Valoración: <span class="game-rating">${juego.valoracion || 'N/A'}</span></div>
+      </div>
+    </div>`;
+}
+
+async function buscarNombre() {
+  const q = document.getElementById('inputNombre').value.trim();
+  const el = document.getElementById('resNombre');
+  if (!q) return;
+  el.innerHTML = '<div class="loading">Buscando...</div>';
+  try {
+    const r = await fetch(API + '/games/search?q=' + encodeURIComponent(q));
+    if (!r.ok) { el.innerHTML = '<div class="error-msg">No se encontraron juegos para "' + q + '".</div>'; return; }
+    const d = await r.json();
+    el.innerHTML = `<div class="results-label">${d.total} resultado(s)</div>` + d.juegos.map(renderGameCard).join('');
+  } catch {
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+  }
+}
+
+async function buscarConcepto() {
+  const q = document.getElementById('inputConcepto').value.trim();
+  const el = document.getElementById('resConcepto');
+  if (!q) return;
+  el.innerHTML = '<div class="loading">Calculando similitud...</div>';
+  try {
+    const r = await fetch(API + '/games/similar?q=' + encodeURIComponent(q));
+    if (!r.ok) { el.innerHTML = '<div class="error-msg">No se pudieron obtener resultados.</div>'; return; }
+    const d = await r.json();
+    const cards = d.resultados.map(j => `
+      <div class="game-card">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div class="game-name" style="margin-bottom:0">${j.nombre}</div>
+          <span class="distance-badge">dist: ${j.distancia}</span>
+        </div>
+      </div>`).join('');
+    el.innerHTML = `<div class="results-label">Top ${d.resultados.length} resultado(s)</div>` + cards;
+  } catch {
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+  }
+}
+
+async function buscarEnSteam() {
+  const q = document.getElementById('inputAgregar').value.trim();
+  const el = document.getElementById('steamResultados');
+  document.getElementById('confirmCard').style.display = 'none';
+  document.getElementById('addMsg').innerHTML = '';
+  if (!q) return;
+  el.innerHTML = '<div class="loading">Buscando en Steam...</div>';
+  try {
+    const r = await fetch(API + '/steam/search?q=' + encodeURIComponent(q));
+    const d = await r.json();
+    const items = d.items || [];
+    if (!items.length) { el.innerHTML = '<div class="error-msg">No se encontraron resultados.</div>'; return; }
+    el.innerHTML = '<div class="add-results">' + items.map(item => `
+      <div class="add-result-item">
+        <div>
+          <div style="margin-bottom:3px">${item.name}</div>
+          <div class="add-result-id">ID: ${item.id}</div>
+        </div>
+        <button class="select-btn" onclick="seleccionarJuego(${item.id}, '${item.name.replace(/'/g, "\\'")}')">Seleccionar</button>
+      </div>`).join('') + '</div>';
+  } catch {
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+  }
+}
+
+function seleccionarJuego(id, nombre) {
+  selectedGame = { id, nombre };
+  document.getElementById('confirmName').textContent = nombre;
+  document.getElementById('confirmId').textContent = 'App ID: ' + id;
+  document.getElementById('confirmCard').style.display = 'block';
+}
+
+function cancelarAgregar() {
+  selectedGame = null;
+  document.getElementById('confirmCard').style.display = 'none';
+}
+
+async function confirmarAgregar() {
+  if (!selectedGame) return;
+  const el = document.getElementById('addMsg');
+  el.innerHTML = '<div class="loading">Scrapeando y agregando...</div>';
+  document.getElementById('confirmCard').style.display = 'none';
+  try {
+    const r = await fetch(API + '/games/add', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ app_id: selectedGame.id })
+    });
+    if (r.ok) {
+      el.innerHTML = '<div class="success-msg">&#10004; "' + selectedGame.nombre + '" agregado exitosamente.</div>';
+      checkHealth();
+    } else {
+      const d = await r.json();
+      el.innerHTML = '<div class="error-msg">' + (d.detail || 'Error al agregar.') + '</div>';
+    }
+  } catch {
+    el.innerHTML = '<div class="error-msg">Error de conexión.</div>';
+  }
+  selectedGame = null;
+}
+
+checkHealth();
+</script>

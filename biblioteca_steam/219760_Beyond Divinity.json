@@ -1,0 +1,34 @@
+{
+    "id": 219760,
+    "nombre": "Beyond Divinity",
+    "estudio": [
+        "Larian Studios"
+    ],
+    "publisher": [
+        "Larian Studios"
+    ],
+    "valoracion": "366 pos / 360 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Singleplayer",
+        "Isometric",
+        "Fantasy",
+        "Classic",
+        "Action RPG",
+        "Hack and Slash",
+        "Adventure",
+        "Atmospheric",
+        "Action"
+    ],
+    "fecha_lanzamiento": "29 OCT 2012",
+    "precio": "Mex$ 65.99",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br>\t</li><li><strong>Processor:</strong> Pentium 4 1.4 GHz<br>\t</li><li><strong>Memory:</strong> 256 MB RAM<br>\t</li><li><strong>Graphics:</strong> DirectX compatible 3D card<br>\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 2300 MB HD space<br>\t</li><li><strong>Sound:</strong> DirectX compatible</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

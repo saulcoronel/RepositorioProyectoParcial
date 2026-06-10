@@ -1,0 +1,34 @@
+{
+    "id": 46510,
+    "nombre": "Syberia II",
+    "estudio": [
+        "Microids"
+    ],
+    "publisher": [
+        "Microids"
+    ],
+    "valoracion": "2402 pos / 387 neg",
+    "generos": [
+        "Aventura"
+    ],
+    "tags": [
+        "Adventure",
+        "Point & Click",
+        "Puzzle",
+        "Female Protagonist",
+        "Story Rich",
+        "Steampunk",
+        "Atmospheric",
+        "Singleplayer",
+        "Classic",
+        "Mystery"
+    ],
+    "fecha_lanzamiento": "19 MAY 2011",
+    "precio": "Mex$ 139.99",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP / Vista / 7 / 10<br></li><li><strong>Procesador:</strong> 1.5 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Disco Duro:</strong> 1.5 GB de espacio libre<br></li><li><strong>Gráficos:</strong> Compatible con DirectX con 128 MB de VRAM<br></li><li><strong>DirectX®:</strong> 9.0c<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1.5 GB",
+    "dlcs": []
+}

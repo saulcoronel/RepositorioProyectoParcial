@@ -1,0 +1,41 @@
+{
+    "id": 274170,
+    "nombre": "Hotline Miami 2: Wrong Number",
+    "estudio": [
+        "Dennaton Games"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "valoracion": "62741 pos / 3893 neg",
+    "generos": [
+        "Acción",
+        "Indie"
+    ],
+    "tags": [
+        "Great Soundtrack",
+        "Gore",
+        "Pixel Graphics",
+        "Violent",
+        "Action",
+        "Fast-Paced",
+        "Difficult",
+        "Retro",
+        "Top-Down",
+        "1980s"
+    ],
+    "fecha_lanzamiento": "10 MAR 2015",
+    "precio": "Mex$ 178.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Microsoft® Windows® Vista / 7 / 8<br></li><li><strong>Procesador:</strong> 2.4 GHz Intel Core 2 Duo or better<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Gráficos:</strong> OpenGL 3.2 compatible GPU with at least 256MB of VRAM<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 600 MB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> PS4 or Xbox 360 Controller or Direct Input compatible controller</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Microsoft® Windows® Vista / 7 / 8<br></li><li><strong>Procesador:</strong> 2.8 GHz Intel Core 2 Duo or better<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> OpenGL 3.2 compatible GPU with at least 512MB of VRAM<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 600 MB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> PS4 or Xbox 360 Controller or Direct Input compatible controller</li></ul>"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": [
+        {
+            "nombre": "Hotline Miami 2: Wrong Number - Soundtrack",
+            "fecha": "10 Mar, 2015",
+            "precio": "Mex$ 178.99"
+        }
+    ]
+}

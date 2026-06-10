@@ -1,0 +1,39 @@
+{
+    "id": 203160,
+    "nombre": "Tomb Raider Game of the Year",
+    "estudio": [
+        "Crystal Dynamics",
+        "Eidos-Montréal",
+        "Feral Interactive (Mac)",
+        "Nixxes"
+    ],
+    "publisher": [
+        "Crystal Dynamics",
+        "Feral Interactive (Mac)"
+    ],
+    "valoracion": "238239 pos / 9691 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Adventure",
+        "Action",
+        "Female Protagonist",
+        "Third Person",
+        "Singleplayer",
+        "Story Rich",
+        "Third-Person Shooter",
+        "Multiplayer",
+        "Exploration",
+        "Action-Adventure"
+    ],
+    "fecha_lanzamiento": "4 MAR 2013",
+    "precio": "Mex$ 329.00",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP Service Pack 3, Windows Vista,7,8 (32bit/64bit)<br>\t</li><li><strong>Processor:</strong>Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)<br>\t</li><li><strong>Memory:</strong>1GB Memory (2GB on Vista)<br><br>\t</li><li><strong>Graphics:</strong>DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>12 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows Vista, Windows 7 or Windows 8<br>\t</li><li><strong>Processor:</strong>Quad core CPU: AMD Phenom II X4 955, Intel Core i5-750<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX 11 graphics card with 1GB Video RAM: AMD Radeon HD 5870, nVidia GTX 480<br>\t</li><li><strong>DirectX®:</strong>11<br>\t</li><li><strong>Hard Drive:</strong>12 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>"
+    },
+    "peso_estimado": "</li><li><strong>Memory:</strong>1 GB",
+    "dlcs": []
+}

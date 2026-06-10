@@ -1,0 +1,41 @@
+{
+    "id": 620,
+    "nombre": "Portal 2",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "427835 pos / 5675 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Platformer",
+        "Puzzle",
+        "First-Person",
+        "Dark Humor",
+        "Story Rich",
+        "Puzzle-Platformer",
+        "Funny",
+        "Female Protagonist",
+        "3D Platformer",
+        "Action-Adventure"
+    ],
+    "fecha_lanzamiento": "18 ABR 2011",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 / Vista / XP<br></li><li><strong>Procesador:</strong> P4 a 3,0 GHz, doble núcleo a 2,0 GHz (o superior) o AMD64 X2 (o superior)<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> La tarjeta gráfica debe tener un tamaño de 128 MB como mínimo y ser compatible con Pixel Shader 2.0b (ATI Radeon X800 o superior / NVIDIA GeForce 7600 o superior / Gráficos HD Intel 2000 o superior).<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Compatible con DirectX 9.0c</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Portal 2 Soundtrack",
+            "fecha": "24 Sep, 2014",
+            "precio": "N/A"
+        }
+    ]
+}

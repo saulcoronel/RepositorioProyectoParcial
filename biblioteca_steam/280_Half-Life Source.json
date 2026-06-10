@@ -1,0 +1,34 @@
+{
+    "id": 280,
+    "nombre": "Half-Life: Source",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "11068 pos / 4988 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Classic",
+        "Sci-fi",
+        "Singleplayer",
+        "First-Person",
+        "Shooter",
+        "Aliens",
+        "1990's",
+        "Zombies"
+    ],
+    "fecha_lanzamiento": "1 JUN 2004",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo:</strong> procesador de 1,2&nbsp;GHz, 256&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 7, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 2,4&nbsp;GHz, 512&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 9, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

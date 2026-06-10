@@ -1,0 +1,34 @@
+{
+    "id": 22370,
+    "nombre": "Fallout 3: Game of the Year Edition",
+    "estudio": [
+        "Bethesda Game Studios"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "41078 pos / 9515 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "Open World",
+        "RPG",
+        "Post-apocalyptic",
+        "Singleplayer",
+        "Moddable",
+        "First-Person",
+        "Sci-fi",
+        "FPS",
+        "Adventure",
+        "Action"
+    ],
+    "fecha_lanzamiento": "17 DIC 2009",
+    "precio": "Mex$ 359.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong>  <br><ul class=\"bb_ul\"><li><strong>SO: </strong>Windows XP / Vista  <br></li><li><strong>Procesador: </strong>Intel Pentium 4 a 2.4 GHz o equivalente  <br></li><li><strong>Memoria: </strong>1 GB de RAM (XP) / 2 GB de RAM (Vista)  <br></li><li><strong>Disco Duro: </strong>7 GB de espacio libre  <br></li><li><strong>Gráficos: </strong>Gráfica con 256 MB de VRAM y compatible con DirectX 9.0c (nVidia 6800 o superior / ATI X850 o superior)   <br></li><li><strong>Sonido: </strong>Dispositivo compatible con DirectX® 9.0c  <br></li><li><strong>Controladores Soportados: </strong> Controlador de Xbox 360  <br></li><li><strong>Otros Requisitos:</strong> Es necesario iniciar sesión en Games For Windows - Live para poder jugar online  </li></ul><strong>Chipsets gráficos soportados: </strong>  <br><ul class=\"bb_ul\"><li><strong>nVidia</strong> Familias GeForce 200, GeForce 9800, GeForce 9600, GeForce 8800, GeForce 8600, GeForce 8500, GeForce 8400, GeForce 7900, GeForce 7800, GeForce 7600, GeForce 7300, GeForce 6800  <br></li><li><strong>ATI</strong> Familias HD 4800, HD 4600, HD 3800, HD 3600, HD 3400, HD 2900, HD 2600, HD 2400, X1900, X1800, X1600, X1300, X850  </li></ul>",
+        "recomendados": "<strong>Recomendado:</strong>          <br><ul class=\"bb_ul\"><li><strong>SO: </strong>Windows XP / Vista          <br></li><li><strong>Procesador: </strong>Intel Core 2 Duo          <br></li><li><strong>Memoria: </strong>2 GB de RAM           <br></li><li><strong>Disco Duro: </strong>7 GB de espacio libre          <br></li><li><strong>Gráficos: </strong>Tarjeta de 512 MB compatible con Direct X 9.0c (familias nVidia 8800 o ATI 3800)           <br></li><li><strong>Sonido: </strong>DirectX®: 9.0c          <br></li><li><strong>Controlador: </strong> Controlador de Xbox 360          </li></ul>"
+    },
+    "peso_estimado": "</strong>1 GB",
+    "dlcs": []
+}

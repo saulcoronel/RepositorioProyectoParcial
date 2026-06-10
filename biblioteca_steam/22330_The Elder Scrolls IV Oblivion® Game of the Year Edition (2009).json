@@ -1,0 +1,40 @@
+{
+    "id": 22330,
+    "nombre": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+    "estudio": [
+        "Bethesda Game Studios"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "48307 pos / 2354 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Open World",
+        "Fantasy",
+        "Singleplayer",
+        "Moddable",
+        "First-Person",
+        "Adventure",
+        "Exploration",
+        "Great Soundtrack",
+        "Magic"
+    ],
+    "fecha_lanzamiento": "16 JUN 2009",
+    "precio": "Mex$ 269.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows XP / Windows 2000 / Windows XP de 64 bits<br></li><li><strong>Procesador:</strong> Intel Pentium 4 a 2 GHz o equivalente<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Tarjeta Gráfica:</strong> Tarjeta gráfica con 128 MB de VRAM compatible con Direct3D y controladores compatibles con DirectX 9.0<br></li><li><strong>DirectX®:</strong> DirectX 9.0c<br></li><li><strong>Disco Duro:</strong> 4.6 GB de espacio libre<br></li><li><strong>Sonido:</strong> Compatible con DirectX 8.1 </li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "4.6 GB",
+    "dlcs": [
+        {
+            "nombre": "The Elder Scrolls IV: Oblivion - Soundtrack",
+            "fecha": "22 Jun, 2018",
+            "precio": "Mex$ 179.00"
+        }
+    ]
+}

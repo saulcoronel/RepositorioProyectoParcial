@@ -1,0 +1,40 @@
+{
+    "id": 201810,
+    "nombre": "Wolfenstein: The New Order",
+    "estudio": [
+        "MachineGames"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "51691 pos / 4778 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Alternate History",
+        "Shooter",
+        "Singleplayer",
+        "Gore",
+        "First-Person",
+        "World War II",
+        "Atmospheric",
+        "Story Rich"
+    ],
+    "fecha_lanzamiento": "19 MAY 2014",
+    "precio": "Mex$ 359.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> 64-bit Windows 7/Windows 8<br></li><li><strong>Procesador:</strong> Intel Core i7 or equivalent AMD<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce 460, ATI Radeon HD 6850<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>Notas adicionales:</strong> AMD Radeon users: Please install AMD Catalyst™ 14.4</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "Wolfenstein: The New Order - Soundtrack",
+            "fecha": "11 Feb, 2020",
+            "precio": "Mex$ 179.00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 35140,
+    "nombre": "Batman: Arkham Asylum Game of the Year Edition",
+    "estudio": [
+        "Rocksteady Studios"
+    ],
+    "publisher": [
+        "WB Games"
+    ],
+    "valoracion": "70940 pos / 2711 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Action",
+        "Stealth",
+        "Third Person",
+        "Superhero",
+        "Adventure",
+        "Singleplayer",
+        "Open World",
+        "Beat 'em up",
+        "Detective",
+        "Comic Book"
+    ],
+    "fecha_lanzamiento": "26 MAR 2010",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><br><strong>SO:</strong> Vista / XP<br></li><li><strong>Procesador:</strong> Intel a 3 GHz o cualquier AMD Dual Core<br></li><li><strong>Memoria:</strong> 1 GB de RAM (XP) / 2 GB de RAM<br></li><li><strong>Gráficos:</strong> nVidia 6600 PCI Express SM3 / ATI 1300<br></li><li><strong>DirectX®:</strong> 9<br></li><li><strong>Disco Duro:</strong> 8 GB de espacio libre<br></li><li><strong>Sonido:</strong> Cualquier tarjeta integrada<br></li><li><strong>Otros requisitos:</strong> Para jugar online debes iniciar sesión en Games For Windows – Live</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

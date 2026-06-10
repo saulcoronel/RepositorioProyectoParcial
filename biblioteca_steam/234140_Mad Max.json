@@ -1,0 +1,36 @@
+{
+    "id": 234140,
+    "nombre": "Mad Max",
+    "estudio": [
+        "Avalanche Studios"
+    ],
+    "publisher": [
+        "Warner Bros. Games",
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "76230 pos / 6430 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Vehicular Combat",
+        "Post-apocalyptic",
+        "Action",
+        "Driving",
+        "Singleplayer",
+        "Survival",
+        "Third Person",
+        "Adventure",
+        "Exploration"
+    ],
+    "fecha_lanzamiento": "1 SEP 2015",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64 bit: Vista, Win 7, Win 8, Win 10<br></li><li><strong>Procesador:</strong> Intel Core i5-650, 3.2 GHz or AMD Phenom II X4 965, 3.4 Ghz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 660ti (2 GB Memory or higher) or AMD Radeon HD 7870 (2 GB Memory or higher)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 32 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> PlayStation 4 controller support</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64 bit: Win 7 SP1, Win 8.1, Win 10<br></li><li><strong>Procesador:</strong> Intel Core i7-3770, 3.4 GHz or AMD FX-8350, 4.0 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 760 (3 GB Memory or higher) or AMD Radeon HD 7970 (3 GB Memory or higher)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 32 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> PlayStation 4 controller support</li></ul>"
+    },
+    "peso_estimado": "6 GB",
+    "dlcs": []
+}

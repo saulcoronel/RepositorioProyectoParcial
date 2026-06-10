@@ -1,0 +1,34 @@
+{
+    "id": 12130,
+    "nombre": "Manhunt",
+    "estudio": [
+        "Rockstar North"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "4984 pos / 2104 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Gore",
+        "Violent",
+        "Stealth",
+        "Horror",
+        "Action",
+        "Psychological Horror",
+        "Dark",
+        "Blood",
+        "Mature",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "6 ENE 2011",
+    "precio": "Mex$ 109.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><br>                              <ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft® Windows® 2000 / XP sólo<br><br>                              </li><li><strong>Procesador:</strong> Intel Pentium III a 1 GHz o AMD Athlon o equivalente<br><br>                              </li><li><strong>Memoria:</strong> 192 MB de RAM <br><br>                              </li><li><strong>Gráficos:</strong> Tarjeta 3D con 32 MB<br><br>                              </li><li><strong>DirectX:</strong> Microsoft DirectX® 8.1<br><br>                              </li><li><strong>Disco Duro:</strong> 2.3 GB de espacio libre</li></ul><strong>Recomendado:</strong><br><br>                              <ul class=\"bb_ul\"><li><strong>Procesador:</strong> Intel Pentium 4 a 2 GHz o AMD Athlon XP 2000+ (o mejor) o equivalente<br><br>                              </li><li><strong>Memoria:</strong> 512 MB de RAM<br><br>                              </li><li><strong>Gráficos:</strong> Tarjeta 3D con 64 MB<br><br>                              </li><li><strong>Sonido:</strong> Compatible con DirectX 8.1 y sonido posicional por hardware</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2.3 GB",
+    "dlcs": []
+}

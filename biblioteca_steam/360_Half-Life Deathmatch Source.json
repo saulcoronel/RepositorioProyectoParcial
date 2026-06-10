@@ -1,0 +1,34 @@
+{
+    "id": 360,
+    "nombre": "Half-Life Deathmatch: Source",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "3657 pos / 1242 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action",
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "Sci-fi",
+        "First-Person",
+        "Classic",
+        "Remake",
+        "Violent",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "1 MAY 2006",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 (32/64-bit)/Vista/XP<br></li><li><strong>Procesador:</strong> 1.7 GHz Processor, requires support for SSE<br></li><li><strong>Memoria:</strong> 1024 MB de RAM<br></li><li><strong>DirectX:</strong> Versión 8.1<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": []
+}

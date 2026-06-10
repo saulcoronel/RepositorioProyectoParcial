@@ -1,0 +1,32 @@
+services:
+  mongodb:
+    image: mongo:8
+    container_name: mongodb-steam
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_steam_data:/data/db
+
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: chromadb-steam
+    ports:
+      - "8000:8000"
+    volumes:
+      - chromadb_steam_data:/chroma/chroma
+
+  api:
+    build: .
+    container_name: api-steam
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongodb
+      - chromadb
+    environment:
+      - MONGO_URI=mongodb://mongodb-steam:27017/
+      - CHROMA_HOST=chromadb-steam
+
+volumes:
+  mongodb_steam_data:
+  chromadb_steam_data:

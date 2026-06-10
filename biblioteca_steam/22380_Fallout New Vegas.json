@@ -1,0 +1,51 @@
+{
+    "id": 22380,
+    "nombre": "Fallout: New Vegas",
+    "estudio": [
+        "Obsidian Entertainment"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "218763 pos / 8937 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Open World",
+        "RPG",
+        "Post-apocalyptic",
+        "Singleplayer",
+        "Moddable",
+        "Story Rich",
+        "Exploration",
+        "First-Person",
+        "Action",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "19 OCT 2010",
+    "precio": "Mex$ 179.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7 / Vista / XP <br></li><li><strong>Procesador:</strong> Dual Core a 2.0 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Disco Duro:</strong> 10 GB de espacio libre<br></li><li><strong>Gráficos:</strong> Familia nVidia GeForce 6, familia ATI 1300XT</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Fallout New Vegas®: Gun Runners’ Arsenal™",
+            "fecha": "27 Sep, 2011",
+            "precio": "Mex$ 36.00"
+        },
+        {
+            "nombre": "Fallout New Vegas®: Lonesome Road™",
+            "fecha": "20 Sep, 2011",
+            "precio": "Mex$ 89.00"
+        },
+        {
+            "nombre": "Fallout New Vegas: Old World Blues",
+            "fecha": "18 Jul, 2011",
+            "precio": "Mex$ 89.00"
+        }
+    ]
+}

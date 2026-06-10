@@ -1,0 +1,40 @@
+{
+    "id": 70,
+    "nombre": "Half-Life",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "143086 pos / 5135 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "Classic",
+        "1990's",
+        "Singleplayer",
+        "Sci-fi",
+        "Multiplayer",
+        "Shooter",
+        "Action",
+        "First-Person",
+        "Aliens"
+    ],
+    "fecha_lanzamiento": "19 NOV 1998",
+    "precio": "Mex$ 113.99",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Half-Life Soundtrack",
+            "fecha": "24 Sep, 2014",
+            "precio": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 268050,
+    "nombre": "The Evil Within",
+    "estudio": [
+        "Tango Gameworks"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "25820 pos / 4485 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Horror",
+        "Survival Horror",
+        "Psychological Horror",
+        "Gore",
+        "Atmospheric",
+        "Singleplayer",
+        "Action",
+        "Third Person",
+        "Survival",
+        "Zombies"
+    ],
+    "fecha_lanzamiento": "13 OCT 2014",
+    "precio": "Mex$ 359.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64-bit Windows 7 SP1/Windows 8.1<br></li><li><strong>Procesador:</strong> i7 or an equivalent with four plus core processor<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GTX 460 or equivalent 1 GB VRAM card<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> It’s worth noting that the 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64-bit Windows 7 SP1/Windows 8.1<br></li><li><strong>Procesador:</strong> i7 with four plus cores<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 670 or equivalent with 4GBs of VRAM<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> It’s worth noting that the 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "The Evil Within: The Assignment",
+            "fecha": "9 Mar, 2015",
+            "precio": "Mex$ 89.00"
+        },
+        {
+            "nombre": "The Evil Within - The Consequence",
+            "fecha": "20 Apr, 2015",
+            "precio": "Mex$ 89.00"
+        },
+        {
+            "nombre": "The Evil Within: The Executioner",
+            "fecha": "25 May, 2015",
+            "precio": "Mex$ 54.00"
+        }
+    ]
+}

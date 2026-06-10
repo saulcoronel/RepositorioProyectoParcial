@@ -1,0 +1,48 @@
+{
+    "id": 105600,
+    "nombre": "Terraria",
+    "estudio": [
+        "Re-Logic"
+    ],
+    "publisher": [
+        "Re-Logic"
+    ],
+    "valoracion": "1373979 pos / 35494 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Rol"
+    ],
+    "tags": [
+        "Open World Survival Craft",
+        "Sandbox",
+        "Survival",
+        "2D",
+        "Multiplayer",
+        "Adventure",
+        "Pixel Graphics",
+        "Crafting",
+        "Building",
+        "Exploration"
+    ],
+    "fecha_lanzamiento": "16 MAY 2011",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP / Vista / 7<br></li><li><strong>Procesador:</strong> 1.6 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Disco Duro:</strong> 200 MB de espacio libre<br></li><li><strong>Gráficos:</strong> Shader Model 1.1 con 128 MB de VRAM<br></li><li><strong>DirectX®:</strong> 9.0c o posterior</li></ul>",
+        "recomendados": "<h2 class=\"bb_tag\" ><strong>RECOMMENDED</strong></h2><ul class=\"bb_ul\"><li><strong>OS: Windows 7, 8/8.1, 10</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Processor: Dual Core 3.0 Ghz</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Memory: 4GB</strong><br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Hard Disk Space: 200MB </strong> \t<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Video Card: 256mb Video Memory, capable of Shader Model 2.0+</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>DirectX®: 9.0c or Greater</strong> \t<br>\t\t\t\t\t\t\t\t\t</li></ul>"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Terraria: Official Soundtrack",
+            "fecha": "13 Oct, 2015",
+            "precio": "Mex$ 64.49"
+        },
+        {
+            "nombre": "Terraria: Otherworld Official Soundtrack",
+            "fecha": "25 Jun, 2020",
+            "precio": "Mex$ 64.49"
+        }
+    ]
+}

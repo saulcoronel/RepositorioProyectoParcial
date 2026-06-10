@@ -1,0 +1,36 @@
+{
+    "id": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "estudio": [
+        "Rockstar North",
+        "Rockstar Toronto"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "144493 pos / 30691 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Automobile Sim",
+        "Multiplayer",
+        "Crime",
+        "Third Person",
+        "Adventure",
+        "Singleplayer",
+        "Third-Person Shooter",
+        "Moddable"
+    ],
+    "fecha_lanzamiento": "24 MAR 2020",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 (64-bit)    <br></li><li><strong>Procesador:</strong> Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4 GHz          <br></li><li><strong>Memoria:</strong> 1.5 GB de RAM           <br></li><li><strong>Gráficos:</strong> nVidia 7900 con 256 MB / ATI X1900 con 256 MB          <br></li><li><strong>Versión de DirectX:</strong> DirectX 9.0c          <br></li><li><strong>Disco Duro:</strong> 22 GB de espacio libre          <br></li><li><strong>Sonido:</strong> Dispositivo de sonido 5.1          <br></li><li><strong>Otros Requisitos:</strong> Es necesario disponer de conexión a Internet para la activación inicial; para jugar online es necesario iniciar sesión en Rockstar Games Social Club (necesario ser mayor de 13 años para registrarse); es necesaria la instalación de software adicional, incluyendo DirectX w .NET Framework 3.0 de Microsoft.</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1.5 GB",
+    "dlcs": []
+}

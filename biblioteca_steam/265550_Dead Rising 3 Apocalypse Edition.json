@@ -1,0 +1,34 @@
+{
+    "id": 265550,
+    "nombre": "Dead Rising 3 Apocalypse Edition",
+    "estudio": [
+        "Capcom Game Studio Vancouver"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "14615 pos / 4459 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Zombies",
+        "Open World",
+        "Action",
+        "Co-op",
+        "Gore",
+        "Survival",
+        "Comedy",
+        "Open World Survival Craft",
+        "Multiplayer",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "5 SEP 2014",
+    "precio": "Mex$ 449.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit edition, Windows 8 64-bit edition<br></li><li><strong>Procesador:</strong> Intel Core i3-3220 @ 3.30GHz (or Intel Core 2 Quad Q9550 @ 2.83GHz) / AMD Phenom II X4 945 @ 3.00 GHz or higher<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 570 / AMD Radeon 7870 or higher<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11 Compatible sound card<br></li><li><strong>Notas adicionales:</strong> Broadband internet connection is required for Co-op play.</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit edition, Windows 8 64-bit edition<br></li><li><strong>Procesador:</strong> Intel Core i5-4570 CPU @ 3.20GHz or AMD equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce GTX 670 2GB / AMD Radeon 7970 2GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11 Compatible sound card<br></li><li><strong>Notas adicionales:</strong> Broadband internet connection is required for Co-op play.  An Xbox 360 Controller for Windows or other Xinput-compatible controller is recommended for this game.</li></ul>"
+    },
+    "peso_estimado": "6 GB",
+    "dlcs": []
+}

@@ -1,0 +1,51 @@
+{
+    "id": 268910,
+    "nombre": "Cuphead",
+    "estudio": [
+        "Studio MDHR Entertainment Inc."
+    ],
+    "publisher": [
+        "Studio MDHR Entertainment Inc."
+    ],
+    "valoracion": "179894 pos / 6941 neg",
+    "generos": [
+        "Acción",
+        "Indie"
+    ],
+    "tags": [
+        "Difficult",
+        "Cartoon",
+        "Co-op",
+        "Platformer",
+        "Great Soundtrack",
+        "Local Co-Op",
+        "2D",
+        "Multiplayer",
+        "Hand-drawn",
+        "Indie"
+    ],
+    "fecha_lanzamiento": "29 SEP 2017",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher<br></li><li><strong>Memoria:</strong> 3 GB de RAM<br></li><li><strong>Gráficos:</strong> Geforce 9600 GT or AMD HD 3870 512MB or higher<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+    },
+    "peso_estimado": "3 GB",
+    "dlcs": [
+        {
+            "nombre": "Cuphead - The Delicious Last Course",
+            "fecha": "30 Jun, 2022",
+            "precio": "Mex$ 72.99"
+        },
+        {
+            "nombre": "Cuphead - Official Soundtrack",
+            "fecha": "29 Sep, 2017",
+            "precio": "Mex$ 109.99"
+        },
+        {
+            "nombre": "Cuphead DLC - Official Soundtrack",
+            "fecha": "4 Jul, 2022",
+            "precio": "Mex$ 57.99"
+        }
+    ]
+}

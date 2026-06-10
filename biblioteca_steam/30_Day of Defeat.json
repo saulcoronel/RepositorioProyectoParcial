@@ -1,0 +1,34 @@
+{
+    "id": 30,
+    "nombre": "Day of Defeat",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "6414 pos / 688 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "World War II",
+        "Multiplayer",
+        "Shooter",
+        "Action",
+        "War",
+        "Team-Based",
+        "Classic",
+        "First-Person",
+        "Class-Based"
+    ],
+    "fecha_lanzamiento": "1 MAY 2003",
+    "precio": "Mex$ 64.49",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

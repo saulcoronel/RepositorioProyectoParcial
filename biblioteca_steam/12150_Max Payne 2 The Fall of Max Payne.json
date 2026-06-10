@@ -1,0 +1,34 @@
+{
+    "id": 12150,
+    "nombre": "Max Payne 2: The Fall of Max Payne",
+    "estudio": [
+        "Remedy Entertainment"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "11282 pos / 652 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action",
+        "Noir",
+        "Third-Person Shooter",
+        "Classic",
+        "Bullet Time",
+        "Story Rich",
+        "Shooter",
+        "Singleplayer",
+        "Atmospheric",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "6 ENE 2011",
+    "precio": "Mex$ 109.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft® Windows® 2000 / XP<br></li><li><strong>Procesador:</strong> PIII / Athlon a 1 GHz o Celeron / Duron a 1.2 GHz<br></li><li><strong>Memoria:</strong> 256 MB de RAM<br></li><li><strong>Gráficos:</strong> Tarjeta gráfica AGP con 32 MB y con soporte de Hardware T&amp;L<br></li><li><strong>Versión de DirectX:</strong> DirectX 9.0<br></li><li><strong>Disco Duro:</strong> 1.5 GB de espacio libre<br></li><li><strong>Sonido:</strong> Dispositivo de sonido compatible con DirectSound<br></li><li><strong>Entrada:</strong> Teclado y ratón</li></ul><strong>Recomendado: </strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft® Windows® 2000 / XP<br></li><li><strong>Procesador:</strong> PIII / Athlon a 1 GHz o Celeron / Duron a 1.2 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Gráficos:</strong> Tarjeta gráfica AGP con 64 MB y con soporte de Hardware T&amp;L<br></li><li><strong>Versión de DirectX:</strong> DirectX 9.0<br></li><li><strong>Disco Duro:</strong> 1.5 GB de espacio libre<br></li><li><strong>Sonido:</strong> Dispositivo de sonido compatible con DirectSound<br></li><li><strong>Entrada:</strong> Teclado y ratón</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1.5 GB",
+    "dlcs": []
+}

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+chromadb
+sentence-transformers
+requests

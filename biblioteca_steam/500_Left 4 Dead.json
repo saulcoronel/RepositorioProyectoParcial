@@ -1,0 +1,34 @@
+{
+    "id": 500,
+    "nombre": "Left 4 Dead",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "59622 pos / 2272 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Zombies",
+        "Co-op",
+        "Multiplayer",
+        "FPS",
+        "Action",
+        "Horror",
+        "Shooter",
+        "Online Co-Op",
+        "Survival",
+        "Team-Based"
+    ],
+    "fecha_lanzamiento": "17 NOV 2008",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br>  <ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7 32/64 bits / Vista 32/64 bits / XP<br>  </li><li><strong>Procesador:</strong> Pentium 4 a 3 GHz <br>  </li><li><strong>Memoria:</strong> 1 GB de RAM<br>  </li><li><strong>Gráficos:</strong> ATI 9600, nVidia 6600 o superior con 128 MB y compatible con Pixel Shader 2.0<br>  </li><li><strong>Disco Duro:</strong> 7.5 GB de espacio libre<br>  </li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c<br>  </li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br>   <ul class=\"bb_ul\"><li><strong>SO Soportado:</strong> Windows® 7 32/64 bits / Vista 32/64 bits / XP<br>   </li><li><strong>Procesador:</strong> Intel Core 2 Duo a 2.4 GHz<br>   </li><li><strong>Memoria:</strong> 1 GB de RAM<br>   </li><li><strong>Gráficos:</strong> nVidia 7600, ATI X1600 o superior, compatible con Pixel Shader 3.0<br>   </li></ul>"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

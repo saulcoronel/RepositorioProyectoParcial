@@ -1,0 +1,34 @@
+{
+    "id": 240,
+    "nombre": "Counter-Strike: Source",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "175426 pos / 6808 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Shooter",
+        "FPS",
+        "Action",
+        "Multiplayer",
+        "Team-Based",
+        "First-Person",
+        "Competitive",
+        "Tactical",
+        "PvP",
+        "e-sports"
+    ],
+    "fecha_lanzamiento": "1 NOV 2004",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo: </strong>Procesador a 1.7&nbsp;GHz, 512 MB de RAM, gráfica compatible con DirectX&reg; 8.1 (requiere compatibilidad con SSE), Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>\n\n<p><strong>Recomendado: </strong>Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX&reg; 9, Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

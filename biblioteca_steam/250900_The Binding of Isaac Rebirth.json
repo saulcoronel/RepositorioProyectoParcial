@@ -1,0 +1,51 @@
+{
+    "id": 250900,
+    "nombre": "The Binding of Isaac: Rebirth",
+    "estudio": [
+        "Nicalis, Inc.",
+        "Edmund McMillen"
+    ],
+    "publisher": [
+        "Nicalis, Inc."
+    ],
+    "valoracion": "334165 pos / 9255 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action Roguelike",
+        "Rogue-like",
+        "Indie",
+        "Replay Value",
+        "Difficult",
+        "Pixel Graphics",
+        "Dungeon Crawler",
+        "Great Soundtrack",
+        "Singleplayer",
+        "Dark"
+    ],
+    "fecha_lanzamiento": "4 NOV 2014",
+    "precio": "Mex$ 149.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> XP<br></li><li><strong>Procesador:</strong> Core 2 Duo<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> Discreet video card<br></li><li><strong>Almacenamiento:</strong> 449 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Yes</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 8 / 7 / Vista / XP<br></li><li><strong>Procesador:</strong> 2.4 GHz Quad Core 2.0 (or higher)<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up<br></li><li><strong>Almacenamiento:</strong> 449 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Yes</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "The Binding of Isaac: Repentance+",
+            "fecha": "18 Nov, 2024",
+            "precio": "N/A"
+        },
+        {
+            "nombre": "The Binding of Isaac: Repentance",
+            "fecha": "31 Mar, 2021",
+            "precio": "N/A"
+        },
+        {
+            "nombre": "The Binding of Isaac: Afterbirth",
+            "fecha": "30 Oct, 2015",
+            "precio": "Mex$ 119.99"
+        }
+    ]
+}

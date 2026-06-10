@@ -1,0 +1,34 @@
+{
+    "id": 9480,
+    "nombre": "Saints Row 2",
+    "estudio": [
+        "Volition"
+    ],
+    "publisher": [
+        "Deep Silver"
+    ],
+    "valoracion": "15420 pos / 5046 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Character Customization",
+        "Sandbox",
+        "Third-Person Shooter",
+        "Comedy",
+        "Co-op",
+        "Crime",
+        "Third Person",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "7 ENE 2009",
+    "precio": "Mex$ 160.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong>     <br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP o Vista.     <br></li><li><strong>Procesador: </strong>Intel Pentium IV Dual Core a 2.0 GHz o equivalente o AMD Athlon XP Dual Core o equivalente     <br></li><li><strong>Memoria: </strong>1 GB de RAM      <br></li><li><strong>Gráficos: </strong>Tarjeta gráfica con 128MB y compatible con Shader Model 3.0 (p. ej. 7600 NVidia o superior, ATI X1300 o superior)     <br></li><li><strong>Versión DirectX: </strong>DirectX 9.0c      <br></li><li><strong>Sonido: </strong>Dispositivo de sonido de 16 bits compatible con DirectX 9.0c     <br></li><li><strong>Disco Duro: </strong>15 GB de espacio libre     <br></li><li><strong>Pantalla: </strong>Compatible con DirectX y con una resolución de 640x480 en 16 bits de color     <br></li><li><strong>Multijugador: </strong>Para jugar vía Internet es necesario una conexión de banda ancha y los últimos drivers; para jugar vía LAN es necesario una tarjeta de interfaz de red y los últimos drivers     </li></ul>",
+        "recomendados": "<strong>Recomendado:</strong>   <br><ul class=\"bb_ul\"><li><strong>SO: </strong>Windows XP o Vista.      <br></li><li><strong>Procesador: </strong>Intel Pentium IV Dual Core a 3.2 GHz o equivalente / AMD Athlon XP Dual Core o equivalente   <br></li><li><strong>Memoria: </strong>2 GB de RAM    <br></li><li><strong>Gráficos: </strong>Tarjeta gráfica 3D con 256 MB y compatible con Shader Model 3.0 (8800 nVidia o superior, ATI HD3850 o superior)   <br></li><li><strong>Versión de DirectX: </strong>DirectX 9.0c    <br></li><li><strong>Sonido: </strong>Dispositivo de sonido de 16 bits compatible con DirectX 9.0c   <br></li><li><strong>Disco Duro: </strong>15 GB de espacio libre   <br></li><li><strong>Pantalla: </strong>Compatible con DirectX y con una resolución de 640x480 en 16 bits de color   <br></li><li><strong>Multijugador: </strong>Para jugar vía Internet es necesario una conexión de banda ancha y los últimos drivers; para jugar vía LAN es necesario una tarjeta de interfaz de red y los últimos drivers </li></ul>"
+    },
+    "peso_estimado": "</strong>1 GB",
+    "dlcs": []
+}

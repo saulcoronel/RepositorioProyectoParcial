@@ -1,0 +1,37 @@
+{
+    "id": 108600,
+    "nombre": "Project Zomboid",
+    "estudio": [
+        "The Indie Stone"
+    ],
+    "publisher": [
+        "The Indie Stone"
+    ],
+    "valoracion": "355171 pos / 21892 neg",
+    "generos": [
+        "Indie",
+        "Rol",
+        "Simuladores",
+        "Acceso anticipado"
+    ],
+    "tags": [
+        "Survival",
+        "Zombies",
+        "Open World",
+        "Multiplayer",
+        "Open World Survival Craft",
+        "Sandbox",
+        "Post-apocalyptic",
+        "Co-op",
+        "Crafting",
+        "Building"
+    ],
+    "fecha_lanzamiento": "8 NOV 2013",
+    "precio": "Mex$ 227.99",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 64 Bit<br>\t</li><li> 64bit OS required<br>\t</li><li><strong>Processor:</strong> Intel 2.77GHz Quad-core<br>\t</li><li><strong>Memory:</strong> 8Gb Ram<br>\t</li><li><strong>Hard Disk Space:</strong> 5gig \t<br>\t</li><li><strong>Video Card:</strong>  Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)<br>        </li><li><strong>Sound:</strong> FMOD compatible sound card\t</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

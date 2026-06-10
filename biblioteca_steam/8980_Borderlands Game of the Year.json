@@ -1,0 +1,35 @@
+{
+    "id": 8980,
+    "nombre": "Borderlands Game of the Year",
+    "estudio": [
+        "Gearbox Software"
+    ],
+    "publisher": [
+        "2K"
+    ],
+    "valoracion": "28944 pos / 3579 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Looter Shooter",
+        "FPS",
+        "Co-op",
+        "RPG",
+        "Action",
+        "Loot",
+        "Shooter",
+        "Online Co-Op",
+        "First-Person",
+        "Open World"
+    ],
+    "fecha_lanzamiento": "31 AGO 2023",
+    "precio": "Mex$ 499.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP/Vista<br><br>                                                                        </li><li><strong>Procesador:</strong> 2.4 Ghz o procesador equivalente<br><br>                                                                        </li><li><strong>Memoria:</strong> 1GB de RAM (2GB recomendados para Vista) <br><br>                                                                        </li><li><strong>Gráficos:</strong> Tarjeta de 256mb o más (GeForce serie 9 o superior/Serie Radeon R8xx)<br><br>                                                                        </li><li><strong>Disco Duro:</strong> 8 GB o más de espacio libre <br><br>                                                                        </li><li><strong>Sonido:</strong> Tarjeta compatible con Windows <br><br>                                                                        </li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

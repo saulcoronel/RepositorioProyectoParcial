@@ -1,0 +1,51 @@
+{
+    "id": 225540,
+    "nombre": "Just Cause™ 3",
+    "estudio": [
+        "Avalanche Studios"
+    ],
+    "publisher": [
+        "Square Enix"
+    ],
+    "valoracion": "102532 pos / 19629 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Destruction",
+        "Third-Person Shooter",
+        "Multiplayer",
+        "Singleplayer",
+        "Shooter",
+        "Adventure",
+        "Sandbox",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "30 NOV 2015",
+    "precio": "Mex$ 199.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)<br></li><li><strong>Procesador:</strong> Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)<br></li><li><strong>Almacenamiento:</strong> 54 GB de espacio disponible</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)<br></li><li><strong>Procesador:</strong> Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)<br></li><li><strong>Almacenamiento:</strong> 54 GB de espacio disponible</li></ul>"
+    },
+    "peso_estimado": "8 GB",
+    "dlcs": [
+        {
+            "nombre": "Just Cause™ 3: Multiplayer Mod",
+            "fecha": "20 Jul, 2017",
+            "precio": "N/A"
+        },
+        {
+            "nombre": "Just Cause™ 3 DLC: Air, Land & Sea Expansion Pass",
+            "fecha": "30 Nov, 2015",
+            "precio": "Mex$ 225.00"
+        },
+        {
+            "nombre": "Just Cause™ 3 DLC: Bavarium Sea Heist Pack",
+            "fecha": "18 Aug, 2016",
+            "precio": "Mex$ 59.00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 40990,
+    "nombre": "Mafia",
+    "estudio": [
+        "Illusion Softworks"
+    ],
+    "publisher": [
+        "2K"
+    ],
+    "valoracion": "13346 pos / 1911 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Action",
+        "Story Rich",
+        "Crime",
+        "Open World",
+        "Classic",
+        "Atmospheric",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Third Person",
+        "Violent"
+    ],
+    "fecha_lanzamiento": "28 AGO 2002",
+    "precio": "Mex$ 189.90",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Procesador:</strong> 1.4 GHz or faster<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> 3D Graphics card compatible with DirectX 9.0<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c compatible sound card <ul class=\"bb_ul\"></ul><strong>Compatibility notice:</strong> Windows 8 and above require DirectPlay. Windows XP 64-bit is not supported.</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

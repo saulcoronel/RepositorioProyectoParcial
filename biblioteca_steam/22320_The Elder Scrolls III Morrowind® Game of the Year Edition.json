@@ -1,0 +1,40 @@
+{
+    "id": 22320,
+    "nombre": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+    "estudio": [
+        "Bethesda Game Studios"
+    ],
+    "publisher": [
+        "Bethesda Softworks"
+    ],
+    "valoracion": "25172 pos / 1212 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Open World",
+        "Fantasy",
+        "Classic",
+        "Great Soundtrack",
+        "Moddable",
+        "Singleplayer",
+        "First-Person",
+        "Adventure",
+        "Cult Classic"
+    ],
+    "fecha_lanzamiento": "16 JUN 2009",
+    "precio": "Mex$ 269.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows ME/98/XP/2000<br><br>                                                            </li><li><strong>Procesador:</strong> 500 MHz Intel Pentium III, Celeron, o AMD Athlon<br><br>                                                            </li><li><strong>Memoria:</strong> 256 MB<br><br>                                                            </li><li><strong>Tarjeta Gráfica:</strong> Tarjeta de video con 32MB y 32 bits de profundidad de color, compatible con Direct3D y DirectX 8.1 <br><br>                                                            </li><li><strong>DirectX®:</strong> 8.1 <br><br>                                                            </li><li><strong>Disco Duro:</strong> 1GB de espacio libre en disco<br><br>                                                            </li><li><strong>Tarjeta de Sonido:</strong> Tarjeta de Sonido compatible con DirectX 8.1 <br><br>                                                            </li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": [
+        {
+            "nombre": "The Elder Scrolls III: Morrowind Soundtrack",
+            "fecha": "21 Jun, 2018",
+            "precio": "Mex$ 179.00"
+        }
+    ]
+}

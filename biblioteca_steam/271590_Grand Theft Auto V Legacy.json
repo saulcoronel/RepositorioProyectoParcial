@@ -1,0 +1,35 @@
+{
+    "id": 271590,
+    "nombre": "Grand Theft Auto V Legacy",
+    "estudio": [
+        "Rockstar North"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "1739980 pos / 250576 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Multiplayer",
+        "Crime",
+        "Automobile Sim",
+        "Third Person",
+        "First-Person",
+        "Mature",
+        "Shooter",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "13 ABR 2015",
+    "precio": "Gratis/N/A",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Core 2 Quad CPU Q6600 a 2,4 GHz (4 CPU)/AMD Phenom 9850 Quad-Core (4 CPU) a 2,5 GHz.<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA 9800 GT 1 GB/AMD HD 4870 1 GB (DX 10, 10.1, 11).<br></li><li><strong>Almacenamiento:</strong> 125 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> compatible con DirectX 10.<br></li><li><strong>Notas adicionales:</strong> Con el tiempo, las descargas de contenido y los cambios en la programación modificarán los requisitos del sistema para este juego. Consulta con el fabricante del hardware y visita  para conocer la información sobre compatibilidad más actualizada. Algunos componentes, como chipsets móviles, integrados y tarjetas gráficas AGP podrían no ser compatibles. Los requisitos no especificados podrían no ser compatibles con los del editor.  Otros requisitos: para instalar y jugar en línea hay que iniciar sesión en la red del Social Club de Rockstar Games (mayores de 13 años); se necesita conexión a Internet para la activación, el juego en línea y la verificación periódica de la autorización; necesita instalar software, como la plataforma del Social Club de Rockstar Games, DirectX , Chromium, Microsoft Visual C++ 2008 SP1 Redistributable Package, y software de autentificación que examina determinados atributos del hardware para autorización, gestión de derechos digitales, sistema y otros propósitos de apoyo.  NECESITA REGISTRAR POR INTERNET UN CÓDIGO DE SERIE DE UN SOLO USO; EL REGISTRO ESTÁ LIMITADO A UNA CUENTA DEL SOCIAL CLUB DE ROCKSTAR GAMES (MAYORES DE 13 AÑOS) POR CÓDIGO DE SERIE; NO ADMITE MÁS DE UN INICIO DE SESIÓN SIMULTÁNEO POR CUENTA DEL SOCIAL CLUB; UNA VEZ USADOS, LOS CÓDIGOS DE SERIE NO SON TRANSFERIBLES; LAS CUENTAS DEL SOCIAL CLUB NO SON TRANSFERIBLES.  Requisitos del colaborador: revisa las condiciones de servicio de este sitio web antes de comprar el software.</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Core i5 3470 a 3,2 GHz (4 CPU)/AMD X8 FX-8350 a 4 GHz (8 CPU).<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 660 2 GB/AMD HD7870 2 GB.<br></li><li><strong>Almacenamiento:</strong> 125 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> compatible con DirectX 10.</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": []
+}

@@ -1,0 +1,36 @@
+{
+    "id": 250320,
+    "nombre": "The Wolf Among Us",
+    "estudio": [
+        "Telltale"
+    ],
+    "publisher": [
+        "Telltale"
+    ],
+    "valoracion": "34914 pos / 764 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Casual"
+    ],
+    "tags": [
+        "Adventure",
+        "Detective",
+        "Story Rich",
+        "Episodic",
+        "Choose Your Own Adventure",
+        "Point & Click",
+        "Noir",
+        "Mature",
+        "Choices Matter",
+        "Visual Novel"
+    ],
+    "fecha_lanzamiento": "11 OCT 2013",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP Service Pack 3<br></li><li><strong>Procesador:</strong> Core 2 Duo 2GHz or equivalent<br></li><li><strong>Memoria:</strong> 3 GB de RAM<br></li><li><strong>Gráficos:</strong> ATI or NVidia card w/ 512 MB RAM<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Direct X 9.0c sound device<br></li><li><strong>Notas adicionales:</strong> Not recommended for Intel integrated graphics</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Core 2 Duo 2.3 Ghz or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> ATI or NVidia card w/ 1024 MB RAM<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Direct X 9.0c sound device<br></li><li><strong>Notas adicionales:</strong> Not recommended for Intel integrated graphics</li></ul>"
+    },
+    "peso_estimado": "3 GB",
+    "dlcs": []
+}

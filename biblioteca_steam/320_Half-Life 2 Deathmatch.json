@@ -1,0 +1,34 @@
+{
+    "id": 320,
+    "nombre": "Half-Life 2: Deathmatch",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "12962 pos / 1334 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action",
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "First-Person",
+        "Sci-fi",
+        "Physics",
+        "Competitive",
+        "Funny",
+        "Co-op"
+    ],
+    "fecha_lanzamiento": "1 NOV 2004",
+    "precio": "Gratis/N/A",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo:</strong> procesador de 1,2&nbsp;GHz, 256&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 7, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 2,4&nbsp;GHz, 512&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 9, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

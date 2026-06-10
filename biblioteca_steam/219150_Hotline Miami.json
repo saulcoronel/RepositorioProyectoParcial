@@ -1,0 +1,41 @@
+{
+    "id": 219150,
+    "nombre": "Hotline Miami",
+    "estudio": [
+        "Dennaton Games"
+    ],
+    "publisher": [
+        "Devolver Digital"
+    ],
+    "valoracion": "103599 pos / 3058 neg",
+    "generos": [
+        "Acción",
+        "Indie"
+    ],
+    "tags": [
+        "Great Soundtrack",
+        "Violent",
+        "Action",
+        "Indie",
+        "Pixel Graphics",
+        "Top-Down",
+        "Gore",
+        "1980s",
+        "Fast-Paced",
+        "Retro"
+    ],
+    "fecha_lanzamiento": "23 OCT 2012",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Microsoft® Windows® XP / Vista / 7<br>\t</li><li><strong>Processor:</strong>1.2GHz processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX 8-compatible graphics card with at least 32MB of video memory<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>250 MB HD space<br>\t</li><li><strong>Additional:</strong>Microsoft Xbox 360 Controller or Direct Input compatible controller, OpenGL 2.x or better highly recommended.</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Microsoft® Windows® XP / Vista / 7<br>\t</li><li><strong>Processor:</strong>1.4GHz processor or faster<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX 8-compatible graphics card with at least 32MB of video memory<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>250 MB HD space<br>\t</li><li><strong>Additional:</strong>Microsoft Xbox 360 Controller or Direct Input compatible controller</li></ul>"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Hotline Miami Soundtrack",
+            "fecha": "24 Jan, 2013",
+            "precio": "Mex$ 123.99"
+        }
+    ]
+}

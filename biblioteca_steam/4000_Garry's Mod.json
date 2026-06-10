@@ -1,0 +1,36 @@
+{
+    "id": 4000,
+    "nombre": "Garry's Mod",
+    "estudio": [
+        "Facepunch Studios"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "1122546 pos / 37161 neg",
+    "generos": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+    ],
+    "tags": [
+        "Sandbox",
+        "Moddable",
+        "Multiplayer",
+        "Physics",
+        "Building",
+        "Casual",
+        "Funny",
+        "First-Person",
+        "Singleplayer",
+        "FPS"
+    ],
+    "fecha_lanzamiento": "29 NOV 2006",
+    "precio": "Mex$ 109.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10<br></li><li><strong>Procesador:</strong> 2 GHz Processor or better<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> 1GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX® 9 compatible<br></li><li><strong>Notas adicionales:</strong> Mouse, Keyboard, Monitor</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10/11<br></li><li><strong>Procesador:</strong> 2.5 GHz Processor or better<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 4GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": []
+}

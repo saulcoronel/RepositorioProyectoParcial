@@ -1,0 +1,43 @@
+{
+    "id": 8850,
+    "nombre": "BioShock® 2",
+    "estudio": [
+        "2K Marin",
+        "2K China",
+        "Digital Extremes",
+        "2K Australia"
+    ],
+    "publisher": [
+        "2K"
+    ],
+    "valoracion": "12864 pos / 1555 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Singleplayer",
+        "Story Rich",
+        "Atmospheric",
+        "Horror",
+        "First-Person",
+        "Shooter",
+        "Steampunk",
+        "Sci-fi"
+    ],
+    "fecha_lanzamiento": "9 FEB 2010",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP, Vista, Windows 7<br></li><li><strong>Procesador:</strong> AMD Athlon 64 3800+ a 2.4Ghz o superior, Intel Pentium 4 530 a 3.0 Ghz o superior<br></li><li><strong>Memoria:</strong> 2 Gb<br></li><li><strong>Gráficos:</strong> nVidia 7800GT con 256 Mb o superior, ATI Radeon X1900 con 256 Mb o superior<br></li><li><strong>DirectX®:</strong> DirectX 9.0c<br></li><li><strong>Disco Duro:</strong> 11 Gb<br></li><li><strong>Sonido:</strong> 100% compatible con DirectX 9.0C</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>Procesador:</strong> AMD Athlon 64 X2 5200+ Dual Core a 2.60Ghz, Intel Core 2 Duo E6420 Dual Core a 2.13 Ghz<br></li><li><strong>Memoria:</strong> 3 Gb<br></li><li><strong>Gráficos:</strong> nVidia 8800GT con 512 Mb o superior, ATI Radeon HD4830 con 512 Mb o superior<br></li><li><strong>Otros Requerimientos:</strong> La instalación inicial requiere realizar una conexión a internet; las instalaciones de software requeridas incluyen las librerías Microsoft Visual C++2008 Runtime, Microsoft DirectX.</li></ul>"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "BioShock 2: Minerva’s Den",
+            "fecha": "2 Oct, 2013",
+            "precio": "Mex$ 109.99"
+        }
+    ]
+}

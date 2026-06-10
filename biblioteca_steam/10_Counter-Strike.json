@@ -1,0 +1,34 @@
+{
+    "id": 10,
+    "nombre": "Counter-Strike",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "243818 pos / 6427 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action",
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "Classic",
+        "Team-Based",
+        "First-Person",
+        "Competitive",
+        "Tactical",
+        "1990's"
+    ],
+    "fecha_lanzamiento": "1 NOV 2000",
+    "precio": "Mex$ 113.99",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

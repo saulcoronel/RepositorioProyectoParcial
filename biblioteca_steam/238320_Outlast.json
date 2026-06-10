@@ -1,0 +1,42 @@
+{
+    "id": 238320,
+    "nombre": "Outlast",
+    "estudio": [
+        "Red Barrels"
+    ],
+    "publisher": [
+        "Red Barrels"
+    ],
+    "valoracion": "121220 pos / 4458 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Indie"
+    ],
+    "tags": [
+        "Horror",
+        "First-Person",
+        "Survival Horror",
+        "Atmospheric",
+        "Psychological Horror",
+        "Gore",
+        "Singleplayer",
+        "Survival",
+        "Dark",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "4 SEP 2013",
+    "precio": "Mex$ 178.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP / Vista / 7 / 8 - 64 bits *<br></li><li><strong>Procesador:</strong> 2.2 GHz Dual Core CPU<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> 512 MB NVIDIA GeForce 9800GTX / ATI Radeon HD 3xxx series<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible<br></li><li><strong>Notas adicionales:</strong> * 32 bits systems are not officially supported, but should work if configured to provide 3Gb of user-mode address space. See  or </li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows Vista / 7 / 8 - 64 bits<br></li><li><strong>Procesador:</strong> 2.8 GHz Quad Core CPU<br></li><li><strong>Memoria:</strong> 3 GB de RAM<br></li><li><strong>Gráficos:</strong> 1GB NVIDIA GTX 460 / ATI Radeon HD 6850 or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Outlast: Whistleblower DLC",
+            "fecha": "6 May, 2014",
+            "precio": "Mex$ 64.49"
+        }
+    ]
+}

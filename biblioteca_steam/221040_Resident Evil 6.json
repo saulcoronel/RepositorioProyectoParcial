@@ -1,0 +1,51 @@
+{
+    "id": 221040,
+    "nombre": "Resident Evil 6",
+    "estudio": [
+        "Capcom"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "42993 pos / 11727 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Zombies",
+        "Action",
+        "Co-op",
+        "Third-Person Shooter",
+        "Horror",
+        "Co-op Campaign",
+        "Online Co-Op",
+        "Multiplayer",
+        "Adventure",
+        "Split Screen"
+    ],
+    "fecha_lanzamiento": "21 MAR 2013",
+    "precio": "Mex$ 289.00",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows®10<br>\t</li><li><strong>Processor:</strong>: Intel® CoreTM2 Duo 2.4 Ghz or better, AMD AthlonTM X2 2.8 Ghz or better\t\t<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA® GeForce® 8800GTS or better\t\t<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>16 GB HD space<br>\t</li><li><strong>Sound:</strong>Standard audio device<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows®10<br>\t</li><li><strong>Processor:</strong>Intel® CoreTM2 Quad 2.7 Ghz or better, AMD PhenomTM II X4 3 Ghz or better<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA® GeForce® GTX 560 or better\t\t<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>16 GB HD space<br>\t</li><li><strong>Sound:</strong>Standard audio device</li></ul>"
+    },
+    "peso_estimado": "</li><li><strong>Memory:</strong>2 GB",
+    "dlcs": [
+        {
+            "nombre": "Resident Evil 6: Siege Mode",
+            "fecha": "25 Apr, 2013",
+            "precio": "Mex$ 79.00"
+        },
+        {
+            "nombre": "Resident Evil 6: Predator mode",
+            "fecha": "11 Apr, 2013",
+            "precio": "Mex$ 79.00"
+        },
+        {
+            "nombre": "Resident Evil 6: Survivors Mode",
+            "fecha": "11 Apr, 2013",
+            "precio": "Mex$ 79.00"
+        }
+    ]
+}

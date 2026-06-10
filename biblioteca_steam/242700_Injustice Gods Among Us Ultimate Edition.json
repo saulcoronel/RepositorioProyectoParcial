@@ -1,0 +1,35 @@
+{
+    "id": 242700,
+    "nombre": "Injustice: Gods Among Us Ultimate Edition",
+    "estudio": [
+        "NetherRealm Studios",
+        "High Voltage Software"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "16534 pos / 2651 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Fighting",
+        "Superhero",
+        "Action",
+        "Multiplayer",
+        "Comic Book",
+        "Local Multiplayer",
+        "Singleplayer",
+        "Controller",
+        "2D Fighter",
+        "Arcade"
+    ],
+    "fecha_lanzamiento": "12 NOV 2013",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 32-bit Windows 7 / Windows 8 / Vista<br></li><li><strong>Procesador:</strong> Intel® Core™ 2 Duo 2.4 GHz or AMD Athlon X2 2.8 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce™ 8800 GTS or AMD® Radeon™ HD 3850<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 21 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Windows XP and DirectX® 9.0b and below not supported</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64-bit Windows 7 / Windows 8 / Vista<br></li><li><strong>Procesador:</strong> Intel Core i5-750, 2.67 GHz or AMD Phenom II X4 965, 3.4 GHz or better<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce™ GTX 560 or AMD® Radeon™ HD 6950<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 22 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Windows XP and DirectX® 9.0b and below not supported</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

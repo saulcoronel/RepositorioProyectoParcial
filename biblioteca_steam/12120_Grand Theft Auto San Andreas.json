@@ -1,0 +1,34 @@
+{
+    "id": 12120,
+    "nombre": "Grand Theft Auto: San Andreas",
+    "estudio": [
+        "Rockstar Games"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "76056 pos / 6573 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Crime",
+        "Classic",
+        "Third Person",
+        "Automobile Sim",
+        "Singleplayer",
+        "Multiplayer",
+        "Shooter",
+        "Driving"
+    ],
+    "fecha_lanzamiento": "4 ENE 2008",
+    "precio": "Gratis/N/A",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft® Windows® 2000/XP<br></li><li><strong>Processor:</strong> 1Ghz Pentium III or AMD Athlon Processor<br></li><li><strong>Memory:</strong> 256MB of RAM<br></li><li><strong>Graphics:</strong> 64MB Video Card (Geforce 3 or better)<br></li><li><strong>Hard Drive:</strong> 3.6GB of free hard disk space (minimal install)<br></li><li><strong>Other Requirements:</strong> Software installations required including DirectX and Sony DADC SecuROM<br></li><li><strong>Partner Requirements:</strong> Please check the terms of service of this site before purchasing this software.</li></ul>",
+        "recomendados": "Recommended:<br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Pentium 4 or AMD Athlon XP Processor<br></li><li><strong>Memory:</strong> 384MB of RAM (the more the better!)<br></li><li><strong>Graphics:</strong> 128MB (or greater) Video Card (Geforce 6 Series Recommended)<br></li><li><strong>Hard Drive:</strong> 4.7GB of free hard disk space (full install)<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible Sound Card (Sound Blaster Auidgy 2 Recommended)</li></ul>"
+    },
+    "peso_estimado": "3.6 GB",
+    "dlcs": []
+}

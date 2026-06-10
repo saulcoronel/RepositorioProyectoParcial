@@ -1,0 +1,34 @@
+{
+    "id": 235460,
+    "nombre": "METAL GEAR RISING: REVENGEANCE",
+    "estudio": [
+        "PlatinumGames"
+    ],
+    "publisher": [
+        "KONAMI"
+    ],
+    "valoracion": "79993 pos / 3300 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Great Soundtrack",
+        "Hack and Slash",
+        "Action",
+        "Spectacle fighter",
+        "Swordplay",
+        "Character Action Game",
+        "Singleplayer",
+        "Third Person",
+        "Fast-Paced",
+        "Ninja"
+    ],
+    "fecha_lanzamiento": "9 ENE 2014",
+    "precio": "Mex$ 269.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> XP or Vista or 7 or 8<br></li><li><strong>Procesador:</strong> Intel Core i5 2400<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia Geforce GTS 450<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> XP or Vista or 7 or 8<br></li><li><strong>Procesador:</strong> Intel Core i7 3770<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia Geforce GTX 650<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

@@ -1,0 +1,38 @@
+{
+    "id": 40800,
+    "nombre": "Super Meat Boy",
+    "estudio": [
+        "Team Meat"
+    ],
+    "publisher": [],
+    "valoracion": "33571 pos / 1923 neg",
+    "generos": [
+        "Indie"
+    ],
+    "tags": [
+        "Precision Platformer",
+        "Platformer",
+        "Difficult",
+        "Indie",
+        "2D Platformer",
+        "Pixel Graphics",
+        "2D",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Fast-Paced"
+    ],
+    "fecha_lanzamiento": "30 NOV 2010",
+    "precio": "Mex$ 149.99",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft® Windows® XP / Vista / 7<br></li><li><strong>Procesador:</strong> 1.2 GHz<br></li><li><strong>Memoria:</strong> 256 MB de RAM <br></li><li><strong>Gráficos:</strong> Compatible con Pixel Shader 2.0 y Vertex Shader 2.0 (la compatibilidad con Vertex Shader puede ser emulada por software)<br></li><li><strong>DirectX®:</strong> DirectX® 9.0c<br></li><li><strong>Disco Duro:</strong> 300 MB de espacio libre<br></li><li><strong>Soporte de Controladores:</strong> Controlador Microsoft Xbox 360 o compatible con Direct Input</li></ul>",
+        "recomendados": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft® Windows® XP / Vista / 7<br></li><li><strong>Procesador:</strong> 1.4 GHz o más rápido<br></li><li><strong>Memoria:</strong> 1 GB de RAM <br></li><li><strong>Gráficos:</strong> Gráfica fabricada en los últimos 4 años (Pixel Shader 3.0, Vertex Shader 3.0)<br></li><li><strong>DirectX®:</strong> DirectX® 9.0c<br></li><li><strong>Disco Duro:</strong> 300 MB de espacio libre<br></li><li><strong>Soporte de Controladores:</strong> Controlador Microsoft Xbox 360 o compatible con Direct Input</li></ul>"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Super Meat Boy Race Mode",
+            "fecha": "24 Oct, 2018",
+            "precio": "Mex$ 64.49"
+        }
+    ]
+}

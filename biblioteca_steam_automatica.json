@@ -1,0 +1,3643 @@
+[
+    {
+        "id": 730,
+        "nombre": "Counter-Strike 2",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "7642084 pos / 1173003 neg",
+        "generos": [
+            "Acción",
+            "Free to Play"
+        ],
+        "tags": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based",
+            "e-sports",
+            "Tactical",
+            "First-Person",
+            "PvP"
+        ],
+        "fecha_lanzamiento": "21 AGO 2012",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10.<br></li><li><strong>Procesador:</strong> CPU de 4 subprocesos - Intel® Core™ i5 750 o superior.<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> La tarjeta gráfica de ser de al menos 1 GB y debe ser compatible con DirectX 11 y Shader Model 5.0.<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 85 GB de espacio disponible</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1172470,
+        "nombre": "Apex Legends™",
+        "estudio": [
+            "Respawn"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ],
+        "valoracion": "668053 pos / 326926 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Battle Royale",
+            "Multiplayer",
+            "FPS",
+            "Shooter",
+            "First-Person",
+            "PvP",
+            "Action",
+            "Hero Shooter",
+            "Team-Based"
+        ],
+        "fecha_lanzamiento": "4 NOV 2020",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> ~3.8GB for 1 localized language</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Ryzen 5 CPU or Equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> ~3.8GB for 1 localized language</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 578080,
+        "nombre": "PUBG: BATTLEGROUNDS",
+        "estudio": [
+            "PUBG Corporation"
+        ],
+        "publisher": [
+            "KRAFTON, Inc."
+        ],
+        "valoracion": "1520457 pos / 1037487 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Free to Play"
+        ],
+        "tags": [
+            "Survival",
+            "Shooter",
+            "Battle Royale",
+            "Multiplayer",
+            "FPS",
+            "PvP",
+            "Third-Person Shooter",
+            "Action",
+            "Online Co-Op",
+            "Tactical"
+        ],
+        "fecha_lanzamiento": "21 DIC 2017",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1623730,
+        "nombre": "Palworld",
+        "estudio": [
+            "Pocketpair"
+        ],
+        "publisher": [
+            "Pocketpair"
+        ],
+        "valoracion": "358266 pos / 22443 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Open World",
+            "Survival",
+            "Creature Collector",
+            "Multiplayer",
+            "Open World Survival Craft",
+            "Online Co-Op",
+            "Crafting",
+            "Co-op",
+            "Adventure",
+            "Base-Building"
+        ],
+        "fecha_lanzamiento": "18 ENE 2024",
+        "precio": "Mex$ 334.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Procesador:</strong> i5-3570K 3.4 GHz 4 Core<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1050 (2GB)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Internet connection required for multiplayer. SSD required.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Procesador:</strong> i9-9900K 3.6 GHz 8 Core<br></li><li><strong>Memoria:</strong> 32 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce RTX 2070<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Internet connection required for multiplayer. SSD required.</li></ul>"
+        },
+        "peso_estimado": "16 GB",
+        "dlcs": []
+    },
+    {
+        "id": 440,
+        "nombre": "Team Fortress 2",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "1044264 pos / 117208 neg",
+        "generos": [
+            "Acción",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Hero Shooter",
+            "Multiplayer",
+            "FPS",
+            "Shooter",
+            "Action",
+            "Class-Based",
+            "Team-Based",
+            "Funny",
+            "First-Person"
+        ],
+        "fecha_lanzamiento": "10 OCT 2007",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 (32/64 bits)/Vista/XP<br></li><li><strong>Procesador:</strong> Procesador a 1,7 GHz o superior<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>DirectX:</strong> Versión 8.1<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 (32/64-bit)<br></li><li><strong>Procesador:</strong> Pentium 4 processor (3.0GHz, or better)<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "15 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1938090,
+        "nombre": "Call of Duty®",
+        "estudio": [
+            "Treyarch",
+            "Raven Software",
+            "Beenox",
+            "High Moon Studios",
+            "Sledgehammer Games",
+            "Infinity Ward",
+            "Activision Shanghai",
+            "Demonware"
+        ],
+        "publisher": [
+            "Activision"
+        ],
+        "valoracion": "419594 pos / 294520 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Singleplayer",
+            "Action",
+            "Military",
+            "First-Person",
+            "War",
+            "Modern",
+            "Tactical"
+        ],
+        "fecha_lanzamiento": "27 OCT 2022",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 10 64 Bit (última actualización)<br></li><li><strong>Procesador:</strong> AMD Ryzen™ 5 1400 o Intel® Core™ i5-6600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 o Intel® Arc™ A580<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Notas adicionales:</strong> SSD con 161 GB de espacio disponible el día del lanzamiento</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 11 64 Bit (última actualización)<br></li><li><strong>Procesador:</strong> AMD Ryzen™ 5 1600X o Intel® Core™ i7-6700K<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon™ RX 6600XT o NVIDIA® GeForce® RTX 3060 o Intel® Arc™ B580<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Notas adicionales:</strong> SSD con 161 GB de espacio disponible el día del lanzamiento</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1063730,
+        "nombre": "New World: Aeternum",
+        "estudio": [
+            "Amazon Game Studios"
+        ],
+        "publisher": [
+            "Amazon Game Studios"
+        ],
+        "valoracion": "196798 pos / 90080 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Rol"
+        ],
+        "tags": [
+            "Open World",
+            "Massively Multiplayer",
+            "MMORPG",
+            "RPG",
+            "Adventure",
+            "Action",
+            "PvP",
+            "PvE",
+            "Multiplayer",
+            "Fantasy"
+        ],
+        "fecha_lanzamiento": "28 SEP 2021",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10/11 de 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-10500 @ 3.10GHz / AMD Ryzen 3 3300X<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 590<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10/11 de 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i7-10700K @ 3.80GHz / AMD Ryzen 5 3600X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 2358720,
+        "nombre": "Black Myth: Wukong",
+        "estudio": [
+            "Game Science"
+        ],
+        "publisher": [
+            "Game Science"
+        ],
+        "valoracion": "1111720 pos / 38378 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Rol"
+        ],
+        "tags": [
+            "Mythology",
+            "Action RPG",
+            "Action",
+            "Souls-like",
+            "RPG",
+            "Combat",
+            "Story Rich",
+            "Singleplayer",
+            "Action-Adventure",
+            "Drama"
+        ],
+        "fecha_lanzamiento": "19 AGO 2024",
+        "precio": "Mex$ 999.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-8400 / AMD Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 130 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Windows Compatible Audio Device<br></li><li><strong>Notas adicionales:</strong> HDD Supported, SSD Recommended. The above specifications were tested with DLSS/FSR/XeSS enabled.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i7-9700 / AMD Ryzen 5 5500<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700 XT / INTEL Arc A750<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 130 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Windows Compatible Audio Device<br></li><li><strong>Notas adicionales:</strong> SSD Required. The above specifications were tested with DLSS/FSR/XeSS enabled.</li></ul>"
+        },
+        "peso_estimado": "16 GB",
+        "dlcs": []
+    },
+    {
+        "id": 271590,
+        "nombre": "Grand Theft Auto V Legacy",
+        "estudio": [
+            "Rockstar North"
+        ],
+        "publisher": [
+            "Rockstar Games"
+        ],
+        "valoracion": "1739980 pos / 250576 neg",
+        "generos": [
+            "Acción",
+            "Aventura"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Multiplayer",
+            "Crime",
+            "Automobile Sim",
+            "Third Person",
+            "First-Person",
+            "Mature",
+            "Shooter",
+            "Adventure"
+        ],
+        "fecha_lanzamiento": "13 ABR 2015",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Core 2 Quad CPU Q6600 a 2,4 GHz (4 CPU)/AMD Phenom 9850 Quad-Core (4 CPU) a 2,5 GHz.<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA 9800 GT 1 GB/AMD HD 4870 1 GB (DX 10, 10.1, 11).<br></li><li><strong>Almacenamiento:</strong> 125 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> compatible con DirectX 10.<br></li><li><strong>Notas adicionales:</strong> Con el tiempo, las descargas de contenido y los cambios en la programación modificarán los requisitos del sistema para este juego. Consulta con el fabricante del hardware y visita  para conocer la información sobre compatibilidad más actualizada. Algunos componentes, como chipsets móviles, integrados y tarjetas gráficas AGP podrían no ser compatibles. Los requisitos no especificados podrían no ser compatibles con los del editor.  Otros requisitos: para instalar y jugar en línea hay que iniciar sesión en la red del Social Club de Rockstar Games (mayores de 13 años); se necesita conexión a Internet para la activación, el juego en línea y la verificación periódica de la autorización; necesita instalar software, como la plataforma del Social Club de Rockstar Games, DirectX , Chromium, Microsoft Visual C++ 2008 SP1 Redistributable Package, y software de autentificación que examina determinados atributos del hardware para autorización, gestión de derechos digitales, sistema y otros propósitos de apoyo.  NECESITA REGISTRAR POR INTERNET UN CÓDIGO DE SERIE DE UN SOLO USO; EL REGISTRO ESTÁ LIMITADO A UNA CUENTA DEL SOCIAL CLUB DE ROCKSTAR GAMES (MAYORES DE 13 AÑOS) POR CÓDIGO DE SERIE; NO ADMITE MÁS DE UN INICIO DE SESIÓN SIMULTÁNEO POR CUENTA DEL SOCIAL CLUB; UNA VEZ USADOS, LOS CÓDIGOS DE SERIE NO SON TRANSFERIBLES; LAS CUENTAS DEL SOCIAL CLUB NO SON TRANSFERIBLES.  Requisitos del colaborador: revisa las condiciones de servicio de este sitio web antes de comprar el software.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Core i5 3470 a 3,2 GHz (4 CPU)/AMD X8 FX-8350 a 4 GHz (8 CPU).<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 660 2 GB/AMD HD7870 2 GB.<br></li><li><strong>Almacenamiento:</strong> 125 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> compatible con DirectX 10.</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 550,
+        "nombre": "Left 4 Dead 2",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "940221 pos / 23762 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Zombies",
+            "Co-op",
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Online Co-Op",
+            "Action",
+            "Survival",
+            "Horror",
+            "First-Person"
+        ],
+        "fecha_lanzamiento": "16 NOV 2009",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>Procesador:</strong> Pentium 4 3.0GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 13 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c compatible sound card</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>Procesador:</strong> Intel core 2 duo 2.4GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 13 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c compatible sound card</li></ul>"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 304930,
+        "nombre": "Unturned",
+        "estudio": [
+            "Smartly Dressed Games"
+        ],
+        "publisher": [
+            "Smartly Dressed Games"
+        ],
+        "valoracion": "506516 pos / 48852 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Casual",
+            "Indie",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Survival",
+            "Zombies",
+            "Multiplayer",
+            "Open World",
+            "Co-op",
+            "Sandbox",
+            "Crafting",
+            "Shooter",
+            "Adventure"
+        ],
+        "fecha_lanzamiento": "7 JUL 2017",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 SP1+<br></li><li><strong>Procesador:</strong> 3 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> 4 GHz<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1599340,
+        "nombre": "Lost Ark",
+        "estudio": [
+            "Smilegate RPG"
+        ],
+        "publisher": [
+            "Amazon Game Studios"
+        ],
+        "valoracion": "143481 pos / 58540 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Rol",
+            "Free to Play"
+        ],
+        "tags": [
+            "MMORPG",
+            "Free to Play",
+            "Action RPG",
+            "Multiplayer",
+            "Hack and Slash",
+            "Character Customization",
+            "RPG",
+            "Massively Multiplayer",
+            "Action",
+            "Sexual Content"
+        ],
+        "fecha_lanzamiento": "11 FEB 2022",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64 bits)<br></li><li><strong>Procesador:</strong> Intel i3 o AMD Ryzen 3<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 460 / AMD HD6850<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 110 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64 bits)<br></li><li><strong>Procesador:</strong> Intel i5 o AMD Ryzen 5<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1050 / AMD Radeon RX560 2G<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 110 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.</li></ul>"
+        },
+        "peso_estimado": "16 GB",
+        "dlcs": []
+    },
+    {
+        "id": 236390,
+        "nombre": "War Thunder",
+        "estudio": [
+            "Gaijin Entertainment"
+        ],
+        "publisher": [
+            "Gaijin Network Ltd"
+        ],
+        "valoracion": "484469 pos / 272617 neg",
+        "generos": [
+            "Acción",
+            "Multijugador masivo",
+            "Simuladores",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Simulation",
+            "Vehicular Combat",
+            "Combat",
+            "World War II",
+            "Flight",
+            "VR",
+            "War",
+            "Military",
+            "Tanks"
+        ],
+        "fecha_lanzamiento": "15 AGO 2013",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 (64bit)<br></li><li><strong>Procesador:</strong> Dual-Core 2.2 GHz<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 70 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10/11 (64bit)<br></li><li><strong>Procesador:</strong> Intel Core i5 or Ryzen 5 3600 or better<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 95 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 2246340,
+        "nombre": "Monster Hunter Wilds",
+        "estudio": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publisher": [
+            "CAPCOM Co., Ltd."
+        ],
+        "valoracion": "127273 pos / 91142 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Rol"
+        ],
+        "tags": [
+            "Hunting",
+            "Action",
+            "Multiplayer",
+            "Online Co-Op",
+            "Co-op",
+            "Dating Sim",
+            "Character Customization",
+            "Dragons",
+            "Open World",
+            "Third Person"
+        ],
+        "fecha_lanzamiento": "27 FEB 2025",
+        "precio": "Mex$ 503.58",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> WINDOWS® 10 (requiere 64 bits)/WINDOWS® 11 (requiere 64 bits)<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 1660(VRAM 6GB) or AMD Radeon™ RX 5500 XT(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Es necesario el uso de SSD. Con estos requisitos podrás jugar a 1080p (reescalada desde 720p de resolución nativa) y a 30 fps en la configuración gráfica &quot;mínima&quot;. Es compatible con DirectStorage.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> WINDOWS® 10 (requiere 64 bits)/WINDOWS® 11 (requiere 64 bits)<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® RTX 2060 Super(VRAM 8GB) or　AMD Radeon™  RX 6600(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Es necesario el uso de SSD. Con estos requisitos podrás jugar a 1080p (con generación de fotogramas) y a 60 fps en la configuración gráfica &quot;media&quot;. Es compatible con DirectStorage.</li></ul>"
+        },
+        "peso_estimado": "16 GB",
+        "dlcs": []
+    },
+    {
+        "id": 553850,
+        "nombre": "HELLDIVERS™ 2",
+        "estudio": [
+            "Arrowhead Game Studios"
+        ],
+        "publisher": [
+            "PlayStation Publishing LLC"
+        ],
+        "valoracion": "775883 pos / 241752 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Online Co-Op",
+            "PvE",
+            "Third-Person Shooter",
+            "Multiplayer",
+            "Action",
+            "Shooter",
+            "Co-op",
+            "Sci-fi",
+            "Capitalism",
+            "Space"
+        ],
+        "fecha_lanzamiento": "8 FEB 2024",
+        "precio": "Mex$ 699.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i7-4790K or AMD Ryzen 5 1500X<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470<br></li><li><strong>Almacenamiento:</strong> 135 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i7-9700K or AMD Ryzen 7 3700X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce RTX 2060 or AMD Radeon RX 6600XT<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD Recommended</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 230410,
+        "nombre": "Warframe",
+        "estudio": [
+            "Digital Extremes"
+        ],
+        "publisher": [
+            "Digital Extremes"
+        ],
+        "valoracion": "545393 pos / 81110 neg",
+        "generos": [
+            "Acción",
+            "Rol",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Action RPG",
+            "Looter Shooter",
+            "Third-Person Shooter",
+            "Action",
+            "RPG",
+            "Third Person",
+            "Character Customization",
+            "Massively Multiplayer",
+            "Online Co-Op"
+        ],
+        "fecha_lanzamiento": "25 MAR 2013",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7 de 64 bits (no compatible con 32 bits)<br></li><li><strong>Procesador:</strong>  Intel Core i7 860, Intel Core i5 750 o AMD FX-4100 (compatibilidad requerida con SSE 4.2)<br></li><li><strong>Video:</strong> tarjeta gráfica compatible con DirectX 11+<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible en HD<br></li><li><strong>Internet:</strong> conexión a Internet de banda ancha</li></ul><br>Nota: Actualmente no hay soporte disponible para Mac o Linux<br><br>La compatibilidad con DirectX 12 requiere al menos Windows 10 20H2 (lanzado en 2020) o Windows 11",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1245620,
+        "nombre": "ELDEN RING",
+        "estudio": [
+            "FromSoftware, Inc."
+        ],
+        "publisher": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment"
+        ],
+        "valoracion": "981540 pos / 75137 neg",
+        "generos": [
+            "Acción",
+            "Rol"
+        ],
+        "tags": [
+            "Souls-like",
+            "Open World",
+            "Dark Fantasy",
+            "RPG",
+            "Difficult",
+            "Action RPG",
+            "Third Person",
+            "Multiplayer",
+            "Fantasy",
+            "Singleplayer"
+        ],
+        "fecha_lanzamiento": "24 FEB 2022",
+        "precio": "Mex$ 979.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> INTEL CORE I5-8400 or AMD RYZEN 3 3300X<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 60 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Windows Compatible Audio Device<br></li><li><strong>Notas adicionales:</strong> </li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10/11<br></li><li><strong>Procesador:</strong> INTEL CORE I7-8700K or AMD RYZEN 5 3600X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 60 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Windows Compatible Audio Device<br></li><li><strong>Notas adicionales:</strong> </li></ul>"
+        },
+        "peso_estimado": "12 GB",
+        "dlcs": []
+    },
+    {
+        "id": 105600,
+        "nombre": "Terraria",
+        "estudio": [
+            "Re-Logic"
+        ],
+        "publisher": [
+            "Re-Logic"
+        ],
+        "valoracion": "1373979 pos / 35494 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Sandbox",
+            "Survival",
+            "2D",
+            "Multiplayer",
+            "Adventure",
+            "Pixel Graphics",
+            "Crafting",
+            "Building",
+            "Exploration"
+        ],
+        "fecha_lanzamiento": "16 MAY 2011",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP / Vista / 7<br></li><li><strong>Procesador:</strong> 1.6 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Disco Duro:</strong> 200 MB de espacio libre<br></li><li><strong>Gráficos:</strong> Shader Model 1.1 con 128 MB de VRAM<br></li><li><strong>DirectX®:</strong> 9.0c o posterior</li></ul>",
+            "recomendados": "<h2 class=\"bb_tag\" ><strong>RECOMMENDED</strong></h2><ul class=\"bb_ul\"><li><strong>OS: Windows 7, 8/8.1, 10</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Processor: Dual Core 3.0 Ghz</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Memory: 4GB</strong><br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Hard Disk Space: 200MB </strong> \t<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Video Card: 256mb Video Memory, capable of Shader Model 2.0+</strong> <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>DirectX®: 9.0c or Greater</strong> \t<br>\t\t\t\t\t\t\t\t\t</li></ul>"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 2694490,
+        "nombre": "Path of Exile 2",
+        "estudio": [
+            "Grinding Gear Games"
+        ],
+        "publisher": [
+            "Grinding Gear Games"
+        ],
+        "valoracion": "118511 pos / 50510 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Rol",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Action RPG",
+            "Hack and Slash",
+            "RPG",
+            "Souls-like",
+            "MMORPG",
+            "Dark Fantasy",
+            "Isometric",
+            "Action",
+            "Loot",
+            "Dungeon Crawler"
+        ],
+        "fecha_lanzamiento": "6 DIC 2024",
+        "precio": "Mex$ 306.31",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> 4 core 2.8GHz x64-compatible<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 960 o ATI Radeon™ RX 470<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> A GPU with at least 3GB of VRAM is required</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-10500 or AMD™ Ryzen 5 3700X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® RTX 2060, Intel® Arc™ A770, or ATI Radeon™ RX 5600XT<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Solid State Storage is recommended</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 431960,
+        "nombre": "Wallpaper Engine",
+        "estudio": [
+            "Wallpaper Engine Team"
+        ],
+        "publisher": [
+            "Wallpaper Engine Team"
+        ],
+        "valoracion": "876898 pos / 17560 neg",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Animación y modelado",
+            "Diseño e ilustración",
+            "Edición fotográfica",
+            "Utilidades"
+        ],
+        "tags": [
+            "Mature",
+            "Utilities",
+            "Anime",
+            "Software",
+            "Design & Illustration",
+            "Animation & Modeling",
+            "First-Person",
+            "NSFW",
+            "Indie",
+            "Memes"
+        ],
+        "fecha_lanzamiento": "16 NOV 2018",
+        "precio": "Mex$ 64.49",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10, Windows 11<br></li><li><strong>Procesador:</strong> 1.66 GHz Intel i5 or equivalent<br></li><li><strong>Memoria:</strong> 1024 MB de RAM<br></li><li><strong>Gráficos:</strong> HD Graphics 4000 or above<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 512 MB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Las versiones N de Windows requieren el &quot;Media Feature Pack&quot; de Microsoft.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10, Windows 11<br></li><li><strong>Procesador:</strong> 2.0 GHz Intel i7 or equivalent<br></li><li><strong>Memoria:</strong> 2048 MB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 1024 MB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> La aplicación móvil es compatible con Android 10 o superior</li></ul>"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 1086940,
+        "nombre": "Baldur's Gate 3",
+        "estudio": [
+            "Larian Studios"
+        ],
+        "publisher": [
+            "Larian Studios"
+        ],
+        "valoracion": "736688 pos / 23974 neg",
+        "generos": [
+            "Aventura",
+            "Rol",
+            "Estrategia"
+        ],
+        "tags": [
+            "RPG",
+            "Character Customization",
+            "Choices Matter",
+            "Story Rich",
+            "Turn-Based Combat",
+            "Dungeons & Dragons",
+            "CRPG",
+            "Fantasy",
+            "Adventure",
+            "Sexual Content"
+        ],
+        "fecha_lanzamiento": "3 AGO 2023",
+        "precio": "Mex$ 1,299.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel I5 4690 / AMD FX 8350 / Snapdragon X Elite<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adreno X1 (4GB+ of VRAM)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 150 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD required</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel i7 8700K / AMD r5 3600<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia 2060 Super / RX 5700 XT / Intel Arc A580 (8GB+ of VRAM)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 150 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD required</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 291550,
+        "nombre": "Brawlhalla",
+        "estudio": [
+            "Blue Mammoth Games"
+        ],
+        "publisher": [
+            "Ubisoft"
+        ],
+        "valoracion": "314809 pos / 71647 neg",
+        "generos": [
+            "Acción",
+            "Indie",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Multiplayer",
+            "Fighting",
+            "2D Fighter",
+            "2D Platformer",
+            "Casual",
+            "Local Multiplayer",
+            "Co-op",
+            "Controller",
+            "Platformer"
+        ],
+        "fecha_lanzamiento": "17 OCT 2017",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Almacenamiento:</strong> 800 MB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 4000,
+        "nombre": "Garry's Mod",
+        "estudio": [
+            "Facepunch Studios"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "1122546 pos / 37161 neg",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Sandbox",
+            "Moddable",
+            "Multiplayer",
+            "Physics",
+            "Building",
+            "Casual",
+            "Funny",
+            "First-Person",
+            "Singleplayer",
+            "FPS"
+        ],
+        "fecha_lanzamiento": "29 NOV 2006",
+        "precio": "Mex$ 54.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10<br></li><li><strong>Procesador:</strong> 2 GHz Processor or better<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> 1GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX® 9 compatible<br></li><li><strong>Notas adicionales:</strong> Mouse, Keyboard, Monitor</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10/11<br></li><li><strong>Procesador:</strong> 2.5 GHz Processor or better<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 4GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1085660,
+        "nombre": "Destiny 2",
+        "estudio": [
+            "Bungie"
+        ],
+        "publisher": [
+            "Bungie"
+        ],
+        "valoracion": "497891 pos / 127725 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Open World",
+            "Multiplayer",
+            "Looter Shooter",
+            "MMORPG",
+            "FPS",
+            "Co-op",
+            "PvE",
+            "PvP",
+            "Shooter"
+        ],
+        "fecha_lanzamiento": "1 OCT 2019",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 10 64-bit (latest Service Pack)<br></li><li><strong>Procesador:</strong> Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 105 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 10 64-bit (latest Service Pack)<br></li><li><strong>Procesador:</strong> Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 105 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 359550,
+        "nombre": "Tom Clancy's Rainbow Six Siege",
+        "estudio": [
+            "Ubisoft Montreal"
+        ],
+        "publisher": [
+            "Ubisoft"
+        ],
+        "valoracion": "1172854 pos / 225730 neg",
+        "generos": [
+            "Acción",
+            "Free to Play"
+        ],
+        "tags": [
+            "FPS",
+            "PvP",
+            "Multiplayer",
+            "Tactical",
+            "e-sports",
+            "Shooter",
+            "Competitive",
+            "Online Co-Op",
+            "Action",
+            "Hero Shooter"
+        ],
+        "fecha_lanzamiento": "1 DIC 2015",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10, Windows 11 (64-bit versions)<br></li><li><strong>Procesador:</strong> AMD Ryzen 3 3100 / Intel i3-8100<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 65 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX® 9.0c compatible sound card with latest drivers<br></li><li><strong>Notas adicionales:</strong> For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 11 (64-bit versions)<br></li><li><strong>Procesador:</strong> AMD Ryzen5 3600 / Intel i5-10400<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA RTX 2060 6GB / AMD RX 6600 8GB<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 65 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX® 9.0c compatible sound card 5.1 with latest drivers<br></li><li><strong>Notas adicionales:</strong> For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 252490,
+        "nombre": "Rust",
+        "estudio": [
+            "Facepunch Studios"
+        ],
+        "publisher": [
+            "Facepunch Studios"
+        ],
+        "valoracion": "1071135 pos / 156649 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Multijugador masivo",
+            "Rol"
+        ],
+        "tags": [
+            "Survival",
+            "Crafting",
+            "Multiplayer",
+            "Open World",
+            "Open World Survival Craft",
+            "Building",
+            "PvP",
+            "Sandbox",
+            "Adventure",
+            "First-Person"
+        ],
+        "fecha_lanzamiento": "8 FEB 2018",
+        "precio": "Mex$ 449.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 64bit<br></li><li><strong>Procesador:</strong> AMD Ryzen 5 1400 or Intel Core i5-6600<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX 470, NVIDIA GeForce GTX 1060, Intel® Arc™ A580<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 45 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD is highly recommended or expect longer than average load times.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 64bit<br></li><li><strong>Procesador:</strong> AMD Ryzen 7 3700X or Intel® Core i7-6700K<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX 6600XT, NVIDIA GeForce RTX 3060, Intel Arc B580<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 45 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD Required</li></ul>"
+        },
+        "peso_estimado": "12 GB",
+        "dlcs": []
+    },
+    {
+        "id": 552990,
+        "nombre": "World of Warships",
+        "estudio": [
+            "Wargaming Group Limited"
+        ],
+        "publisher": [
+            "Wargaming Group Limited"
+        ],
+        "valoracion": "112887 pos / 33665 neg",
+        "generos": [
+            "Acción",
+            "Multijugador masivo",
+            "Simuladores",
+            "Estrategia",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Naval Combat",
+            "Action",
+            "Co-op",
+            "Tactical",
+            "Online Co-Op",
+            "Multiplayer",
+            "Naval",
+            "PvP",
+            "World War II"
+        ],
+        "fecha_lanzamiento": "15 NOV 2017",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 x64 SP1 / 8.1 / 10 / 11<br></li><li><strong>Procesador:</strong> Intel® Core™ i3-3210 @ 3.2GHz, AMD Athlon™ II X2 245 @ 2.9 GHz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> 1280×720; NVIDIA® GeForce® GT 640, AMD Radeon™ R7 240, Intel® HD 4000<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 67.2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11<br></li><li><strong>Notas adicionales:</strong> Por razones técnicas, solo las cuentas de juego creadas con la versión de Steam del juego son compatibles.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 / 11<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-4460 @ 3.2 GHz, AMD FX-8320 @ 3.5 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 1920×1080; NVIDIA® GeForce® GTX 770, AMD Radeon™ R9 270X 4Gb<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 67.2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11.1<br></li><li><strong>Notas adicionales:</strong> Por razones técnicas, solo las cuentas de juego creadas con la versión de Steam del juego son compatibles.</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 346110,
+        "nombre": "ARK: Survival Evolved",
+        "estudio": [
+            "Studio Wildcard",
+            "Instinct Games",
+            "Efecto Studios",
+            "Virtual Basement LLC"
+        ],
+        "publisher": [
+            "Studio Wildcard",
+            "Snail Games USA"
+        ],
+        "valoracion": "612177 pos / 117993 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Multijugador masivo",
+            "Rol"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Survival",
+            "Multiplayer",
+            "Open World",
+            "Dinosaurs",
+            "Crafting",
+            "Building",
+            "Adventure",
+            "Base-Building",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "27 AGO 2017",
+        "precio": "Mex$ 178.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7/8.1/10 (64-bit versions)<br></li><li><strong>Procesador:</strong> Intel Core i5-2400/AMD FX-8320 or better<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Almacenamiento:</strong> 60 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Requires broadband internet connection for multiplayer</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 413150,
+        "nombre": "Stardew Valley",
+        "estudio": [
+            "ConcernedApe"
+        ],
+        "publisher": [
+            "ConcernedApe"
+        ],
+        "valoracion": "872384 pos / 13811 neg",
+        "generos": [
+            "Indie",
+            "Rol",
+            "Simuladores"
+        ],
+        "tags": [
+            "Farming Sim",
+            "Pixel Graphics",
+            "Multiplayer",
+            "Life Sim",
+            "RPG",
+            "Relaxing",
+            "Agriculture",
+            "Simulation",
+            "Crafting",
+            "Sandbox"
+        ],
+        "fecha_lanzamiento": "26 FEB 2016",
+        "precio": "Mex$ 149.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows Vista or greater<br></li><li><strong>Procesador:</strong> 2 Ghz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> 256 mb video memory, shader model 3.0+<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Almacenamiento:</strong> 500 MB de espacio disponible</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 242760,
+        "nombre": "The Forest",
+        "estudio": [
+            "Endnight Games Ltd"
+        ],
+        "publisher": [
+            "Endnight Games Ltd"
+        ],
+        "valoracion": "599805 pos / 27986 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Survival",
+            "Open World",
+            "Horror",
+            "Crafting",
+            "Adventure",
+            "Building",
+            "Survival Horror",
+            "First-Person",
+            "Action"
+        ],
+        "fecha_lanzamiento": "30 ABR 2018",
+        "precio": "Mex$ 40.91",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Intel Dual-Core 2.4 GHz<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 8800GT<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR or Oculus PC<br></li><li><strong>Notas adicionales:</strong> 32bit windows users need to ensure they have at least 4gb of ram usable on their system.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Quad Core Processor<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 560<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1491000,
+        "nombre": "War Robots: Frontiers",
+        "estudio": [
+            "MY.GAMES"
+        ],
+        "publisher": [
+            "MY.GAMES"
+        ],
+        "valoracion": "1977 pos / 1105 neg",
+        "generos": [
+            "Acción",
+            "Simuladores",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Third-Person Shooter",
+            "Mechs",
+            "PvP",
+            "Multiplayer",
+            "Action",
+            "Arena Shooter",
+            "Robots",
+            "Sci-fi",
+            "Futuristic"
+        ],
+        "fecha_lanzamiento": "4 MAR 2025",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-3470 @ 3.20GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 660 3GB VRAM<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-9600K @ 3.70GHz<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce RTX 2070 8GB VRAM<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD is recommended</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 238960,
+        "nombre": "Path of Exile",
+        "estudio": [
+            "Grinding Gear Games"
+        ],
+        "publisher": [
+            "Grinding Gear Games"
+        ],
+        "valoracion": "209822 pos / 25269 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Multijugador masivo",
+            "Rol",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Dark Fantasy",
+            "Action RPG",
+            "Hack and Slash",
+            "Loot",
+            "MMORPG",
+            "Multiplayer",
+            "Dungeon Crawler",
+            "Isometric",
+            "Character Customization"
+        ],
+        "fecha_lanzamiento": "23 OCT 2013",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Quad core 2.6GHz x86-compatible<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 650 Ti o ATI Radeon™ HD 7850<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Compatible con x64, quad core, 3.2GHz<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 1050 Ti o ATI Radeon™ RX560<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Se recomienda usar un disco de estado sólido</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 218620,
+        "nombre": "PAYDAY 2",
+        "estudio": [
+            "OVERKILL - a Starbreeze Studio."
+        ],
+        "publisher": [
+            "Starbreeze Entertainment"
+        ],
+        "valoracion": "594327 pos / 68755 neg",
+        "generos": [
+            "Acción",
+            "Rol"
+        ],
+        "tags": [
+            "Co-op",
+            "Action",
+            "FPS",
+            "Heist",
+            "Multiplayer",
+            "Looter Shooter",
+            "Online Co-Op",
+            "Stealth",
+            "Crime",
+            "Shooter"
+        ],
+        "fecha_lanzamiento": "13 AGO 2013",
+        "precio": "Mex$ 115.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> 2 GHz Intel Dual Core Processor<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia &amp; AMD (512MB VRAM)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 83 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Standing or Room Scale. Requires installing the free VR DLC.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> 2.3 GHz Intel Quad Core Processor<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia &amp; AMD (1GB VRAM)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 83 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Standing or Room Scale. Requires installing the free VR DLC.</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 291480,
+        "nombre": "Warface: Clutch",
+        "estudio": [
+            "MY.GAMES"
+        ],
+        "publisher": [
+            "MY.GAMES"
+        ],
+        "valoracion": "54554 pos / 27643 neg",
+        "generos": [
+            "Acción",
+            "Multijugador masivo",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Action",
+            "PvP",
+            "Co-op",
+            "Gun Customization",
+            "Character Customization",
+            "First-Person"
+        ],
+        "fecha_lanzamiento": "1 JUL 2014",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Procesador:</strong> Core i3-530 / AMD Athlon II X3 415e<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTS 450 / Radeon HD 5750<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 35 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Core i5 3470 / AMD Athlon 240GE<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce 1050 Ti / Radeon R9 380<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 35 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 901583,
+        "nombre": "Grand Theft Auto IV: Complete Edition",
+        "estudio": [
+            "Rockstar North",
+            "Rockstar Toronto"
+        ],
+        "publisher": [
+            "Rockstar Games"
+        ],
+        "valoracion": "144570 pos / 30702 neg",
+        "generos": [
+            "Acción",
+            "Aventura"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Automobile Sim",
+            "Multiplayer",
+            "Crime",
+            "Third Person",
+            "Adventure",
+            "Singleplayer",
+            "Third-Person Shooter",
+            "Moddable"
+        ],
+        "fecha_lanzamiento": "",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows Vista - Service Pack 1 / Windows XP - Service Pack 3          <br></li><li><strong>Procesador:</strong> Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4GHz          <br></li><li><strong>Memoria:</strong> 1.5 GB de RAM para XP / 1.5 GB de RAM para Vista          <br></li><li><strong>Gráficos:</strong> nVidia 7900 con 256 MB / ATI X1900 con 256 MB          <br></li><li><strong>Versión de DirectX:</strong> DirectX 9.0c          <br></li><li><strong>Disco Duro:</strong> 32 GB de espacio libre          <br></li><li><strong>Sonido:</strong> Dispositivo 5.1          <br></li><li><strong>Otros requisitos:</strong> Necesitas una conexión a internet para la activación inicial; debes iniciar sesión en Games For Windows - Live y Rockstar Games Social Club (13+ para registrarte) para jugar online; necesarias instalaciones de software incluyendo Adobe Flash, DirectX, Microsoft .NET Framework 3.0, Games For Windows - LIVE e Internet Explorer.          </li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1.5 GB",
+        "dlcs": []
+    },
+    {
+        "id": 899770,
+        "nombre": "Last Epoch",
+        "estudio": [
+            "Eleventh Hour Games"
+        ],
+        "publisher": [
+            "Eleventh Hour Games"
+        ],
+        "valoracion": "88027 pos / 22596 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol"
+        ],
+        "tags": [
+            "Action RPG",
+            "Loot",
+            "Hack and Slash",
+            "RPG",
+            "Isometric",
+            "Multiplayer",
+            "Action",
+            "Co-op",
+            "Adventure",
+            "Top-Down"
+        ],
+        "fecha_lanzamiento": "21 FEB 2024",
+        "precio": "Mex$ 389.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5 2500 or AMD FX-4350<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> nVidia GTX 1060 / AMD RX 580 with 6GB of VRAM<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 22 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD strongly recommended</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5 6500 or AMD Ryzen 3 1200<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> nVidia RTX 3060 or AMD RX 6600-XT with 6GB+ GB of VRAM<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 22 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD strongly recommended</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 340,
+        "nombre": "Half-Life 2: Lost Coast",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "12215 pos / 1471 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "FPS",
+            "Action",
+            "Singleplayer",
+            "First-Person",
+            "Sci-fi",
+            "Shooter",
+            "Short",
+            "Aliens",
+            "Dystopian ",
+            "Classic"
+        ],
+        "fecha_lanzamiento": "27 OCT 2005",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo:</strong> procesador Pentium 4 a 2,4 GHz o AMD 2800+, 1 GB de RAM, tarjeta gráfica compatible con DirectX 9, Windows XP, ratón, teclado, conexión a Internet<br /></p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1091500,
+        "nombre": "Cyberpunk 2077",
+        "estudio": [
+            "CD PROJEKT RED"
+        ],
+        "publisher": [
+            "CD PROJEKT RED"
+        ],
+        "valoracion": "713071 pos / 131850 neg",
+        "generos": [
+            "Rol"
+        ],
+        "tags": [
+            "Cyberpunk",
+            "Open World",
+            "Nudity",
+            "RPG",
+            "Singleplayer",
+            "Sci-fi",
+            "FPS",
+            "Story Rich",
+            "Mature",
+            "Futuristic"
+        ],
+        "fecha_lanzamiento": "9 DIC 2020",
+        "precio": "Mex$ 999.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Core i7-6700 or Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 70 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Core i7-12700 or Ryzen 7 7800X3D<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 70 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD required.</li></ul>"
+        },
+        "peso_estimado": "12 GB",
+        "dlcs": []
+    },
+    {
+        "id": 381210,
+        "nombre": "Dead by Daylight",
+        "estudio": [
+            "Behaviour Interactive Inc."
+        ],
+        "publisher": [
+            "Behaviour Interactive Inc."
+        ],
+        "valoracion": "630223 pos / 166993 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Horror",
+            "Multiplayer",
+            "Survival Horror",
+            "Online Co-Op",
+            "Co-op",
+            "Survival",
+            "Gore",
+            "Team-Based",
+            "Blood",
+            "Stealth"
+        ],
+        "fecha_lanzamiento": "14 JUN 2016",
+        "precio": "Mex$ 329.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Sistemas operativos de 64 bits (Windows 10)<br></li><li><strong>Procesador:</strong> Intel Core i3-4170 o AMD FX-8120<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 460 1GB o AMD HD 6850 1GB, compatibles con DX11<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Compatible con DX11<br></li><li><strong>Notas adicionales:</strong> With these requirements, it is recommended that the game is played on Low quality settings.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Sistemas operativos de 64 bits (Windows 10)<br></li><li><strong>Procesador:</strong> Intel Core i3-4170, AMD FX-8300 o superior  o\tMemoria: 8 GB de RAM<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce 760 o AMD HD 8800 o superior con 4GB de RAM, compatibles con DX11<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Compatible con DX11</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 990080,
+        "nombre": "Hogwarts Legacy",
+        "estudio": [
+            "Avalanche Software"
+        ],
+        "publisher": [
+            "Warner Bros. Games"
+        ],
+        "valoracion": "289966 pos / 31429 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Rol"
+        ],
+        "tags": [
+            "Magic",
+            "Open World",
+            "Fantasy",
+            "Singleplayer",
+            "Adventure",
+            "RPG",
+            "Character Customization",
+            "Exploration",
+            "Story Rich",
+            "Third Person"
+        ],
+        "fecha_lanzamiento": "10 FEB 2023",
+        "precio": "Mex$ 999.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 85 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 85 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD, 1080p/60 fps, High Quality Settings</li></ul>"
+        },
+        "peso_estimado": "16 GB",
+        "dlcs": []
+    },
+    {
+        "id": 438100,
+        "nombre": "VRChat",
+        "estudio": [
+            "VRChat Inc."
+        ],
+        "publisher": [
+            "VRChat Inc."
+        ],
+        "valoracion": "181623 pos / 58732 neg",
+        "generos": [
+            "Aventura",
+            "Casual",
+            "Multijugador masivo",
+            "Simuladores",
+            "Deportes",
+            "Free to Play",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "VR",
+            "Free to Play",
+            "Multiplayer",
+            "Anime",
+            "Memes",
+            "Funny",
+            "Massively Multiplayer",
+            "First-Person",
+            "Open World",
+            "Early Access"
+        ],
+        "fecha_lanzamiento": "1 FEB 2017",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10/11<br></li><li><strong>Procesador:</strong> Intel® i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 292030,
+        "nombre": "The Witcher 3: Wild Hunt",
+        "estudio": [
+            "CD PROJEKT RED"
+        ],
+        "publisher": [
+            "CD PROJEKT RED"
+        ],
+        "valoracion": "802993 pos / 32356 neg",
+        "generos": [
+            "Rol"
+        ],
+        "tags": [
+            "Open World",
+            "RPG",
+            "Story Rich",
+            "Atmospheric",
+            "Mature",
+            "Fantasy",
+            "Adventure",
+            "Singleplayer",
+            "Nudity",
+            "Choices Matter"
+        ],
+        "fecha_lanzamiento": "18 MAY 2015",
+        "precio": "Mex$ 499.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> 64-bit Windows 7, 64-bit Windows 8 (8.1)<br></li><li><strong>Procesador:</strong> Intel CPU Core i5-2500K 3.3GHz / AMD A10-5800K APU (3.8GHz)<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> 64-bit Windows 10/11<br></li><li><strong>Procesador:</strong> Intel Core i5-7400 / Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 1070 / Radeon RX 480<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 945360,
+        "nombre": "Among Us",
+        "estudio": [
+            "Innersloth"
+        ],
+        "publisher": [
+            "Innersloth"
+        ],
+        "valoracion": "643681 pos / 57104 neg",
+        "generos": [
+            "Casual"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Social Deduction",
+            "Online Co-Op",
+            "Space",
+            "Survival",
+            "2D",
+            "Funny",
+            "Psychological",
+            "Party Game",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "16 NOV 2018",
+        "precio": "Mex$ 35.40",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 x32bit<br></li><li><strong>Procesador:</strong> INTEL i3-4330<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Gráficos:</strong> INTEL HD Graphics 4600</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 x64bit<br></li><li><strong>Procesador:</strong> INTEL i3-4330<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 650</li></ul>"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1097150,
+        "nombre": "Fall Guys",
+        "estudio": [
+            "Mediatonic"
+        ],
+        "publisher": [],
+        "valoracion": "385154 pos / 88589 neg",
+        "generos": [
+            "Acción",
+            "Casual",
+            "Indie",
+            "Multijugador masivo",
+            "Deportes"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Party Game",
+            "Battle Royale",
+            "Family Friendly",
+            "Massively Multiplayer",
+            "Platformer",
+            "Cute",
+            "Funny",
+            "PvP",
+            "3D Platformer"
+        ],
+        "fecha_lanzamiento": "3 AGO 2020",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64bit only<br></li><li><strong>Procesador:</strong> Intel Core i5 or AMD equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 660 or AMD Radeon HD 7950<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Gamepad Recommended</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 49520,
+        "nombre": "Borderlands 2",
+        "estudio": [
+            "Gearbox Software",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": [
+            "2K",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "valoracion": "272900 pos / 22318 neg",
+        "generos": [
+            "Acción",
+            "Rol"
+        ],
+        "tags": [
+            "Loot",
+            "Shooter",
+            "Action",
+            "Multiplayer",
+            "Co-op",
+            "Looter Shooter",
+            "FPS",
+            "RPG",
+            "First-Person",
+            "Funny"
+        ],
+        "fecha_lanzamiento": "20 SEP 2012",
+        "precio": "Mex$ 179.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3<br></li><li><strong>Procesador:</strong> Dual Core a 2.4 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM (XP y Vista)<br></li><li><strong>Disco Duro:</strong> 13 GB de espacio libre<br></li><li><strong>Memoria Gráfica:</strong> 256 MB de VRAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce 8500 / ATI Radeon HD 2600<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c<br></li><li><strong>Otros requisitos:</strong> La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010 y los drivers de CPU de AMD (sólo para AMD en Windows XP)</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3 / Vista / Win 7<br></li><li><strong>Procesador:</strong> Quad Core a 2.3 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Disco Duro:</strong> 20 GB de espacio libre<br></li><li><strong>Memoria Gráfica:</strong> 512 MB de VRAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce GTX 560 / ATI Radeon HD 5850<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c<br></li><li><strong>Otros requisitos:</strong> La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010 y los drivers de CPU de AMD (sólo para AMD en Windows XP)</li></ul>"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 227300,
+        "nombre": "Euro Truck Simulator 2",
+        "estudio": [
+            "SCS Software"
+        ],
+        "publisher": [
+            "SCS Software"
+        ],
+        "valoracion": "844480 pos / 22924 neg",
+        "generos": [
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Driving",
+            "Transportation",
+            "Simulation",
+            "Open World",
+            "Automobile Sim",
+            "Realistic",
+            "Moddable",
+            "Relaxing",
+            "Exploration",
+            "Economy"
+        ],
+        "fecha_lanzamiento": "12 OCT 2012",
+        "precio": "Mex$ 244.99",
+        "requerimientos": {
+            "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6400 or AMD Ryzen 3 1200 or similar<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)<br></li><li><strong>Hard Drive:</strong> 25 GB available space (Euro Truck Simulator 2 base game)</li></ul>",
+            "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-9600 or AMD Ryzen 5 3600 or similar<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM)<br></li><li><strong>Hard Drive:</strong> 25 GB available space (Euro Truck Simulator 2 base game)</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 892970,
+        "nombre": "Valheim",
+        "estudio": [
+            "Iron Gate AB"
+        ],
+        "publisher": [
+            "Coffee Stain Publishing"
+        ],
+        "valoracion": "471451 pos / 28377 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Survival",
+            "Online Co-Op",
+            "Open World",
+            "Multiplayer",
+            "Building",
+            "Crafting",
+            "Base-Building",
+            "Exploration",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "2 FEB 2021",
+        "precio": "Mex$ 299.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or later<br></li><li><strong>Procesador:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or later<br></li><li><strong>Procesador:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 739630,
+        "nombre": "Phasmophobia",
+        "estudio": [
+            "Kinetic Games"
+        ],
+        "publisher": [
+            "Kinetic Games"
+        ],
+        "valoracion": "736611 pos / 32168 neg",
+        "generos": [
+            "Acción",
+            "Indie",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Horror",
+            "Online Co-Op",
+            "Multiplayer",
+            "Psychological Horror",
+            "Co-op",
+            "Supernatural",
+            "VR",
+            "First-Person",
+            "Investigation",
+            "Dark"
+        ],
+        "fecha_lanzamiento": "18 SEP 2020",
+        "precio": "Mex$ 229.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64Bit<br></li><li><strong>Procesador:</strong> Intel Core i5-4590 / AMD Ryzen 5 2600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 970 / AMD Radeon R9 390<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 21 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> OpenXR<br></li><li><strong>Notas adicionales:</strong> Minimum Specs are for VR, lower specs may work for Non-VR.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64Bit<br></li><li><strong>Procesador:</strong> Intel Core i5-10600 / AMD Ryzen 5 3600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA RTX 2060 / AMD Radeon RX 5700<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 21 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 444090,
+        "nombre": "Paladins®",
+        "estudio": [
+            "Evil Mojo Games"
+        ],
+        "publisher": [
+            "Hi-Rez Studios"
+        ],
+        "valoracion": "294373 pos / 52031 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Estrategia",
+            "Free to Play"
+        ],
+        "tags": [
+            "Hero Shooter",
+            "Free to Play",
+            "Multiplayer",
+            "FPS",
+            "Shooter",
+            "Action",
+            "Team-Based",
+            "First-Person",
+            "PvP",
+            "MOBA"
+        ],
+        "fecha_lanzamiento": "8 MAY 2018",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Procesador:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce 8800 GT<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 8/10 64-bit (latest Service Pack)<br></li><li><strong>Procesador:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1203220,
+        "nombre": "NARAKA: BLADEPOINT",
+        "estudio": [
+            "24 Entertainment"
+        ],
+        "publisher": [
+            "NetEase Games "
+        ],
+        "valoracion": "225960 pos / 98967 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo",
+            "Free to Play"
+        ],
+        "tags": [
+            "Battle Royale",
+            "Multiplayer",
+            "Martial Arts",
+            "Mature",
+            "PvP",
+            "Action",
+            "Female Protagonist",
+            "Character Customization",
+            "Massively Multiplayer",
+            "Fighting"
+        ],
+        "fecha_lanzamiento": "11 AGO 2021",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Procesador:</strong> Intel i5 4th generation or AMD FX 6300 or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 750TI, Intel Arc A380, AMD HD 6950 or equivalent<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 55 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> a) Can run at 720p/60fps; b) We advise you install the game on an SSD for a more streamlined experience. c) Requires “Windows Memory integrity and VBS enablement” to be disabled</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel i7 7th generation or equivalent<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 6G, Intel Arc A750, AMD RX480 or equivalent<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 55 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> a) Can run at 1080p/60fps; b) We advise you install the game on an SSD for a more streamlined experience. c) Requires “Windows Memory integrity and VBS enablement” to be disabled</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 320,
+        "nombre": "Half-Life 2: Deathmatch",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "12962 pos / 1334 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Action",
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "First-Person",
+            "Sci-fi",
+            "Physics",
+            "Competitive",
+            "Funny",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "1 NOV 2004",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo:</strong> procesador de 1,2&nbsp;GHz, 256&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 7, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 2,4&nbsp;GHz, 512&nbsp;MB de RAM, tarjeta de vídeo compatible con DirectX 9, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 70,
+        "nombre": "Half-Life",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "143086 pos / 5135 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "FPS",
+            "Classic",
+            "1990's",
+            "Singleplayer",
+            "Sci-fi",
+            "Multiplayer",
+            "Shooter",
+            "Action",
+            "First-Person",
+            "Aliens"
+        ],
+        "fecha_lanzamiento": "19 NOV 1998",
+        "precio": "Mex$ 113.99",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 582010,
+        "nombre": "Monster Hunter: World",
+        "estudio": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publisher": [
+            "CAPCOM Co., Ltd."
+        ],
+        "valoracion": "434239 pos / 59151 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Co-op",
+            "Multiplayer",
+            "Action",
+            "Open World",
+            "RPG",
+            "Character Customization",
+            "Third Person",
+            "Adventure",
+            "Fantasy",
+            "Action RPG"
+        ],
+        "fecha_lanzamiento": "8 AGO 2018",
+        "precio": "Mex$ 116.74",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> WINDOWS® 10 (requiere 64 bits)<br></li><li><strong>Procesador:</strong> Intel®Core™ i5 4460 or Core™ i3 9100F or AMD FX™-6300 or Ryzen™ 3 3200G<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA®GeForce®GTX 760 or GTX1050 or AMD Radeon™ R7 260x or RX 560<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 52 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectSound (DirectX® 9.0c o superior)<br></li><li><strong>Notas adicionales:</strong> Con estos requisitos podrás jugar a 1080p/30fps, eligiendo la configuración gráfica &quot;baja&quot;. Se necesita un procesador y sistema operativo de 64 bits.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> WINDOWS® 10 (requiere 64 bits)<br></li><li><strong>Procesador:</strong> Intel®Core™ i7 3770 or Core™ i3 8350 or Core™ i3 9350F or AMD Ryzen™ 5 1500X or Ryzen™ 5 3400G<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA®GeForce®GTX 1060(VRAM 3GB) or GTX 1650 or AMD Radeon™ RX 480 or RX 570<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 52 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectSound (DirectX® 9.0c o superior)<br></li><li><strong>Notas adicionales:</strong> Con estos requisitos podrás jugar a 1080p/30fps, eligiendo la configuración gráfica &quot;alta&quot;. Se necesita un procesador y sistema operativo de 64 bits. El API de DirectX 12 requiere Windows 10 (versión 1809 o superior) y una GPU con 4GB de VRAM (tarjeta gráfica o de vídeo).</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 227940,
+        "nombre": "Heroes & Generals",
+        "estudio": [
+            "TLM Partners"
+        ],
+        "publisher": [
+            "TLM Partners"
+        ],
+        "valoracion": "96499 pos / 46264 neg",
+        "generos": [
+            "Acción",
+            "Free to Play",
+            "Indie",
+            "Multijugador masivo",
+            "Estrategia"
+        ],
+        "tags": [
+            "Free to Play",
+            "World War II",
+            "FPS",
+            "Multiplayer",
+            "War",
+            "Shooter",
+            "Action",
+            "First-Person",
+            "Massively Multiplayer",
+            "Strategy"
+        ],
+        "fecha_lanzamiento": "18 OCT 2016",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 and up<br></li><li><strong>Procesador:</strong> 2GHz CPU w.  dual-core<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> ATI HD 4810 /  Nvidia 9600GT or higher<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 x64<br></li><li><strong>Procesador:</strong> Intel i5 / AMD Ryzen 5 or higher<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 560  / AMD HD 6870 or higher<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 252950,
+        "nombre": "Rocket League®",
+        "estudio": [
+            "Psyonix LLC"
+        ],
+        "publisher": [
+            "Psyonix LLC"
+        ],
+        "valoracion": "509445 pos / 73775 neg",
+        "generos": [
+            "Acción",
+            "Indie",
+            "Carreras",
+            "Deportes"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Football (Soccer)",
+            "Competitive",
+            "Sports",
+            "Racing",
+            "Team-Based",
+            "Online Co-Op",
+            "Football (American)",
+            "Fast-Paced",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "6 JUL 2015",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 (64 bit) or Newer (64 bit) Windows OS<br></li><li><strong>Procesador:</strong> 2.5 GHz Dual core<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 760, AMD Radeon R7 270X, or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 (64 bit) or Newer (64 bit) Windows OS<br></li><li><strong>Procesador:</strong> 3.0+ GHz Quad core<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060, AMD Radeon RX 470, or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Gamepad or Controller Recommended</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 108600,
+        "nombre": "Project Zomboid",
+        "estudio": [
+            "The Indie Stone"
+        ],
+        "publisher": [
+            "The Indie Stone"
+        ],
+        "valoracion": "355171 pos / 21892 neg",
+        "generos": [
+            "Indie",
+            "Rol",
+            "Simuladores",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Survival",
+            "Zombies",
+            "Open World",
+            "Multiplayer",
+            "Open World Survival Craft",
+            "Sandbox",
+            "Post-apocalyptic",
+            "Co-op",
+            "Crafting",
+            "Building"
+        ],
+        "fecha_lanzamiento": "8 NOV 2013",
+        "precio": "Mex$ 227.99",
+        "requerimientos": {
+            "minimos": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 64 Bit<br>\t</li><li> 64bit OS required<br>\t</li><li><strong>Processor:</strong> Intel 2.77GHz Quad-core<br>\t</li><li><strong>Memory:</strong> 8Gb Ram<br>\t</li><li><strong>Hard Disk Space:</strong> 5gig \t<br>\t</li><li><strong>Video Card:</strong>  Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)<br>        </li><li><strong>Sound:</strong> FMOD compatible sound card\t</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1966720,
+        "nombre": "Lethal Company",
+        "estudio": [
+            "Zeekerss"
+        ],
+        "publisher": [
+            "Zeekerss"
+        ],
+        "valoracion": "473422 pos / 13738 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Online Co-Op",
+            "Horror",
+            "First-Person",
+            "Co-op",
+            "Survival Horror",
+            "Exploration",
+            "Funny",
+            "Psychological Horror",
+            "Sci-fi",
+            "PvE"
+        ],
+        "fecha_lanzamiento": "23 OCT 2023",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5<br></li><li><strong>Gráficos:</strong> NVIDIA GForce GTX 1050<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1174180,
+        "nombre": "Red Dead Redemption 2",
+        "estudio": [
+            "Rockstar Games"
+        ],
+        "publisher": [
+            "Rockstar Games"
+        ],
+        "valoracion": "676667 pos / 56875 neg",
+        "generos": [
+            "Acción",
+            "Aventura"
+        ],
+        "tags": [
+            "Open World",
+            "Story Rich",
+            "Western",
+            "Adventure",
+            "Multiplayer",
+            "Action",
+            "Realistic",
+            "Singleplayer",
+            "Shooter",
+            "Atmospheric"
+        ],
+        "fecha_lanzamiento": "5 DIC 2019",
+        "precio": "Mex$ 1,199.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 - 64-bit<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-2500K / AMD FX-6300<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 150 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Direct X Compatible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 - 64-bit<br></li><li><strong>Procesador:</strong> Intel® Core™ i7-4770K / AMD Ryzen 5 1500X<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 150 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Direct X Compatible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1517290,
+        "nombre": "Battlefield™ 2042",
+        "estudio": [
+            "DICE"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ],
+        "valoracion": "139186 pos / 158588 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Casual"
+        ],
+        "tags": [
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Military",
+            "War",
+            "Singleplayer",
+            "Action",
+            "First-Person",
+            "Combat",
+            "Team-Based"
+        ],
+        "fecha_lanzamiento": "19 NOV 2021",
+        "precio": "Mex$ 1,399.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> AMD Ryzen 5 1600, Core i5 6600K<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> No recommendation</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> AMD Ryzen 7 2700X, Intel Core i7 4790<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX 6600 XT, Nvidia GeForce RTX 3060<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> No recommendation</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1240440,
+        "nombre": "Halo Infinite",
+        "estudio": [
+            "343 Industries"
+        ],
+        "publisher": [
+            "Xbox Game Studios"
+        ],
+        "valoracion": "123333 pos / 53708 neg",
+        "generos": [
+            "Acción",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "FPS",
+            "Multiplayer",
+            "Singleplayer",
+            "Shooter",
+            "Action",
+            "First-Person",
+            "Open World",
+            "Sci-fi",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "15 NOV 2021",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 RS5 x64<br></li><li><strong>Procesador:</strong> AMD Ryzen 5 1600 or Intel i5-4440<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD RX 570 or Nvidia GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 19H2 x64<br></li><li><strong>Procesador:</strong> AMD Ryzen 7 3700X or Intel i7-9700k<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> Radeon RX 5700 XT or Nvidia RTX 2070<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 648800,
+        "nombre": "Raft",
+        "estudio": [
+            "Redbeet Interactive"
+        ],
+        "publisher": [
+            "Axolot Games"
+        ],
+        "valoracion": "323198 pos / 23161 neg",
+        "generos": [
+            "Aventura",
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Survival",
+            "Multiplayer",
+            "Open World Survival Craft",
+            "Co-op",
+            "Crafting",
+            "Open World",
+            "Building",
+            "Base-Building",
+            "Online Co-Op",
+            "Adventure"
+        ],
+        "fecha_lanzamiento": "20 JUN 2022",
+        "precio": "Mex$ 259.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 or later<br></li><li><strong>Procesador:</strong> Intel Core i5 2.6GHz or similar<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 700 series or similar<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> 64-bit operating system is required</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 or later<br></li><li><strong>Procesador:</strong> Intel Core i5-6600 3.3GHz or similar<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1050 series or similar<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> 64-bit operating system is required</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 386360,
+        "nombre": "SMITE®",
+        "estudio": [
+            "Titan Forge Games"
+        ],
+        "publisher": [
+            "Hi-Rez Studios"
+        ],
+        "valoracion": "94368 pos / 25428 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Casual",
+            "Indie",
+            "Multijugador masivo",
+            "Rol",
+            "Simuladores",
+            "Estrategia",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "MOBA",
+            "Multiplayer",
+            "Action",
+            "Third Person",
+            "Mythology",
+            "Strategy",
+            "MMORPG",
+            "Team-Based",
+            "Nostalgia"
+        ],
+        "fecha_lanzamiento": "8 SEP 2015",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Procesador:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce 8800 GT<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 8/10 64-bit (latest Service Pack)<br></li><li><strong>Procesador:</strong> Intel Core i5 or AMD Phenom II X3, 2.8 GHz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible sound card</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 444200,
+        "nombre": "World of Tanks Blitz",
+        "estudio": [
+            "Wargaming Group Limited"
+        ],
+        "publisher": [
+            "Wargaming Group Limited"
+        ],
+        "valoracion": "116407 pos / 31754 neg",
+        "generos": [
+            "Acción",
+            "Multijugador masivo",
+            "Simuladores",
+            "Estrategia",
+            "Free to Play"
+        ],
+        "tags": [
+            "Tanks",
+            "Free to Play",
+            "Shooter",
+            "Action",
+            "FPS",
+            "Multiplayer",
+            "Strategy",
+            "Massively Multiplayer",
+            "PvP",
+            "World War II"
+        ],
+        "fecha_lanzamiento": "9 NOV 2016",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, 8.0, 8.1, 10, 11<br></li><li><strong>Procesador:</strong> 2 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> DirectX 11 compliant graphics card with 256 MB of VRAM<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 10,
+        "nombre": "Counter-Strike",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "243818 pos / 6427 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Action",
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Classic",
+            "Team-Based",
+            "First-Person",
+            "Competitive",
+            "Tactical",
+            "1990's"
+        ],
+        "fecha_lanzamiento": "1 NOV 2000",
+        "precio": "Mex$ 113.99",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 240,
+        "nombre": "Counter-Strike: Source",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "175426 pos / 6808 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Shooter",
+            "FPS",
+            "Action",
+            "Multiplayer",
+            "Team-Based",
+            "First-Person",
+            "Competitive",
+            "Tactical",
+            "PvP",
+            "e-sports"
+        ],
+        "fecha_lanzamiento": "1 NOV 2004",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo: </strong>Procesador a 1.7&nbsp;GHz, 512 MB de RAM, gráfica compatible con DirectX&reg; 8.1 (requiere compatibilidad con SSE), Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>\n\n<p><strong>Recomendado: </strong>Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX&reg; 9, Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 3164500,
+        "nombre": "Schedule I",
+        "estudio": [
+            "TVGS"
+        ],
+        "publisher": [
+            "TVGS"
+        ],
+        "valoracion": "200803 pos / 3238 neg",
+        "generos": [
+            "Acción",
+            "Indie",
+            "Simuladores",
+            "Estrategia",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Simulation",
+            "Co-op",
+            "Crime",
+            "Multiplayer",
+            "Open World",
+            "Management",
+            "First-Person",
+            "Action",
+            "Crafting",
+            "Base-Building"
+        ],
+        "fecha_lanzamiento": "24 MAR 2025",
+        "precio": "Mex$ 227.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64-bit)<br></li><li><strong>Procesador:</strong> 3GHz 4-Core or similar<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64-bit)<br></li><li><strong>Procesador:</strong> 3.5GHz 6-Core or similar<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce RTX 3060 or Radeon RX 6700<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 755790,
+        "nombre": "Ring of Elysium",
+        "estudio": [
+            "Aurora Studio"
+        ],
+        "publisher": [
+            "TCH Scarlet Limited"
+        ],
+        "valoracion": "74345 pos / 25492 neg",
+        "generos": [
+            "Acción",
+            "Free to Play",
+            "Multijugador masivo"
+        ],
+        "tags": [
+            "Free to Play",
+            "Battle Royale",
+            "Shooter",
+            "Multiplayer",
+            "Survival",
+            "FPS",
+            "Action",
+            "Massively Multiplayer",
+            "Third-Person Shooter",
+            "Early Access"
+        ],
+        "fecha_lanzamiento": "24 JUN 2019",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, Windows 8.1, Windows 10(64-bit version)<br></li><li><strong>Procesador:</strong> Intel i3 8130U(2Cores, 2.3GHz) or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GT 730 or equivalent<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX-compatible using the latest drivers</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, Windows 8.1, Windows 10 (64-bit version)<br></li><li><strong>Procesador:</strong> Intel i5 2500(4 Core, 3.3HGz) or equivalent<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1050 or equivalent<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX-compatible using the latest drivers</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 400,
+        "nombre": "Portal",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "175024 pos / 2717 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Puzzle",
+            "Puzzle-Platformer",
+            "First-Person",
+            "3D Platformer",
+            "Singleplayer",
+            "Sci-fi",
+            "Comedy",
+            "Female Protagonist",
+            "Physics",
+            "Funny"
+        ],
+        "fecha_lanzamiento": "10 OCT 2007",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo: </strong>Procesador a 1.7&nbsp;GHz, 512 MB de RAM, gráfica compatible con DirectX&reg; 8.1 (requiere compatibilidad con SSE), Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>\n\n<p><strong>Recomendado: </strong>Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX&reg; 9, Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1222670,
+        "nombre": "The Sims™ 4",
+        "estudio": [
+            "Maxis"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ],
+        "valoracion": "149064 pos / 21663 neg",
+        "generos": [
+            "Aventura",
+            "Casual",
+            "Simuladores",
+            "Free to Play"
+        ],
+        "tags": [
+            "Life Sim",
+            "Character Customization",
+            "Free to Play",
+            "Building",
+            "Romance",
+            "Simulation",
+            "Sandbox",
+            "Singleplayer",
+            "Dating Sim",
+            "Relaxing"
+        ],
+        "fecha_lanzamiento": "18 JUN 2020",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> (64 bits) Windows 10<br></li><li><strong>Procesador:</strong> Intel Core i3-3220 a 3,3 GHz (2 núcleos, 4 hilos), AMD Ryzen 3 1200 a 3,1 GHz (4 núcleos) o superior<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> 128 MB de memoria gráfica y compatibilidad con Pixel Shader 3.0 Tarjetas de vídeo compatibles: Tarjetas gráficas compatibles: NVIDIA GeForce 6600 o superior, ATI Radeon X1300 o superior, Intel GMA X4500 o superior<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 26 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Core i5 (4 núcleos) o AMD Ryzen 5 o superior<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 1 GB de RAM de vídeo, NVIDIA GTX 650, AMD Radeon HD 7750 o superior<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 51 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 550650,
+        "nombre": "Black Squad",
+        "estudio": [
+            "VALOFE",
+            "NS STUDIO"
+        ],
+        "publisher": [
+            "VALOFE"
+        ],
+        "valoracion": "62042 pos / 19672 neg",
+        "generos": [
+            "Acción",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Action",
+            "Early Access",
+            "First-Person",
+            "Military",
+            "Singleplayer",
+            "PvP"
+        ],
+        "fecha_lanzamiento": "26 JUN 2019",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64bit<br></li><li><strong>Procesador:</strong> CORE2 DUO 2.2GHZ / AMD Athlon 64 X2 2.66GHz<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GEFORCE 8600 OR GT630 / RADEON HD 6750<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64bit<br></li><li><strong>Procesador:</strong> CORE i3-4170 / AMD FX-8300<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 760 or AMD Radeon HD 7950<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 8 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 322330,
+        "nombre": "Don't Starve Together",
+        "estudio": [
+            "Klei Entertainment"
+        ],
+        "publisher": [
+            "Klei Entertainment"
+        ],
+        "valoracion": "475393 pos / 23668 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol",
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "Survival",
+            "Open World Survival Craft",
+            "Multiplayer",
+            "Co-op",
+            "Open World",
+            "Adventure",
+            "Crafting",
+            "Online Co-Op",
+            "Sandbox",
+            "Difficult"
+        ],
+        "fecha_lanzamiento": "21 ABR 2016",
+        "precio": "Mex$ 149.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows Vista/Windows 7/Windows 8<br></li><li><strong>Procesador:</strong> 1.7+ GHz or better<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Gráficos:</strong> Radeon HD5450 or better; 256 MB or higher<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> 100% DirectX9.0c compatible sound card and drivers</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 239140,
+        "nombre": "Dying Light",
+        "estudio": [
+            "Techland"
+        ],
+        "publisher": [
+            "Techland"
+        ],
+        "valoracion": "435687 pos / 21945 neg",
+        "generos": [
+            "Acción",
+            "Rol"
+        ],
+        "tags": [
+            "Zombies",
+            "Survival Horror",
+            "Horror",
+            "Online Co-Op",
+            "Open World",
+            "Parkour",
+            "First-Person",
+            "Survival",
+            "Open World Survival Craft",
+            "Gore"
+        ],
+        "fecha_lanzamiento": "26 ENE 2015",
+        "precio": "Mex$ 416.00",
+        "requerimientos": {
+            "minimos": "<strong>MINIMUM:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz<br>\t</li><li><strong>Memory:</strong> 4 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)<br>        </li><li><strong>DirectX®:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX® compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>",
+            "recomendados": "<strong>RECOMMENDED:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz <br>\t</li><li><strong>Memory:</strong> 8 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)<br>        </li><li><strong>DirectX®:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX® compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 477160,
+        "nombre": "Human Fall Flat",
+        "estudio": [
+            "No Brakes Games"
+        ],
+        "publisher": [
+            "Curve Games"
+        ],
+        "valoracion": "202253 pos / 11387 neg",
+        "generos": [
+            "Aventura",
+            "Casual",
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Co-op",
+            "Funny",
+            "Puzzle",
+            "Adventure",
+            "Physics",
+            "Multiplayer",
+            "Sandbox",
+            "Puzzle-Platformer",
+            "Action",
+            "Open World"
+        ],
+        "fecha_lanzamiento": "22 JUL 2016",
+        "precio": "Mex$ 185.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP/Vista/7/8/8.1/10 x86 and x64<br></li><li><strong>Procesador:</strong> Intel Core2 Duo E6750 (2 * 2660) or equivalent | AMD Athlon 64 X2 Dual Core 6000+ (2 * 3000) or equivalent<br></li><li><strong>Memoria:</strong> 1024 MB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GT 740 (2048 MB) or equivalent | Radeon HD 5770 (1024 MB)<br></li><li><strong>Almacenamiento:</strong> 500 MB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP/Vista/7/8/8.1/10 x86 and x64<br></li><li><strong>Procesador:</strong> Intel Core2 Quad Q9300 (4 * 2500) or equivalent | AMD A10-5800K APU (4*3800) or equivalent<br></li><li><strong>Memoria:</strong> 2048 MB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 460 (1024 MB) or equivalent | Radeon HD 7770 (1024 MB)<br></li><li><strong>Almacenamiento:</strong> 500 MB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 251570,
+        "nombre": "7 Days to Die",
+        "estudio": [
+            "The Fun Pimps"
+        ],
+        "publisher": [
+            "The Fun Pimps Entertainment LLC"
+        ],
+        "valoracion": "327889 pos / 42157 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol",
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "Survival",
+            "Zombies",
+            "Multiplayer",
+            "Open World",
+            "Open World Survival Craft",
+            "Base-Building",
+            "Post-apocalyptic",
+            "Voxel",
+            "Online Co-Op",
+            "Building"
+        ],
+        "fecha_lanzamiento": "25 JUL 2024",
+        "precio": "Mex$ 464.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or higher (64-bit)<br></li><li><strong>Procesador:</strong> 2.8 Ghz Quad Core CPU<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 2 GB Dedicated Memory<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Sound Card: DirectX® Compatible<br></li><li><strong>Notas adicionales:</strong> Running a Dedicated Server and Client on the same computer will double ram requirements. Also future releases may require more hard drive space.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or higher (64-bit)<br></li><li><strong>Procesador:</strong> 3.2 Ghz Quad Core CPU or faster<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> 4 GB Dedicated Memory<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 15 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Sound Card: DirectX® Compatible<br></li><li><strong>Notas adicionales:</strong> Running a Dedicated Server and Client on the same computer will double ram requirements. Also future releases may require more hard drive space.</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 100,
+        "nombre": "Counter-Strike: Condition Zero",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "13442 pos / 1535 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Action",
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "First-Person",
+            "Classic",
+            "Singleplayer",
+            "Tactical",
+            "Team-Based",
+            "Competitive"
+        ],
+        "fecha_lanzamiento": "1 MAR 2004",
+        "precio": "Mex$ 113.99",
+        "requerimientos": {
+            "minimos": "<p><strong>Mínimo:</strong> procesador de 500&nbsp;MHz, 96&nbsp;MB de RAM, tarjeta de vídeo de 16&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>\n\n<p><strong>Recomendado:</strong> procesador de 800&nbsp;MHz, 128&nbsp;MB de RAM, tarjeta de vídeo de 32&nbsp;MB, Windows XP, ratón, teclado y conexión a Internet<br /></p>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 1665460,
+        "nombre": "eFootball™",
+        "estudio": [
+            "KONAMI"
+        ],
+        "publisher": [
+            "KONAMI"
+        ],
+        "valoracion": "44067 pos / 48266 neg",
+        "generos": [
+            "Simuladores",
+            "Deportes",
+            "Free to Play"
+        ],
+        "tags": [
+            "Football (Soccer)",
+            "Free to Play",
+            "Controller",
+            "Multiplayer",
+            "Sports",
+            "e-sports",
+            "Simulation",
+            "Local Multiplayer",
+            "PvP",
+            "Co-op"
+        ],
+        "fecha_lanzamiento": "29 SEP 2021",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 - 64bit<br></li><li><strong>Procesador:</strong> Intel Core i5-2300, / AMD FX-4350<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 660 Ti / Radeon HD 7790<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 70 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 - 64bit<br></li><li><strong>Procesador:</strong> Intel Core i5-7600 / AMD Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GTX 1060 / AMD Radeon RX 590<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 70 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 417910,
+        "nombre": "Street Warriors Online",
+        "estudio": [
+            "Crazy Rocks Studios"
+        ],
+        "publisher": [
+            "Crazy Rocks Studios"
+        ],
+        "valoracion": "941 pos / 693 neg",
+        "generos": [
+            "Acción",
+            "Multijugador masivo",
+            "Simuladores",
+            "Deportes"
+        ],
+        "tags": [
+            "Fighting",
+            "Action",
+            "Multiplayer",
+            "Sports",
+            "Violent",
+            "Massively Multiplayer",
+            "Simulation",
+            "Open World",
+            "Free to Play",
+            "PvP"
+        ],
+        "fecha_lanzamiento": "16 DIC 2016",
+        "precio": "Mex$ 25.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>Procesador:</strong> Intel core 2 duo 2.4GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 433850,
+        "nombre": "Z1 Battle Royale",
+        "estudio": [
+            "Daybreak Game Company"
+        ],
+        "publisher": [
+            "Daybreak Game Company"
+        ],
+        "valoracion": "113729 pos / 90284 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Free to Play",
+            "Multijugador masivo"
+        ],
+        "tags": [
+            "Survival",
+            "Massively Multiplayer",
+            "Multiplayer",
+            "Open World",
+            "Battle Royale",
+            "PvP",
+            "FPS",
+            "Action",
+            "Shooter",
+            "Free to Play"
+        ],
+        "fecha_lanzamiento": "28 FEB 2018",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, 8, 8.1, 10 (64 bit only)<br></li><li><strong>Procesador:</strong> Intel i5 Quad-Core<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce GTX 460 series or higher<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Card</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, 8, 8.1, 10 (64 bit only)<br></li><li><strong>Procesador:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB or higher<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible Sound Card</li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 594650,
+        "nombre": "Hunt: Showdown 1896",
+        "estudio": [
+            "Crytek"
+        ],
+        "publisher": [
+            "Crytek"
+        ],
+        "valoracion": "181110 pos / 67110 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "Open World",
+            "Extraction Shooter",
+            "Multiplayer",
+            "Atmospheric",
+            "Tactical",
+            "FPS",
+            "Perma Death",
+            "Western",
+            "Shooter",
+            "PvP"
+        ],
+        "fecha_lanzamiento": "27 AGO 2019",
+        "precio": "Mex$ 155.60",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 64 bit<br></li><li><strong>Procesador:</strong> Intel CPU 7th Gen 7700 / AMD Ryzen 5 2600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 1650 Super or AMD Radeon RX 5500 XT, with a minimum of 4GB of VRAM<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible audio card<br></li><li><strong>Notas adicionales:</strong> Best experienced with headphones and on a SSD drive</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 64 bit<br></li><li><strong>Procesador:</strong> Intel CPU 8th Gen 8700 / AMD Ryzen 5 2700<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> RTX 2060 Super / AMD 6600 XT, with a minimum of 8GB of VRAM<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 75 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX compatible audio card<br></li><li><strong>Notas adicionales:</strong> Best experienced with headphones and on a SSD drive</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 814380,
+        "nombre": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "estudio": [
+            "FromSoftware, Inc."
+        ],
+        "publisher": [
+            "Activision (Excluding Japan and Asia)",
+            "FromSoftware, Inc. (Japan)",
+            "方块游戏 (Asia)"
+        ],
+        "valoracion": "307041 pos / 15193 neg",
+        "generos": [
+            "Acción",
+            "Aventura"
+        ],
+        "tags": [
+            "Souls-like",
+            "Difficult",
+            "Action",
+            "Singleplayer",
+            "Ninja",
+            "Stealth",
+            "Adventure",
+            "Third Person",
+            "Open World",
+            "Story Rich"
+        ],
+        "fecha_lanzamiento": "21 MAR 2019",
+        "precio": "Mex$ 1,299.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i3-2100 | AMD FX-6300<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 760 | AMD Radeon HD 7950<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11 Compatible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-2500K | AMD Ryzen 5 1400<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 970 | AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 11 Compatible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1116170,
+        "nombre": "CyberCorp",
+        "estudio": [
+            "Megame LLC"
+        ],
+        "publisher": [
+            "Megame LLC"
+        ],
+        "valoracion": "266 pos / 56 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol"
+        ],
+        "tags": [
+            "Top-Down Shooter",
+            "Twin Stick Shooter",
+            "Top-Down",
+            "Singleplayer",
+            "Character Customization",
+            "PvE",
+            "Isometric",
+            "Tactical",
+            "Violent",
+            "Indie"
+        ],
+        "fecha_lanzamiento": "22 ABR 2025",
+        "precio": "Mex$ 107.39",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 (64-bit)<br></li><li><strong>Procesador:</strong> Intel Celeron / AMD Phenom<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel HD 4000 / Radeon R3<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 (64-bit)<br></li><li><strong>Procesador:</strong> Intel Core i3 / AMD Ryzen 3<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GeForce GT 1030 / AMD RX 550<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 220,
+        "nombre": "Half-Life 2",
+        "estudio": [
+            "Valve"
+        ],
+        "publisher": [
+            "Valve"
+        ],
+        "valoracion": "239721 pos / 5906 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "FPS",
+            "Action",
+            "Sci-fi",
+            "Classic",
+            "Singleplayer",
+            "Story Rich",
+            "Shooter",
+            "First-Person",
+            "Adventure",
+            "Dystopian "
+        ],
+        "fecha_lanzamiento": "16 NOV 2004",
+        "precio": "Mex$ 123.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, Vista, XP<br></li><li><strong>Procesador:</strong> 1,7 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Gráficos:</strong> Tarjeta gráfica compatible con DirectX 8.1 y SSE<br></li><li><strong>Almacenamiento:</strong> 6500 MB de espacio disponible</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "No especificado",
+        "dlcs": []
+    },
+    {
+        "id": 107410,
+        "nombre": "Arma 3",
+        "estudio": [
+            "Bohemia Interactive"
+        ],
+        "publisher": [
+            "Bohemia Interactive"
+        ],
+        "valoracion": "256128 pos / 27136 neg",
+        "generos": [
+            "Acción",
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "Military",
+            "Action",
+            "Multiplayer",
+            "Shooter",
+            "Simulation",
+            "Realistic",
+            "First-Person",
+            "Open World",
+            "Tactical",
+            "FPS"
+        ],
+        "fecha_lanzamiento": "12 SEP 2013",
+        "precio": "Mex$ 429.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo: </strong><br><ul class=\"bb_ul\"><li><strong>OS: </strong>Windows 10 (64-bit)<br>\t</li><li><strong>Procesador: </strong>Intel Core quad-core o AMD Athlon quad-core<br>\t</li><li><strong>Memoria: </strong>8 GB de RAM<br>\t</li><li><strong>Tarjeta gráfica: </strong>NVIDIA GeForce GTX 660 / AMD Radeon HD 7850 /  Intel HD Graphics 4000 con 1 GB de VRAM<br>\t</li><li><strong>DirectX®: </strong>10<br>\t</li><li><strong>Disco duro: </strong>50 GB de espacio libre<br>\t</li><li><strong>Sonido: </strong>compatible con DirectX®</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>OS: </strong>Windows 10 / 11 (64-bit)<br>\t</li><li><strong>Procesador: </strong>Intel Core i7-7700K o AMD Ryzen 3 3300X o superior<br>\t</li><li><strong>Memoria: </strong>16 GB de RAM<br>\t</li><li><strong>Tarjeta gráfica: </strong>NVIDIA GeForce GTX 1060 / AMD Radeon RX 580 con 6 GB de VRAM<br>\t</li><li><strong>DirectX®: </strong>11<br>\t</li><li><strong>Disco duro: </strong>80 GB de espacio libre (almacenamiento SSD)<br>\t</li><li><strong>Sonido: </strong>compatible con DirectX®</li></ul>"
+        },
+        "peso_estimado": "</strong>8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1326470,
+        "nombre": "Sons Of The Forest",
+        "estudio": [
+            "Endnight Games Ltd"
+        ],
+        "publisher": [
+            "Newnight "
+        ],
+        "valoracion": "222495 pos / 31051 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Simuladores"
+        ],
+        "tags": [
+            "Survival",
+            "Open World",
+            "Multiplayer",
+            "Co-op",
+            "Survival Horror",
+            "Base-Building",
+            "Horror",
+            "Crafting",
+            "First-Person",
+            "Building"
+        ],
+        "fecha_lanzamiento": "22 FEB 2024",
+        "precio": "Mex$ 100.49",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> INTEL CORE I5-8400 or AMD RYZEN 3 3300X<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD (Preferred)</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> INTEL CORE I7-8700K or AMD RYZEN 5 3600X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 1080Ti  or AMD Radeon RX 5700 XT<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> SSD (Preferred)</li></ul>"
+        },
+        "peso_estimado": "12 GB",
+        "dlcs": []
+    },
+    {
+        "id": 219990,
+        "nombre": "Grim Dawn",
+        "estudio": [
+            "Crate Entertainment"
+        ],
+        "publisher": [
+            "Crate Entertainment"
+        ],
+        "valoracion": "93489 pos / 6241 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol"
+        ],
+        "tags": [
+            "Action RPG",
+            "Hack and Slash",
+            "Loot",
+            "Isometric",
+            "Dark Fantasy",
+            "RPG",
+            "Dungeon Crawler",
+            "Co-op",
+            "Singleplayer",
+            "Character Customization"
+        ],
+        "fecha_lanzamiento": "25 FEB 2016",
+        "precio": "Mex$ 282.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP / Windows Vista / Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Procesador:</strong> x86 compatible 2.3GHz or faster processor (Intel 2nd generation core i-series or equivalent)<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> 512MB NVIDIA GeForce 6800 series or ATI Radeon X800 series or better<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c compatible 16-bit sound card<br></li><li><strong>Notas adicionales:</strong> 4GB of memory is required to host multiplayer games</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 / Windows 10<br></li><li><strong>Procesador:</strong> x86 compatible 3.2GHz or faster processor (Intel 4th generation core i-series or better)<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> 1.5GB NVIDIA GeForce 500 series or ATI Radeon 6000 series or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 5 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 255710,
+        "nombre": "Cities: Skylines",
+        "estudio": [
+            "Colossal Order"
+        ],
+        "publisher": [
+            "Paradox Interactive"
+        ],
+        "valoracion": "256362 pos / 19408 neg",
+        "generos": [
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "City Builder",
+            "Simulation",
+            "Building",
+            "Management",
+            "Strategy",
+            "Sandbox",
+            "Singleplayer",
+            "Moddable",
+            "Economy",
+            "Resource Management"
+        ],
+        "fecha_lanzamiento": "10 MAR 2015",
+        "precio": "Mex$ 460.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 10 Home 64 Bit<br></li><li><strong>Procesador:</strong> Intel® Core™ I7 930  |  AMD® FX 6350<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia® GeForce™ GTS 450 (1 GB) |  AMD® R7 250 (2 GB)  |  Intel Iris Xe G7 (Tiger Lake)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows® 10 Home 64 bit<br></li><li><strong>Procesador:</strong> Intel® Core™ I7 2700K  |   AMD® Ryzen 7 2700X<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia® GeForce™ GTX 580 (1.5 GB)  |   AMD® Radeon™ RX 560 (4 GB)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 261550,
+        "nombre": "Mount & Blade II: Bannerlord",
+        "estudio": [
+            "TaleWorlds Entertainment"
+        ],
+        "publisher": [
+            "TaleWorlds Entertainment"
+        ],
+        "valoracion": "232360 pos / 32031 neg",
+        "generos": [
+            "Acción",
+            "Indie",
+            "Rol",
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "Medieval",
+            "Strategy",
+            "Open World",
+            "RPG",
+            "War",
+            "Sandbox",
+            "Multiplayer",
+            "Singleplayer",
+            "Action",
+            "Character Customization"
+        ],
+        "fecha_lanzamiento": "25 OCT 2022",
+        "precio": "Mex$ 899.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 (64-bit only)<br></li><li><strong>Procesador:</strong> Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200 / Snapdragon X Elite<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB<br></li><li><strong>Almacenamiento:</strong> 60 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Integrated GPUs require additional 2GB of system RAM.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64-bit only)<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580<br></li><li><strong>Almacenamiento:</strong> 60 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> </li></ul>"
+        },
+        "peso_estimado": "6 GB",
+        "dlcs": []
+    },
+    {
+        "id": 8930,
+        "nombre": "Sid Meier's Civilization® V",
+        "estudio": [
+            "Firaxis Games",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": [
+            "2K",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "valoracion": "195724 pos / 8541 neg",
+        "generos": [
+            "Estrategia"
+        ],
+        "tags": [
+            "Turn-Based Strategy",
+            "Strategy",
+            "Turn-Based",
+            "Multiplayer",
+            "Historical",
+            "4X",
+            "Addictive",
+            "Singleplayer",
+            "Hex Grid",
+            "Grand Strategy"
+        ],
+        "fecha_lanzamiento": "21 SEP 2010",
+        "precio": "Mex$ 269.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® XP SP3 / Windows® Vista SP2 / Windows® 7 <br></li><li><strong>Procesador:</strong> Intel Core 2 Duo a 1.8 GHz o AMD Athlon X2 64 a 2.0 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM <br></li><li><strong>Gráficos:</strong> ATI HD2600 XT con 256 MB o superior, nVidia 7900 GS con 256 MB o superior, Core i3 o gráfica integrada superior<br></li><li><strong>DirectX®:</strong> DirectX® versión 9.0c <br></li><li><strong>Disco Duro:</strong> 8 GB de espacio libre <br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c </li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® Vista SP2 / Windows® 7 <br></li><li><strong>Procesador:</strong> Quad Core a 1.8 GHz <br></li><li><strong>Memoria:</strong> 4 GB de RAM <br></li><li><strong>Gráficos:</strong> Familia ATI 4800 con 512 MB o superior, familia nVidia 9800 con 512 MB o superior<br></li><li><strong>DirectX®:</strong> DirectX® versión 11<br></li><li><strong>Disco Duro:</strong> 8 GB de espacio libre<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c</li></ul>"
+        },
+        "peso_estimado": "2 GB",
+        "dlcs": []
+    },
+    {
+        "id": 304050,
+        "nombre": "Trove",
+        "estudio": [
+            "gamigo US Inc."
+        ],
+        "publisher": [
+            "gamigo US Inc."
+        ],
+        "valoracion": "74103 pos / 18267 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Casual",
+            "Multijugador masivo",
+            "Rol",
+            "Free to Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Open World",
+            "Sandbox",
+            "Pixel Graphics",
+            "Fantasy",
+            "MMORPG",
+            "Voxel",
+            "Multiplayer",
+            "Crafting",
+            "Family Friendly"
+        ],
+        "fecha_lanzamiento": "9 JUL 2015",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Vista 32-bit Service Pack 2<br></li><li><strong>Procesador:</strong> Intel Core i5-2XXX @ 2.0GHz / AMD Phenom II X4 @ 2.6GHz<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel HD Graphics 3000 o mejo<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> controlador de gráficos: OpenGL 3.2 o</li></ul>",
+            "recomendados": "N/A"
+        },
+        "peso_estimado": "1 GB",
+        "dlcs": []
+    },
+    {
+        "id": 289070,
+        "nombre": "Sid Meier’s Civilization® VI",
+        "estudio": [
+            "Firaxis Games",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publisher": [
+            "2K",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "valoracion": "304053 pos / 45867 neg",
+        "generos": [
+            "Estrategia"
+        ],
+        "tags": [
+            "Strategy",
+            "Turn-Based Strategy",
+            "Multiplayer",
+            "Historical",
+            "Grand Strategy",
+            "Singleplayer",
+            "Turn-Based",
+            "4X",
+            "War",
+            "City Builder"
+        ],
+        "fecha_lanzamiento": "20 OCT 2016",
+        "precio": "Mex$ 599.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7x64 / Windows 8.1x64 / Windows 10x64<br></li><li><strong>Procesador:</strong> Intel Core i3 2.5 Ghz or AMD Phenom II 2.6 Ghz or greater<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> 1 GB &amp; AMD 5570 or nVidia 450 or Intel Integrated Graphics 530<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 17 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Device<br></li><li><strong>Notas adicionales:</strong> Initial installation requires one-time Internet connection for Steam authentication; software installations required (included with the game) include Steam Client, Microsoft Visual C++ 2012 and 2015 Runtime Libraries, and Microsoft DirectX. Internet connection and acceptance of Steam™ Subscriber Agreement required for activation. See  for details.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7x64 / Windows 8.1x64 / Windows 10x64<br></li><li><strong>Procesador:</strong> Fourth Generation Intel Core i5 2.5 Ghz or AMD FX8350 4.0 Ghz or greater<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 2GB &amp; AMD 7970 or nVidia 770 or greater<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 23 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Device</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 377160,
+        "nombre": "Fallout 4",
+        "estudio": [
+            "Bethesda Game Studios"
+        ],
+        "publisher": [
+            "Bethesda Softworks"
+        ],
+        "valoracion": "326054 pos / 66233 neg",
+        "generos": [
+            "Rol"
+        ],
+        "tags": [
+            "Open World",
+            "Post-apocalyptic",
+            "Singleplayer",
+            "Exploration",
+            "RPG",
+            "Adventure",
+            "Atmospheric",
+            "Shooter",
+            "First-Person",
+            "Story Rich"
+        ],
+        "fecha_lanzamiento": "9 NOV 2015",
+        "precio": "Mex$ 359.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Procesador:</strong> Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Procesador:</strong> Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 532210,
+        "nombre": "Life is Strange 2",
+        "estudio": [
+            "DONTNOD Entertainment",
+            "Feral Interactive (Mac)",
+            "Feral Interactive (Linux)"
+        ],
+        "publisher": [
+            "Square Enix",
+            "Feral Interactive (Mac)",
+            "Feral Interactive (Linux)"
+        ],
+        "valoracion": "31616 pos / 5018 neg",
+        "generos": [
+            "Aventura"
+        ],
+        "tags": [
+            "Choices Matter",
+            "Story Rich",
+            "Adventure",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Episodic",
+            "Drama",
+            "Sexual Content",
+            "Choose Your Own Adventure"
+        ],
+        "fecha_lanzamiento": "26 SEP 2018",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 or above (64-bit Operating System Required)<br></li><li><strong>Procesador:</strong> Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Please note that 32-bit operating systems will not be supported</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz)<br></li><li><strong>Memoria:</strong> 6 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Please note that 32-bit operating systems will not be supported</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 2186680,
+        "nombre": "Warhammer 40,000: Rogue Trader",
+        "estudio": [
+            "Owlcat Games"
+        ],
+        "publisher": [
+            "Owlcat Games"
+        ],
+        "valoracion": "26360 pos / 4445 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Indie",
+            "Rol",
+            "Estrategia"
+        ],
+        "tags": [
+            "Character Customization",
+            "Cinematic",
+            "Story Rich",
+            "Turn-Based Strategy",
+            "Dark Fantasy",
+            "Romance",
+            "Turn-Based Tactics",
+            "Strategy",
+            "Action",
+            "RPG"
+        ],
+        "fecha_lanzamiento": "7 DIC 2023",
+        "precio": "Mex$ 519.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Win10<br></li><li><strong>Procesador:</strong> Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX Vega 6 / Intel HD Graphics 630<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Win10<br></li><li><strong>Procesador:</strong> Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon RX 570 / NVIDIA GeForce GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 40 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1238810,
+        "nombre": "Battlefield™ V",
+        "estudio": [
+            "DICE"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ],
+        "valoracion": "177352 pos / 72936 neg",
+        "generos": [
+            "Acción"
+        ],
+        "tags": [
+            "FPS",
+            "Multiplayer",
+            "Singleplayer",
+            "World War II",
+            "Shooter",
+            "War",
+            "Military",
+            "First-Person",
+            "Massively Multiplayer",
+            "PvP"
+        ],
+        "fecha_lanzamiento": "22 OCT 2020",
+        "precio": "Mex$ 1,199.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10<br></li><li><strong>Procesador:</strong> AMD FX-8350/ Core i5 6600K<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce® GTX 1050 / NVIDIA GeForce® GTX 660 2GB or AMD Radeon™ RX 560 / HD 7850 2GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> 64-bit Windows 10 or later<br></li><li><strong>Procesador:</strong> AMD Ryzen 3 1300X/Intel Core i7 4790<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce® GTX 1060 6GB/AMD Radeon™ RX 580 8GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 3241660,
+        "nombre": "R.E.P.O.",
+        "estudio": [
+            "semiwork"
+        ],
+        "publisher": [
+            "semiwork"
+        ],
+        "valoracion": "179154 pos / 6488 neg",
+        "generos": [
+            "Acción",
+            "Acceso anticipado"
+        ],
+        "tags": [
+            "Horror",
+            "Online Co-Op",
+            "Multiplayer",
+            "Comedy",
+            "Co-op",
+            "Physics",
+            "3D",
+            "First-Person",
+            "Stealth",
+            "Action"
+        ],
+        "fecha_lanzamiento": "26 FEB 2025",
+        "precio": "Mex$ 115.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> Core i5 6600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GTX 970<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 11<br></li><li><strong>Procesador:</strong> Intel Core i7 8700<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> GTX 1070<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 221100,
+        "nombre": "DayZ",
+        "estudio": [
+            "Bohemia Interactive"
+        ],
+        "publisher": [
+            "Bohemia Interactive"
+        ],
+        "valoracion": "330349 pos / 99903 neg",
+        "generos": [
+            "Acción",
+            "Aventura",
+            "Multijugador masivo"
+        ],
+        "tags": [
+            "Survival",
+            "Open World",
+            "Online Co-Op",
+            "Zombies",
+            "Multiplayer",
+            "Post-apocalyptic",
+            "Shooter",
+            "PvP",
+            "Massively Multiplayer",
+            "Action"
+        ],
+        "fecha_lanzamiento": "13 DIC 2018",
+        "precio": "Mex$ 699.00",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-4430 or AMD Ryzen 5 2600 Six-Core<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 760 or AMD R9 270X<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 25 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible<br></li><li><strong>Notas adicionales:</strong> Internet connection</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 / 11 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-6600K or AMD R5 1600X<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1060 or AMD RX 580<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 30 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX®-compatible<br></li><li><strong>Notas adicionales:</strong> Internet connection</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 526870,
+        "nombre": "Satisfactory",
+        "estudio": [
+            "Coffee Stain Studios"
+        ],
+        "publisher": [
+            "Coffee Stain Publishing"
+        ],
+        "valoracion": "225479 pos / 6585 neg",
+        "generos": [
+            "Aventura",
+            "Indie",
+            "Simuladores",
+            "Estrategia"
+        ],
+        "tags": [
+            "Base-Building",
+            "Automation",
+            "Open World",
+            "Multiplayer",
+            "Crafting",
+            "Co-op",
+            "Building",
+            "Resource Management",
+            "Sandbox",
+            "Exploration"
+        ],
+        "fecha_lanzamiento": "10 SEP 2024",
+        "precio": "Mex$ 409.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Procesador:</strong> i5-3570 3.4 GHz 4 Core<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 1650/GTX 1050-ti, or AMD RX 470/RX 570, or equivalent performance &amp; VRAM<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Internet connection required for multiplayer.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 11 or later (64-Bit)<br></li><li><strong>Procesador:</strong> Ryzen 5 5600X﻿ or ﻿i5-12400 ﻿or equivalent performance, 6 physical cores minimum<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia RTX 2070﻿ or RX 5700, or equivalent performance &amp; VRAM<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Internet connection required for multiplayer.</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1089350,
+        "nombre": "NBA 2K20",
+        "estudio": [
+            "Visual Concepts"
+        ],
+        "publisher": [
+            "2K"
+        ],
+        "valoracion": "30260 pos / 30413 neg",
+        "generos": [
+            "Simuladores",
+            "Deportes"
+        ],
+        "tags": [
+            "Basketball",
+            "Sports",
+            "Simulation",
+            "Multiplayer",
+            "Singleplayer",
+            "Capitalism",
+            "Casual",
+            "Loot",
+            "Local Multiplayer",
+            "Massively Multiplayer"
+        ],
+        "fecha_lanzamiento": "6 SEP 2019",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit, Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel® Core™ i3-530 @ 2.93 GHz / AMD FX-4100 @ 3.60 GHz or better<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GT 450 1GB / AMD® Radeon™ HD 7770 1GB or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 80 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0x compatible <strong>Dual-Analog Gamepad:</strong> Recommended<br></li><li><strong>Notas adicionales:</strong> Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2012.</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 64-bit, Windows 8.1 64-bit or Windows 10 64-bit<br></li><li><strong>Procesador:</strong> Intel® Core™ i5-4430 @ 3 GHz / AMD FX-8370 @ 3.4 GHz or better<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® GTX 770 2GB / AMD® Radeon™ R9 270 2GB or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 80 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Notas adicionales:</strong> Dual-analog gamepad</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 632360,
+        "nombre": "Risk of Rain 2",
+        "estudio": [
+            "Hopoo Games"
+        ],
+        "publisher": [
+            "Gearbox Publishing"
+        ],
+        "valoracion": "293127 pos / 20450 neg",
+        "generos": [
+            "Acción",
+            "Indie"
+        ],
+        "tags": [
+            "Third-Person Shooter",
+            "Action Roguelike",
+            "Multiplayer",
+            "Co-op",
+            "Action",
+            "Rogue-lite",
+            "Rogue-like",
+            "Looter Shooter",
+            "Loot",
+            "Online Co-Op"
+        ],
+        "fecha_lanzamiento": "11 AGO 2020",
+        "precio": "Mex$ 233.99",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i3-6100 / AMD FX-8350<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GTX 580 / AMD HD 7870<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows 7 or newer, 64-bit<br></li><li><strong>Procesador:</strong> Intel Core i5-4670K / AMD Ryzen 5 1500X<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> GTX 680 / AMD HD 7970<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 4 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "4 GB",
+        "dlcs": []
+    },
+    {
+        "id": 1811260,
+        "nombre": "EA SPORTS™ FIFA 23",
+        "estudio": [
+            "EA Canada",
+            "EA Romania"
+        ],
+        "publisher": [
+            "Electronic Arts"
+        ],
+        "valoracion": "86192 pos / 65227 neg",
+        "generos": [
+            "Simuladores",
+            "Deportes"
+        ],
+        "tags": [
+            "Football (Soccer)",
+            "Sports",
+            "Controller",
+            "e-sports",
+            "PvP",
+            "Management",
+            "Simulation",
+            "Team-Based",
+            "Realistic",
+            "Third Person"
+        ],
+        "fecha_lanzamiento": "30 SEP 2022",
+        "precio": "Gratis/N/A",
+        "requerimientos": {
+            "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 - 64-Bit (Latest Update)<br></li><li><strong>Procesador:</strong> Intel Core i5 6600k or AMD Ryzen 5 1600<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible</li></ul>",
+            "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 - 64-Bit (Latest Update)<br></li><li><strong>Procesador:</strong> Intel Core i7 6700 or AMD Ryzen 7 2700X<br></li><li><strong>Memoria:</strong> 12 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 1660 or AMD Radeon RX 5600 XT<br></li><li><strong>DirectX:</strong> Versión 12<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 100 GB de espacio disponible</li></ul>"
+        },
+        "peso_estimado": "8 GB",
+        "dlcs": []
+    }
+]

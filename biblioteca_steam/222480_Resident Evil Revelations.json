@@ -1,0 +1,51 @@
+{
+    "id": 222480,
+    "nombre": "Resident Evil Revelations",
+    "estudio": [
+        "Capcom"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "12258 pos / 2947 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Horror",
+        "Action",
+        "Zombies",
+        "Survival Horror",
+        "Third-Person Shooter",
+        "Adventure",
+        "Female Protagonist",
+        "Co-op",
+        "Third Person",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "20 MAY 2013",
+    "precio": "Mex$ 289.00",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows®10<br>\t</li><li><strong>Processor:</strong>Intel® Core™ 2 Duo 2.4Ghz or better, AMD Athlon™ X2 2.8 Ghz or better<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA® GeForce® 8800GTS or better, ATI Radeon™ HD3850 or better<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>8 GB HD space<br>\t</li><li><strong>Sound:</strong>DirectSound supported with DirectX9.0c or better<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows®10<br>\t</li><li><strong>Processor:</strong>Intel® Core™ 2 Quad 2.7 Ghz or better, AMD Phenom™ II X4 3 Ghz or better<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA® GeForce® GTX 560 or better, ATI Radeon™ HD6950 or better<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>8 GB HD space<br>\t</li><li><strong>Sound:</strong>DirectSound supported with DirectX9.0c or better<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>"
+    },
+    "peso_estimado": "</li><li><strong>Memory:</strong>2 GB",
+    "dlcs": [
+        {
+            "nombre": "Resident Evil: Revelations Parker's Government Handgun + Custom Part:",
+            "fecha": "18 Jun, 2013",
+            "precio": "Mex$ 19.00"
+        },
+        {
+            "nombre": "Resident Evil: Revelations Jessica's G18 + Custom Part:",
+            "fecha": "18 Jun, 2013",
+            "precio": "Mex$ 19.00"
+        },
+        {
+            "nombre": "Resident Evil: Revelations Jill's Samurai Edge + Custom Part:",
+            "fecha": "18 Jun, 2013",
+            "precio": "Mex$ 19.00"
+        }
+    ]
+}

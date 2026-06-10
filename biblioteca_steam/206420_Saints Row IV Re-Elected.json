@@ -1,0 +1,35 @@
+{
+    "id": 206420,
+    "nombre": "Saints Row IV: Re-Elected",
+    "estudio": [
+        "Deep Silver Volition"
+    ],
+    "publisher": [
+        "Deep Silver"
+    ],
+    "valoracion": "67768 pos / 9376 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "Action",
+        "Comedy",
+        "Co-op",
+        "Third-Person Shooter",
+        "Character Customization",
+        "Superhero",
+        "Sandbox",
+        "Funny",
+        "Third Person"
+    ],
+    "fecha_lanzamiento": "19 AGO 2013",
+    "precio": "Mex$ 320.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows Vista (x86 or x64)<br></li><li><strong>Procesador:</strong> Intel Core 2 Quad Q6600 | AMD Athlon II x3<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 260 | AMD Radeon HD 5800 series<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 (x86 or x64)<br></li><li><strong>Procesador:</strong> Intel i3 2100T | AMD Phenom II x4 or higher<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GTX 560 | AMD Radeon HD 6800 series or higher<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 10 GB de espacio disponible</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": []
+}

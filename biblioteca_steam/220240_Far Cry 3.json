@@ -1,0 +1,35 @@
+{
+    "id": 220240,
+    "nombre": "Far Cry 3",
+    "estudio": [
+        "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai"
+    ],
+    "publisher": [
+        "Ubisoft"
+    ],
+    "valoracion": "101914 pos / 12105 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Open World",
+        "FPS",
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Shooter",
+        "Stealth",
+        "Co-op",
+        "First-Person",
+        "Hunting"
+    ],
+    "fecha_lanzamiento": "4 DIC 2012",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP, Windows Vista<br>\t</li><li><strong>Processor:</strong>Intel Core®2 Duo E6700 @ 2.6 GHz or AMD Athlon64 X2 6000+ @ 3.0Ghz or better<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>15 GB HD space<br>\t</li><li><strong>Sound:</strong>DirectX Compatible  (Recommended Surround Sound 5.1 capable)<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>*Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .<br>Requires a UPlay account</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>512MB Video RAM (1GB Video RAM), DirectX9c (DirectX11) Shader Model 3.0 (Shader Model 5.0)<br>\t</li><li><strong>DirectX®:</strong>11<br>\t</li><li><strong>Hard Drive:</strong>15 GB HD space<br>\t</li><li><strong>Sound:</strong>DirectX Compatible  (Recommended Surround Sound 5.1 capable)<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>*Supported Video Cards at Time of Release: AMD Radeon™ HD 2900 / 3000 / 4000 / 5000 / 6000 / 7000 series, NVIDIA® GeForce® 8800 GTX / 9 / 200 / 400 / 500 / 600 series. Laptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at .<br>Requires a UPlay account</li></ul>"
+    },
+    "peso_estimado": "</li><li><strong>Memory:</strong>4 GB",
+    "dlcs": []
+}

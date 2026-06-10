@@ -1,0 +1,41 @@
+{
+    "id": 264710,
+    "nombre": "Subnautica",
+    "estudio": [
+        "Unknown Worlds Entertainment"
+    ],
+    "publisher": [
+        "Unknown Worlds Entertainment"
+    ],
+    "valoracion": "304449 pos / 9258 neg",
+    "generos": [
+        "Aventura",
+        "Indie"
+    ],
+    "tags": [
+        "Open World Survival Craft",
+        "Survival",
+        "Horror",
+        "Open World",
+        "Underwater",
+        "Exploration",
+        "Crafting",
+        "Base-Building",
+        "Singleplayer",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "23 ENE 2018",
+    "precio": "Mex$ 148.75",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows Vista SP2 or newer, 64-bit<br></li><li><strong>Procesador:</strong> Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel HD 4600 or equivalent - This includes most GPUs scoring greater than 950 points in the 3DMark Fire Strike benchmark<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO *:</strong> Windows Vista SP2 or newer, 64-bit<br></li><li><strong>Procesador:</strong> Intel Haswell 4 cores / 4 threads @ 3.2Ghz or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GTX 550 Ti or equivalent, 2GB VRAM<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "Subnautica Original Soundtrack",
+            "fecha": "30 Apr, 2021",
+            "precio": "Mex$ 48.75"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 20900,
+    "nombre": "The Witcher: Enhanced Edition Director's Cut",
+    "estudio": [
+        "CD PROJEKT RED"
+    ],
+    "publisher": [
+        "CD PROJEKT RED",
+        "1C-SoftClub"
+    ],
+    "valoracion": "73569 pos / 9135 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Fantasy",
+        "Story Rich",
+        "Mature",
+        "Singleplayer",
+        "Choices Matter",
+        "Action",
+        "Third Person",
+        "Nudity",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "19 SEP 2008",
+    "precio": "Mex$ 124.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo: </strong><br><ul class=\"bb_ul\"><li><strong>SO: </strong>Microsoft® Windows® XP / Vista<br></li><li><strong>Versión de DirectX: </strong>DirectX 9.0c (incluido) o posterior<br></li><li><strong>Procesador: </strong>Intel Pentium 4 a 2.4 GHz o Athlon 64 +2800 (Intel Pentium 4 a 3.0 GHz o AMD Athlon 64 +3000 recomendado). La familia de procesadores Athlon XP, como el Athlon XP +2400 no está soportada<br></li><li><strong>Gráficos: </strong>nVidia GeForce 6600 o ATI Radeon 9800 o superior (nVidia GeForce 7800 GTX o ATI Radeon X1950 XT o superior recomendada)<br></li><li><strong>Memoria: </strong>1 GB de RAM (2 GB de RAM recomendados)<br></li><li><strong>Sonido: </strong>Dispositivo de sonido compatible con DirectX 9.0c<br></li><li><strong>Disco Duro: </strong>15 GB de espacio libre</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "</strong>1 GB",
+    "dlcs": [
+        {
+            "nombre": "The Witcher: Enhanced Edition Soundtrack",
+            "fecha": "10 Feb, 2020",
+            "precio": "Mex$ 82.49"
+        }
+    ]
+}

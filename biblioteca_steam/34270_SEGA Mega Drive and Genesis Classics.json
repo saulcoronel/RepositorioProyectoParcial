@@ -1,0 +1,37 @@
+{
+    "id": 34270,
+    "nombre": "SEGA Mega Drive and Genesis Classics",
+    "estudio": [
+        "D3T Limited"
+    ],
+    "publisher": [
+        "SEGA"
+    ],
+    "valoracion": "9533 pos / 2269 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Casual",
+        "Rol"
+    ],
+    "tags": [
+        "Classic",
+        "Action",
+        "Adventure",
+        "RPG",
+        "Retro",
+        "Casual",
+        "1990's",
+        "2D",
+        "Arcade",
+        "Pixel Graphics"
+    ],
+    "fecha_lanzamiento": "1 JUN 2010",
+    "precio": "Gratis/N/A",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows® XP or higher<br></li><li><strong>Gráficos:</strong> 32MB or greater graphics card<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR or Oculus PC. Keyboard or gamepad required<br></li><li><strong>Notas adicionales:</strong> System specs for classic launcher. Microsoft no longer supports Windows 10 or older versions.</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows® 10 or higher<br></li><li><strong>Procesador:</strong> Intel i3-2100 or AMD Phenom II X4 940 or equivalent dual core CPU<br></li><li><strong>Gráficos:</strong> NVidia GeForce GTX 280 or ATI Radeon HD 6630 or equivalent DirectX® 9c or higher 1GB VRam<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Notas adicionales:</strong> Microsoft no longer supports Windows 10 or older versions.</li></ul>"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

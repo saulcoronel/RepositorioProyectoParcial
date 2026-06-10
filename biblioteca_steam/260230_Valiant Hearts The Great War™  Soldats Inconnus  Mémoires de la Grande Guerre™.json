@@ -1,0 +1,34 @@
+{
+    "id": 260230,
+    "nombre": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+    "estudio": [
+        "Ubisoft Montpellier"
+    ],
+    "publisher": [
+        "Ubisoft"
+    ],
+    "valoracion": "24888 pos / 1155 neg",
+    "generos": [
+        "Aventura"
+    ],
+    "tags": [
+        "Atmospheric",
+        "Historical",
+        "World War I",
+        "Adventure",
+        "War",
+        "Story Rich",
+        "Drama",
+        "2D",
+        "Puzzle",
+        "Great Soundtrack"
+    ],
+    "fecha_lanzamiento": "25 JUN 2014",
+    "precio": "Mex$ 74.75",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS<br></li><li><strong>Procesador:</strong> Intel Pentium IV 630 @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce 8800 GT or AMD Radeon HD2900 XT (512MB VRAM)<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Notas adicionales:</strong> Windows-compatible keyboard and mouse required, optional Microsoft XBOX360 controller or compatible</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS<br></li><li><strong>Procesador:</strong> Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon64 X2 3800+ @ 2 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> NVidia GeForce 9600GT or higher, AMD Radeon HD3850 or higher (512MB VRAM with Shader Model 4.0)<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 2 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Notas adicionales:</strong> Windows-compatible keyboard and mouse required, optional Microsoft XBOX360 controller or compatible</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

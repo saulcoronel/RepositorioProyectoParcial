@@ -1,0 +1,34 @@
+{
+    "id": 204120,
+    "nombre": "LEGO® Harry Potter: Years 5-7",
+    "estudio": [
+        "Traveller's Tales"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "2800 pos / 336 neg",
+    "generos": [
+        "Aventura"
+    ],
+    "tags": [
+        "LEGO",
+        "Adventure",
+        "Magic",
+        "Local Co-Op",
+        "Family Friendly",
+        "Co-op",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Split Screen"
+    ],
+    "fecha_lanzamiento": "5 ENE 2012",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3 / Vista / Windows 7<br></li><li><strong>Procesador:</strong> Dual Core a 2 GHz (Pentium D o superior)<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Disco Duro:</strong> 8.5 GB de espacio libre<br></li><li><strong>Tarjeta de Vídeo:</strong> Soporte para Shader Model 3 (nVidia GeForce 6800, 7800, 8xxx o superior / ATI X1950 o superior)</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

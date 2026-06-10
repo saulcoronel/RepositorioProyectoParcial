@@ -1,0 +1,34 @@
+{
+    "id": 204100,
+    "nombre": "Max Payne 3",
+    "estudio": [
+        "Rockstar Studios"
+    ],
+    "publisher": [
+        "Rockstar Games"
+    ],
+    "valoracion": "49420 pos / 7656 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Action",
+        "Third-Person Shooter",
+        "Bullet Time",
+        "Story Rich",
+        "Multiplayer",
+        "Shooter",
+        "Cinematic",
+        "Third Person",
+        "Noir",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "31 MAY 2012",
+    "precio": "Mex$ 399.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10 de 64 bits<br></li><li><strong>Procesador:</strong> Intel Dual Core a 2.4 GHz - i7 3930K 6 Core x 3.06 GHz / AMD Dual Core a 2.6 GHz - FX8150 8 Core x 3.6 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM - 16 GB de RAM<br></li><li><strong>Disco Duro:</strong> 35 GB de espacio libre<br></li><li><strong>Gráficos:</strong> nVidia® 8600 GT con 512 MB de VRAM – nVidia® GeForce® GTX 680 con 2 GB de VRAM / Radeon HD 3400 con 512 MB de VRAM - Radeon HD 7970 con 3 GB de VRAM<br></li><li><strong>Sonido:</strong> Dispositivo 100% compatible con DirectX 9.0 – Dispositivo compatible con DirectX 9.0 y soporte para Dolby Digital Live<br></li><li><strong>Adicional:</strong> Por favor, consulta a tu fabricante de hardware y visita  para información actual sobre la compatibilidad. Es posible que algunos componentes del sistema, tales como chipsets de dispositivos móviles, integrados o gráficas AGP, no sean compatibles. Es posible que las especificaciones sin mostrar no estén soportadas por el editor <br></li><li><strong>Otros Requisitos:</strong> Para la activación inicial es necesario disponer de conexión a Internet y una cuenta válida de Rockstar Social Club (debes ser mayor de 13 años para registrarte). Para jugar online es necesario el inicio de sesión en Rockstar Social Club (mayores de 13 años). Es necesaria la instalación de software, incluyendo GameShield IronWrap, DirectX y Microsoft Visual C++ 2008 SP1 Redistributable Package (x86)</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": []
+}

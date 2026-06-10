@@ -1,0 +1,51 @@
+{
+    "id": 239140,
+    "nombre": "Dying Light",
+    "estudio": [
+        "Techland"
+    ],
+    "publisher": [
+        "Techland"
+    ],
+    "valoracion": "435687 pos / 21945 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Zombies",
+        "Survival Horror",
+        "Horror",
+        "Online Co-Op",
+        "Open World",
+        "Parkour",
+        "First-Person",
+        "Survival",
+        "Open World Survival Craft",
+        "Gore"
+    ],
+    "fecha_lanzamiento": "26 ENE 2015",
+    "precio": "Mex$ 83.20",
+    "requerimientos": {
+        "minimos": "<strong>MINIMUM:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz<br>\t</li><li><strong>Memory:</strong> 4 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)<br>        </li><li><strong>DirectX®:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX® compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>",
+        "recomendados": "<strong>RECOMMENDED:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz <br>\t</li><li><strong>Memory:</strong> 8 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)<br>        </li><li><strong>DirectX®:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX® compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "Dying Light - Standard To Definitive Upgrade",
+            "fecha": "9 May, 2024",
+            "precio": "Mex$ 89.80"
+        },
+        {
+            "nombre": "Dying Light - 10th Anniversary Bundle",
+            "fecha": "10 Feb, 2025",
+            "precio": "Mex$ 27.30"
+        },
+        {
+            "nombre": "Dying Light - Hellraid",
+            "fecha": "13 Aug, 2020",
+            "precio": "Mex$ 59.15"
+        }
+    ]
+}

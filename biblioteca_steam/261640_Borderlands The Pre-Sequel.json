@@ -1,0 +1,49 @@
+{
+    "id": 261640,
+    "nombre": "Borderlands: The Pre-Sequel",
+    "estudio": [
+        "2K Australia",
+        "Gearbox Software",
+        "Aspyr (Linux)"
+    ],
+    "publisher": [
+        "2K",
+        "Aspyr (Linux)"
+    ],
+    "valoracion": "33577 pos / 8802 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Looter Shooter",
+        "Co-op",
+        "FPS",
+        "Action",
+        "Comedy",
+        "Loot",
+        "RPG",
+        "Open World",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "fecha_lanzamiento": "13 OCT 2014",
+    "precio": "Mex$ 509.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP SP3<br></li><li><strong>Procesador:</strong> 2.4 GHz Dual Core Processor<br></li><li><strong>Memoria:</strong> 2048 MB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce 8500 / ATI Radeon HD 2600<br></li><li><strong>DirectX:</strong> Versión 9.0<br></li><li><strong>Almacenamiento:</strong> 13 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9 Compliant<br></li><li><strong>Notas adicionales:</strong> Other Requirements &amp; Supports: Initial installation requires one time internet connection for Steam authentication; software installations required (included with the game) include Steam Client, directX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and AMD CPU Drivers (XP Only/AMD Only). Windows Imaging Component (Windows XP 64-Bit only)</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows XP SP3/Vista/Win 7/Win 8<br></li><li><strong>Procesador:</strong> 2.3 GHz Quad Core processor<br></li><li><strong>Memoria:</strong> 2048 MB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 560 / ATI Radeon HD 5850<br></li><li><strong>DirectX:</strong> Versión 10<br></li><li><strong>Almacenamiento:</strong> 20 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0 c Compliant</li></ul>"
+    },
+    "peso_estimado": "13 GB",
+    "dlcs": [
+        {
+            "nombre": "Borderlands: The Pre-Sequel Season Pass",
+            "fecha": "24 Mar, 2015",
+            "precio": "Mex$ 269.99"
+        },
+        {
+            "nombre": "Claptastic Voyage and Ultimate Vault Hunter Upgrade Pack 2",
+            "fecha": "24 Mar, 2015",
+            "precio": "Mex$ 109.99"
+        }
+    ]
+}

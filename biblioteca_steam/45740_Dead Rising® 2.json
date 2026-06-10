@@ -1,0 +1,51 @@
+{
+    "id": 45740,
+    "nombre": "Dead Rising® 2",
+    "estudio": [
+        "Capcom Vancouver"
+    ],
+    "publisher": [
+        "Capcom"
+    ],
+    "valoracion": "6325 pos / 1775 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "Zombies",
+        "Action",
+        "Open World",
+        "Co-op",
+        "Adventure",
+        "Online Co-Op",
+        "Third Person",
+        "Multiplayer",
+        "Gore",
+        "Comedy"
+    ],
+    "fecha_lanzamiento": "27 SEP 2010",
+    "precio": "Mex$ 289.00",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows Vista® / Windows XP / Windows 7<br></li><li><strong>Procesador:</strong> Intel Core 2 Duo a 2.4 Ghz o mejor, AMD Athlon X2 a 2.2 Ghz o mejor<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA® GeForce® 8800GTS o mejor, ATI Radeon™ HD 3850 o mejor<br></li><li><strong>DirectX®:</strong> DirectX® 9.0c o superior<br></li><li><strong>Disco Duro:</strong> 8.5 GB de espacio libre<br></li><li><strong>Sonido:</strong> Dispositivo de audio estándar</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Dead Rising 2 - Ninja Skills Pack",
+            "fecha": "17 Mar, 2015",
+            "precio": "Mex$ 39.00"
+        },
+        {
+            "nombre": "Dead Rising 2 - Psychopath Skills Pack",
+            "fecha": "17 Mar, 2015",
+            "precio": "Mex$ 39.00"
+        },
+        {
+            "nombre": "Dead Rising 2 - Soldier of Fortune Pack",
+            "fecha": "17 Mar, 2015",
+            "precio": "Mex$ 39.00"
+        }
+    ]
+}

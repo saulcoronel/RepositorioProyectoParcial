@@ -1,0 +1,55 @@
+{
+    "id": 49520,
+    "nombre": "Borderlands 2",
+    "estudio": [
+        "Gearbox Software",
+        "Aspyr (Mac)",
+        "Aspyr (Linux)"
+    ],
+    "publisher": [
+        "2K",
+        "Aspyr (Mac)",
+        "Aspyr (Linux)"
+    ],
+    "valoracion": "272900 pos / 22318 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Loot",
+        "Shooter",
+        "Action",
+        "Multiplayer",
+        "Co-op",
+        "Looter Shooter",
+        "FPS",
+        "RPG",
+        "First-Person",
+        "Funny"
+    ],
+    "fecha_lanzamiento": "20 SEP 2012",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3<br></li><li><strong>Procesador:</strong> Dual Core a 2.4 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM (XP y Vista)<br></li><li><strong>Disco Duro:</strong> 13 GB de espacio libre<br></li><li><strong>Memoria Gráfica:</strong> 256 MB de VRAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce 8500 / ATI Radeon HD 2600<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c<br></li><li><strong>Otros requisitos:</strong> La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010 y los drivers de CPU de AMD (sólo para AMD en Windows XP)</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3 / Vista / Win 7<br></li><li><strong>Procesador:</strong> Quad Core a 2.3 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Disco Duro:</strong> 20 GB de espacio libre<br></li><li><strong>Memoria Gráfica:</strong> 512 MB de VRAM<br></li><li><strong>Gráficos:</strong> nVidia GeForce GTX 560 / ATI Radeon HD 5850<br></li><li><strong>Sonido:</strong> Compatible con DirectX 9.0c<br></li><li><strong>Otros requisitos:</strong> La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010 y los drivers de CPU de AMD (sólo para AMD en Windows XP)</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Borderlands 2: Commander Lilith & the Fight for Sanctuary",
+            "fecha": "9 Jun, 2019",
+            "precio": "Mex$ 289.00"
+        },
+        {
+            "nombre": "Borderlands 2 Season Pass",
+            "fecha": "20 Sep, 2012",
+            "precio": "Mex$ 269.99"
+        },
+        {
+            "nombre": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2",
+            "fecha": "3 Sep, 2013",
+            "precio": "Mex$ 55.99"
+        }
+    ]
+}

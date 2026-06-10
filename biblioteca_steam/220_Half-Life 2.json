@@ -1,0 +1,40 @@
+{
+    "id": 220,
+    "nombre": "Half-Life 2",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "239721 pos / 5906 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "Action",
+        "Sci-fi",
+        "Classic",
+        "Singleplayer",
+        "Story Rich",
+        "Shooter",
+        "First-Person",
+        "Adventure",
+        "Dystopian "
+    ],
+    "fecha_lanzamiento": "16 NOV 2004",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7, Vista, XP<br></li><li><strong>Procesador:</strong> 1,7 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Gráficos:</strong> Tarjeta gráfica compatible con DirectX 8.1 y SSE<br></li><li><strong>Almacenamiento:</strong> 6500 MB de espacio disponible</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Half-Life 2 Soundtrack",
+            "fecha": "24 Sep, 2014",
+            "precio": "N/A"
+        }
+    ]
+}

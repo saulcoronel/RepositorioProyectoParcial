@@ -1,0 +1,51 @@
+{
+    "id": 218620,
+    "nombre": "PAYDAY 2",
+    "estudio": [
+        "OVERKILL - a Starbreeze Studio."
+    ],
+    "publisher": [
+        "Starbreeze Entertainment"
+    ],
+    "valoracion": "594327 pos / 68755 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "Co-op",
+        "Action",
+        "FPS",
+        "Heist",
+        "Multiplayer",
+        "Looter Shooter",
+        "Online Co-Op",
+        "Stealth",
+        "Crime",
+        "Shooter"
+    ],
+    "fecha_lanzamiento": "13 AGO 2013",
+    "precio": "Mex$ 57.50",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7<br></li><li><strong>Procesador:</strong> 2 GHz Intel Dual Core Processor<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia &amp; AMD (512MB VRAM)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 83 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Standing or Room Scale. Requires installing the free VR DLC.</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10<br></li><li><strong>Procesador:</strong> 2.3 GHz Intel Quad Core Processor<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia &amp; AMD (1GB VRAM)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 83 GB de espacio disponible<br></li><li><strong>Compatibilidad con RV:</strong> SteamVR. Standing or Room Scale. Requires installing the free VR DLC.</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "PAYDAY 2: Espionage Weapon Pack",
+            "fecha": "30 Apr, 2026",
+            "precio": "Mex$ 39.00"
+        },
+        {
+            "nombre": "PAYDAY 2: Jacket Character Pack",
+            "fecha": "20 Feb, 2026",
+            "precio": "Mex$ 39.00"
+        },
+        {
+            "nombre": "PAYDAY 2: Subscription",
+            "fecha": "22 Sep, 2025",
+            "precio": "Mex$ 64.49"
+        }
+    ]
+}

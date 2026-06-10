@@ -1,0 +1,35 @@
+{
+    "id": 21000,
+    "nombre": "LEGO® Batman™: The Videogame",
+    "estudio": [
+        "Traveller's Tales"
+    ],
+    "publisher": [
+        "Warner Bros. Interactive Entertainment"
+    ],
+    "valoracion": "11083 pos / 1296 neg",
+    "generos": [
+        "Acción",
+        "Aventura"
+    ],
+    "tags": [
+        "LEGO",
+        "Action",
+        "Adventure",
+        "Local Co-Op",
+        "Superhero",
+        "Co-op",
+        "Family Friendly",
+        "Singleplayer",
+        "Comedy",
+        "Multiplayer"
+    ],
+    "fecha_lanzamiento": "29 SEP 2008",
+    "precio": "Mex$ 349.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong>       <br><ul class=\"bb_ul\"><li><strong>SO: </strong>Windows Vista® / XP       <br></li><li><strong>Procesador: </strong>Intel® P3 a 1.5 GHz o AMD Athlon™ XP       <br></li><li><strong>Memoria: </strong>256 MB de RAM, 512 MB de RAM necesarios para Windows Vista®       <br></li><li><strong>Gráficos: </strong>Gráfica con 128 MB y compatible con Shader Model 2.0 (Shader Model 3.0 recomendado)       </li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

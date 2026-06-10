@@ -1,0 +1,54 @@
+{
+    "id": 231430,
+    "nombre": "Company of Heroes 2",
+    "estudio": [
+        "Relic Entertainment",
+        "Feral Interactive (Mac)",
+        "Feral Interactive (Linux)"
+    ],
+    "publisher": [
+        "Relic Entertainment",
+        "Feral Interactive (Mac)",
+        "Feral Interactive (Linux)"
+    ],
+    "valoracion": "86713 pos / 23112 neg",
+    "generos": [
+        "Estrategia"
+    ],
+    "tags": [
+        "Strategy",
+        "World War II",
+        "RTS",
+        "Multiplayer",
+        "Tactical",
+        "War",
+        "Historical",
+        "Military",
+        "Singleplayer",
+        "Co-op"
+    ],
+    "fecha_lanzamiento": "25 JUN 2013",
+    "precio": "Mex$ 57.25",
+    "requerimientos": {
+        "minimos": "Minimum:<br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2GB RAM<br>\t</li><li><strong>Processor:</strong> 2Ghz Intel Core2 Duo or equivalent<br>\t</li><li><strong>Graphics:</strong> 512MB Direct3D 10 capable video card (GeForce 8800 GT or Radeon HD 2900XT)<br>\t</li><li><strong>OS:</strong> 32bit Vista<br>        </li><li><strong>Internet:</strong> Broadband Internet connection<br>\t</li><li><strong>Hard Drive:</strong> 30GB free Hard disc space</li></ul>",
+        "recomendados": "Recommended:<br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4GB RAM<br></li><li><strong>Processor:</strong> 3Ghz Intel i5 quad core or equivalent<br></li><li><strong>Graphics:</strong> 1024 MB Direct3D 11 capable video card (GeForce GTX 470 or Radeon HD 5850)<br></li><li><strong>OS *:</strong> 64bit Windows 7 and above<br></li><li><strong>Internet:</strong> Broadband Internet connection<br></li><li><strong>Hard Drive:</strong> 30GB free Hard disc space</li></ul>"
+    },
+    "peso_estimado": "2 GB",
+    "dlcs": [
+        {
+            "nombre": "Company of Heroes 2 - David Sheldrick Trust Charity Pattern Pack",
+            "fecha": "19 Sep, 2017",
+            "precio": "Mex$ 138.99"
+        },
+        {
+            "nombre": "Company of Heroes 2 - Whale and Dolphin Conservation Charity Pattern Pack",
+            "fecha": "19 Sep, 2017",
+            "precio": "Mex$ 138.99"
+        },
+        {
+            "nombre": "Company of Heroes 2 - Southern Fronts Mission Pack",
+            "fecha": "10 Dec, 2013",
+            "precio": "Mex$ 16.12"
+        }
+    ]
+}

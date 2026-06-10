@@ -1,0 +1,41 @@
+{
+    "id": 20920,
+    "nombre": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "estudio": [
+        "CD PROJEKT RED"
+    ],
+    "publisher": [
+        "CD PROJEKT RED",
+        "1C-SoftClub"
+    ],
+    "valoracion": "77950 pos / 9114 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Fantasy",
+        "Mature",
+        "Story Rich",
+        "Choices Matter",
+        "Singleplayer",
+        "Third Person",
+        "Nudity",
+        "Adventure",
+        "Dark Fantasy"
+    ],
+    "fecha_lanzamiento": "16 ABR 2012",
+    "precio": "Mex$ 199.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP / Vista / 7<br></li><li><strong>Procesador:</strong> Intel Dual Core a 2.2 GHz o AMD Dual Core a 2.5 GHz<br></li><li><strong>Memoria:</strong> 1.5 GB de RAM (Win XP), 2GB de RAM (Win Vista / Win 7)<br></li><li><strong>Gráficos:</strong> GeForce 8800 (512 MB) o Radeon HD3850 (512 MB)<br></li><li><strong>DirectX®:</strong> <br></li><li><strong>Disco Duro:</strong> 25 GB de espacio libre<br></li><li><strong>Sonido:</strong> </li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP / Vista / 7<br></li><li><strong>Procesador:</strong> Intel o AMD Quad Core<br></li><li><strong>Memoria:</strong> 3 GB de RAM (Win XP), 4 GB de RAM (Win Vista / Win 7)<br></li><li><strong>Gráficos:</strong> GeForce 260 (1 GB) o Radeon HD 4850 (1 GB)<br></li><li><strong>DirectX®:</strong> <br></li><li><strong>Disco Duro:</strong> 25 GB de espacio libre<br></li><li><strong>Sonido:</strong> </li></ul>"
+    },
+    "peso_estimado": "1.5 GB",
+    "dlcs": [
+        {
+            "nombre": "The Witcher 2: Assassins of Kings Enhanced Edition Soundtrack",
+            "fecha": "10 Feb, 2020",
+            "precio": "Mex$ 82.49"
+        }
+    ]
+}

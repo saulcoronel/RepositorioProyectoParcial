@@ -1,0 +1,36 @@
+{
+    "id": 48000,
+    "nombre": "LIMBO",
+    "estudio": [
+        "Playdead"
+    ],
+    "publisher": [
+        "Playdead"
+    ],
+    "valoracion": "53043 pos / 4241 neg",
+    "generos": [
+        "Acción",
+        "Aventura",
+        "Indie"
+    ],
+    "tags": [
+        "Puzzle-Platformer",
+        "Indie",
+        "Puzzle",
+        "Platformer",
+        "Dark",
+        "Atmospheric",
+        "2D",
+        "Adventure",
+        "Singleplayer",
+        "Horror"
+    ],
+    "fecha_lanzamiento": "2 AGO 2011",
+    "precio": "Mex$ 139.50",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP, Vista, 7<br></li><li><strong>Procesador:</strong> 2 GHz<br></li><li><strong>Memoria:</strong> 512 MB de RAM<br></li><li><strong>Disco Duro:</strong> 150 MB de espacio libre<br></li><li><strong>Gráficos:</strong> Gráfica con 5 años o menos de antigüedad. Puede no funcionar con gráficas integradas y tarjetas de muy bajo presupuesto. Necesita Shader Model 3.0<br></li><li><strong>Versión de DirectX®:</strong> 9.0c</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": []
+}

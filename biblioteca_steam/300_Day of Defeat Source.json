@@ -1,0 +1,34 @@
+{
+    "id": 300,
+    "nombre": "Day of Defeat: Source",
+    "estudio": [
+        "Valve"
+    ],
+    "publisher": [
+        "Valve"
+    ],
+    "valoracion": "20798 pos / 1891 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "FPS",
+        "World War II",
+        "Multiplayer",
+        "Action",
+        "Shooter",
+        "Military",
+        "War",
+        "Team-Based",
+        "First-Person",
+        "Historical"
+    ],
+    "fecha_lanzamiento": "12 JUL 2010",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<p><strong>Mínimo: </strong>Procesador a 1.7&nbsp;GHz, 512 MB de RAM, gráfica compatible con DirectX&reg; 8.1 (requiere compatibilidad con SSE), Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>\n\n<p><strong>Recomendado: </strong>Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX&reg; 9, Windows&reg; 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet</p>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

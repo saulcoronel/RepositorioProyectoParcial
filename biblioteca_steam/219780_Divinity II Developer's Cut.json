@@ -1,0 +1,35 @@
+{
+    "id": 219780,
+    "nombre": "Divinity II: Developer's Cut",
+    "estudio": [
+        "Larian Studios"
+    ],
+    "publisher": [
+        "Larian Studios",
+        "Focus Home Interactive"
+    ],
+    "valoracion": "4058 pos / 742 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "RPG",
+        "Fantasy",
+        "Open World",
+        "Third Person",
+        "Dragons",
+        "Action RPG",
+        "Singleplayer",
+        "Adventure",
+        "Action",
+        "Magic"
+    ],
+    "fecha_lanzamiento": "29 OCT 2012",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP3 or higher<br>\t</li><li><strong>Processor:</strong> Intel Core 2 Duo 1.8Ghz or equivalent<br>\t</li><li><strong>Memory:</strong> 1 GB RAM<br>\t</li><li><strong>Graphics:</strong> Nvidia GeForce 7600 with 256MB RAM or equivalent<br>\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 15 GB HD space<br>\t</li><li><strong>Sound:</strong> DirectX9.0c compatible<br>\t</li><li><strong>Additional:</strong> When running Windows Vista or higher, double the required memory</li></ul>",
+        "recomendados": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP3 or higher<br>\t</li><li><strong>Processor:</strong> Intel Core 2 Duo 2.6Ghz or equivalent<br>\t</li><li><strong>Memory:</strong> 2 GB RAM<br>\t</li><li><strong>Graphics:</strong> Nvidia GeForce 8800 with 512MB RAM or equivalent<br>\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 15 GB HD space<br>\t</li><li><strong>Sound:</strong> DirectX9.0c compatible<br>\t</li><li><strong>Additional:</strong> When running Windows Vista or higher, double the required memory</li></ul>"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 206440,
+    "nombre": "To the Moon",
+    "estudio": [
+        "Freebird Games"
+    ],
+    "publisher": [
+        "Freebird Games",
+        "Serenity Forge"
+    ],
+    "valoracion": "77246 pos / 3015 neg",
+    "generos": [
+        "Aventura",
+        "Indie",
+        "Rol"
+    ],
+    "tags": [
+        "Story Rich",
+        "Great Soundtrack",
+        "Indie",
+        "Emotional",
+        "RPGMaker",
+        "Pixel Graphics",
+        "Adventure",
+        "Singleplayer",
+        "Interactive Fiction",
+        "Romance"
+    ],
+    "fecha_lanzamiento": "7 SEP 2012",
+    "precio": "Mex$ 123.99",
+    "requerimientos": {
+        "minimos": "<ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows 98, XP, Vista, 7, 8, 10, 11<br>\t</li><li><strong>Processor:</strong>Intel Pentium III 800 MHz<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>1024x768 High Color +<br>\t</li><li><strong>DirectX®:</strong>9.0<br>\t</li><li><strong>Hard Drive:</strong>100 MB HD space</li></ul>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "No especificado",
+    "dlcs": [
+        {
+            "nombre": "Paper Memories - Comics from To the Moon & Finding Paradise",
+            "fecha": "8 Mar, 2019",
+            "precio": "Mex$ 26.99"
+        },
+        {
+            "nombre": "To the Moon Soundtrack",
+            "fecha": "7 Sep, 2012",
+            "precio": "Mex$ 64.49"
+        },
+        {
+            "nombre": "Sigmund Minisode 1 [Free 2013 Holiday Special]",
+            "fecha": "4 Feb, 2015",
+            "precio": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 39140,
+    "nombre": "FINAL FANTASY VII",
+    "estudio": [
+        "Square Enix"
+    ],
+    "publisher": [
+        "Square Enix"
+    ],
+    "valoracion": "25998 pos / 2013 neg",
+    "generos": [
+        "Rol"
+    ],
+    "tags": [
+        "JRPG",
+        "RPG",
+        "Classic",
+        "Turn-Based",
+        "Story Rich",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Fantasy",
+        "Retro",
+        "Adventure"
+    ],
+    "fecha_lanzamiento": "",
+    "precio": "Gratis/N/A",
+    "requerimientos": {
+        "minimos": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Microsoft Windows XP/Vista/7 (32/64bits)<br>\t</li><li><strong>Processor:</strong>2GHz<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX 9.0c-compatible graphic card<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>3 GB HD space</li></ul><i>Requires a Square Enix account.</i>",
+        "recomendados": "N/A"
+    },
+    "peso_estimado": "</li><li><strong>Memory:</strong>1 GB",
+    "dlcs": []
+}

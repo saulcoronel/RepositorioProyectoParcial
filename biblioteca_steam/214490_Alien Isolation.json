@@ -1,0 +1,54 @@
+{
+    "id": 214490,
+    "nombre": "Alien: Isolation",
+    "estudio": [
+        "Creative Assembly",
+        "Feral Interactive (Mac)",
+        "Feral Interactive (Linux)"
+    ],
+    "publisher": [
+        "SEGA",
+        "Feral Interactive (Mac)",
+        "Feral Interactive (Linux)"
+    ],
+    "valoracion": "56716 pos / 4115 neg",
+    "generos": [
+        "Acción"
+    ],
+    "tags": [
+        "Horror",
+        "Survival Horror",
+        "Sci-fi",
+        "Aliens",
+        "Atmospheric",
+        "Stealth",
+        "First-Person",
+        "Space",
+        "Female Protagonist",
+        "Singleplayer"
+    ],
+    "fecha_lanzamiento": "6 OCT 2014",
+    "precio": "Mex$ 599.00",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 (32bit)<br></li><li><strong>Procesador:</strong> 3.16Ghz Intel Core 2 Duo E8500<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> 1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 35 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Microsoft no longer supports Windows 10 or older versions</li></ul>",
+        "recomendados": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO *:</strong> Windows 7 (64bit)<br></li><li><strong>Procesador:</strong> AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> 2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Red:</strong> Conexión de banda ancha a Internet<br></li><li><strong>Almacenamiento:</strong> 35 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Microsoft no longer supports Windows 10 or older versions</li></ul>"
+    },
+    "peso_estimado": "4 GB",
+    "dlcs": [
+        {
+            "nombre": "Alien: Isolation - Last Survivor",
+            "fecha": "14 Oct, 2014",
+            "precio": "Mex$ 64.99"
+        },
+        {
+            "nombre": "Alien: Isolation - Crew Expendable",
+            "fecha": "6 Oct, 2014",
+            "precio": "Mex$ 64.99"
+        },
+        {
+            "nombre": "Alien: Isolation - The Trigger",
+            "fecha": "2 Mar, 2015",
+            "precio": "Mex$ 89.99"
+        }
+    ]
+}

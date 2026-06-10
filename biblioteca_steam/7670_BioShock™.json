@@ -1,0 +1,36 @@
+{
+    "id": 7670,
+    "nombre": "BioShock™",
+    "estudio": [
+        "2K Boston",
+        "2K Australia"
+    ],
+    "publisher": [
+        "2K"
+    ],
+    "valoracion": "29127 pos / 1804 neg",
+    "generos": [
+        "Acción",
+        "Rol"
+    ],
+    "tags": [
+        "FPS",
+        "Atmospheric",
+        "Story Rich",
+        "Action",
+        "Singleplayer",
+        "Horror",
+        "Steampunk",
+        "First-Person",
+        "Shooter",
+        "Sci-fi"
+    ],
+    "fecha_lanzamiento": "21 AGO 2007",
+    "precio": "Mex$ 179.99",
+    "requerimientos": {
+        "minimos": "<strong>Mínimo: </strong>SO: Windows XP (con Service Pack 2) o Windows Vista; Procesador: Intel Pentium 4 Single Core a 2.4 GHz; Memoria: 1 GB de RAM; Gráficos: Gráfica con 128 MB de VRAM y compatible con DirectX 9.0c y Pixel Shader 3.0 (nVidia 6600 o superior / ATI X1300 o superior, excepto ATI X1550); Sonido: Dispositivo 100% compatible con DirectX 9.0c; Disco Duro: 8 GB de espacio libre en disco duro.<br><strong>Recomendado: </strong>Procesador: Intel Core 2 Duo; Memoria: 2 GB de RAM; Gráficos: DX9 - Gráfica con 512 MB de VRAM y compatible con DirectX 9.0c y Pixel Shader 3.0 (nVidia GeForce 7900 GT o superior), DX 10 - nVidia GeForce 8600 o superior; Sonido: Familia SoundBlaster(r) X-Fi(tm) (optimizado para Creative Labs EAX ADVANCED HD 4.0 o EAX ADVANCED HD 5.0).<br>Necesaria una conexión a Internet para activar el juego",
+        "recomendados": "<h2 class=\"bb_tag\" ><strong>Recommended: </strong></h2><ul class=\"bb_ul\"><li><strong>CPU</strong>: Intel Core 2 Duo processor<br></li><li><strong>RAM</strong>: 2GB<br></li><li><strong>Video Card</strong>: DX 9 - Direct X 9.0c compliant video card with 512 MB RAM and Pixel Shader 3.0 (NVIDIA GeForce 7900 GT or better), DX 10 - NVIDIA GeForce 8600 or better<br></li><li><strong>Sound Card</strong>: SoundBlaster(r) X-Fi(tm) series (optimized foruse with Creative Labs EAX ADVANCED HD 4.0 or EAX ADVANCED HD 5.0 compatible sound cards)</li></ul>"
+    },
+    "peso_estimado": "1 GB",
+    "dlcs": []
+}

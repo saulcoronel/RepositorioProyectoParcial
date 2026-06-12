@@ -50,12 +50,12 @@ def startup():
     try:
         chroma_client = chromadb.HttpClient(host=CHROMA_HOST, port=CHROMA_PORT)
         chroma_collection = chroma_client.get_or_create_collection("juegos")
-        print("✔ Conectado a ChromaDB")
+        print("Conectado a ChromaDB")
     except Exception as e:
-        print(f"✘ No se pudo conectar a ChromaDB: {e}")
+        print(f"No se pudo conectar a ChromaDB: {e}")
 
     model = SentenceTransformer("all-MiniLM-L6-v2")
-    print("✔ Modelo cargado")
+    print("Modelo cargado")
 
 
 @app.get("/health")

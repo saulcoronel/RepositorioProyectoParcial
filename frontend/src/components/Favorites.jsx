@@ -2,12 +2,14 @@ import { useEffect, useState } from 'react'
 import * as api from '../api/client'
 import GameCard from './GameCard.jsx'
 import GameDetailModal from './GameDetailModal.jsx'
+import GameEditModal from './GameEditModal.jsx'
 
 export default function Favorites({ favoriteIds, onToggleFavorite, refreshSignal }) {
   const [juegos, setJuegos] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [juegoSeleccionado, setJuegoSeleccionado] = useState(null)
+  const [juegoAEditar, setJuegoAEditar] = useState(null)
 
   const [query, setQuery] = useState('')
   const [semanticResults, setSemanticResults] = useState(null)
@@ -52,6 +54,17 @@ export default function Favorites({ favoriteIds, onToggleFavorite, refreshSignal
   function clearSearch() {
     setQuery('')
     setSemanticResults(null)
+  }
+
+  async function handleBorrarJuego(juego) {
+    if (!confirm(`¿Seguro que quieres borrar "${juego.nombre}"? Esta acción no se puede deshacer.`)) return
+    try {
+      await api.deleteGame(juego.id)
+      setJuegoSeleccionado(null)
+      await cargarFavoritos()
+    } catch (err) {
+      alert(err.message)
+    }
   }
 
   const juegosPorId = new Map(juegos.map((j) => [j.id, j]))
@@ -103,7 +116,20 @@ export default function Favorites({ favoriteIds, onToggleFavorite, refreshSignal
       )}
 
       {juegoSeleccionado && (
-        <GameDetailModal juego={juegoSeleccionado} onClose={() => setJuegoSeleccionado(null)} />
+        <GameDetailModal
+          juego={juegoSeleccionado}
+          onClose={() => setJuegoSeleccionado(null)}
+          onEdit={(j) => { setJuegoAEditar(j); setJuegoSeleccionado(null) }}
+          onDelete={handleBorrarJuego}
+        />
+      )}
+
+      {juegoAEditar && (
+        <GameEditModal
+          juego={juegoAEditar}
+          onClose={() => setJuegoAEditar(null)}
+          onSaved={() => cargarFavoritos()}
+        />
       )}
     </div>
   )

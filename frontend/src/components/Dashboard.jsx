@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import * as api from '../api/client'
 import GameCard from './GameCard.jsx'
 import GameDetailModal from './GameDetailModal.jsx'
+import GameEditModal from './GameEditModal.jsx'
 import { IconRefresh, IconSearch } from './icons.jsx'
 
 export default function Dashboard({ favoriteIds, onToggleFavorite }) {
@@ -9,6 +10,7 @@ export default function Dashboard({ favoriteIds, onToggleFavorite }) {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [juegoSeleccionado, setJuegoSeleccionado] = useState(null)
+  const [juegoAEditar, setJuegoAEditar] = useState(null)
 
   const [sincronizando, setSincronizando] = useState(false)
   const [progresoSinc, setProgresoSinc] = useState({ procesados: 0, ultimoJuego: '' })
@@ -122,6 +124,17 @@ export default function Dashboard({ favoriteIds, onToggleFavorite }) {
     setQuery('')
     setSearchResults(null)
     setSemanticResults(null)
+  }
+
+  async function handleBorrarJuego(juego) {
+    if (!confirm(`¿Seguro que quieres borrar "${juego.nombre}"? Esta acción no se puede deshacer.`)) return
+    try {
+      await api.deleteGame(juego.id)
+      setJuegoSeleccionado(null)
+      await cargarJuegos()
+    } catch (err) {
+      alert(err.message)
+    }
   }
 
   // Para resultados semánticos, ChromaDB solo devuelve nombre/id/distancia; cruzamos con
@@ -250,7 +263,20 @@ export default function Dashboard({ favoriteIds, onToggleFavorite }) {
       )}
 
       {juegoSeleccionado && (
-        <GameDetailModal juego={juegoSeleccionado} onClose={() => setJuegoSeleccionado(null)} />
+        <GameDetailModal
+          juego={juegoSeleccionado}
+          onClose={() => setJuegoSeleccionado(null)}
+          onEdit={(j) => { setJuegoAEditar(j); setJuegoSeleccionado(null) }}
+          onDelete={handleBorrarJuego}
+        />
+      )}
+
+      {juegoAEditar && (
+        <GameEditModal
+          juego={juegoAEditar}
+          onClose={() => setJuegoAEditar(null)}
+          onSaved={() => cargarJuegos()}
+        />
       )}
     </div>
   )

@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
 import * as api from '../api/client'
-import { IconClose, IconRefresh } from './icons.jsx'
+import { IconClose, IconRefresh, IconEdit, IconTrash } from './icons.jsx'
 
-export default function GameDetailModal({ juego, onClose }) {
+export default function GameDetailModal({ juego, onClose, onEdit, onDelete }) {
   const [media, setMedia] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
@@ -63,6 +63,20 @@ export default function GameDetailModal({ juego, onClose }) {
         <div className="modal-header">
           <h2 className="modal-title">{juego.nombre}</h2>
           <div className="game-meta">{(juego.estudio || []).join(', ') || 'Estudio desconocido'}</div>
+          {(onEdit || onDelete) && (
+            <div className="modal-crud-actions">
+              {onEdit && (
+                <button className="btn btn-small btn-ghost" onClick={() => onEdit(juego)}>
+                  <IconEdit size={13} /> Editar
+                </button>
+              )}
+              {onDelete && (
+                <button className="btn btn-small btn-danger" onClick={() => onDelete(juego)}>
+                  <IconTrash size={13} /> Borrar
+                </button>
+              )}
+            </div>
+          )}
         </div>
 
         {loading && <div className="loading-text">Cargando imágenes y video...</div>}

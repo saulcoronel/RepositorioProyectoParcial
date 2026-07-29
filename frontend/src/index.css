@@ -220,7 +220,7 @@ body::before {
 }
 .game-cover-wrap {
   margin: 0 -16px 4px;
-  aspect-ratio: 460 / 215;
+  aspect-ratio: 460 / 215; /* proporción real del header.jpg de Steam */
   overflow: hidden;
   background: var(--bg-input);
 }
@@ -231,7 +231,6 @@ body::before {
   display: block;
   transition: transform 0.25s ease;
 }
-
 .game-card:hover .game-cover { transform: scale(1.04); }
 .game-card:hover {
   transform: translateY(-3px);
@@ -373,6 +372,7 @@ body::before {
 
 .modal-header { margin-bottom: 18px; padding-right: 44px; }
 .modal-title { font-family: var(--font-display); color: var(--text); font-size: 21px; font-weight: 700; margin-bottom: 4px; }
+.modal-crud-actions { display: flex; gap: 8px; margin-top: 12px; }
 
 .modal-video-wrap {
   margin-bottom: 16px;

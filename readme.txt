@@ -11,6 +11,8 @@ favoritos, CRUD completo e imágenes/video por juego. Backend en FastAPI y front
 
 ## Instalación (solo la primera vez)
 
+## Instalación (solo la primera vez)
+
 1. `cp .env.example .env` y edita `.env` con tu propia contraseña de administrador y tu propio `JWT_SECRET`
 2. `pip install -r requirements.txt`
 3. `docker compose up -d --build`
@@ -18,6 +20,8 @@ favoritos, CRUD completo e imágenes/video por juego. Backend en FastAPI y front
 5. `docker exec mongodb-steam mongoimport --db steam --collection juegos --jsonArray --file /tmp/juegos.json`
 6. `python cargar_chroma.py`
 7. `cd frontend && npm install && cp .env.example .env`
+
+> En Windows, si `python` o `pip` no se reconocen como comando, usa `py` y `py -m pip` en su lugar.
 
 ## Uso diario
 

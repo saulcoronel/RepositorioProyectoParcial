@@ -1,4 +1,30 @@
 services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres-steam
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=steam
+      - POSTGRES_PASSWORD=steam123
+      - POSTGRES_DB=steam_auth
+    volumes:
+      - postgres_steam_data:/var/lib/postgresql/data
+
+  rustfs:
+    image: rustfs/rustfs:latest
+    container_name: rustfs-steam
+    ports:
+      - "9000:9000"   # API S3
+      - "9001:9001"   # Consola web
+    environment:
+      - RUSTFS_ACCESS_KEY=rustfsadmin
+      - RUSTFS_SECRET_KEY=rustfsadmin123
+      - RUSTFS_CONSOLE_ENABLE=true
+    volumes:
+      - rustfs_steam_data:/data
+      - rustfs_steam_logs:/logs
+
   mongodb:
     image: mongo:8
     container_name: mongodb-steam
@@ -15,6 +41,14 @@ services:
     volumes:
       - chromadb_steam_data:/chroma/chroma
 
+  redis:
+    image: redis:7-alpine
+    container_name: redis-steam
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_steam_data:/data
+
   api:
     build: .
     container_name: api-steam
@@ -23,10 +57,32 @@ services:
     depends_on:
       - mongodb
       - chromadb
+      - redis
+      - postgres
+      - rustfs
+    env_file:
+      - .env
     environment:
       - MONGO_URI=mongodb://mongodb-steam:27017/
       - CHROMA_HOST=chromadb-steam
+      - REDIS_HOST=redis-steam
+      - POSTGRES_HOST=postgres-steam
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=steam_auth
+      - POSTGRES_USER=steam
+      - POSTGRES_PASSWORD=steam123
+      # Endpoint interno: lo usa el backend (dentro de la red de docker) para subir/bajar objetos
+      - RUSTFS_ENDPOINT=http://rustfs-steam:9000
+      # Endpoint público: se usa SOLO para firmar URLs que el navegador va a abrir directamente
+      - RUSTFS_PUBLIC_ENDPOINT=http://localhost:9000
+      - RUSTFS_ACCESS_KEY=rustfsadmin
+      - RUSTFS_SECRET_KEY=rustfsadmin123
+      - RUSTFS_BUCKET=steam-media
 
 volumes:
   mongodb_steam_data:
   chromadb_steam_data:
+  redis_steam_data:
+  postgres_steam_data:
+  rustfs_steam_data:
+  rustfs_steam_logs:

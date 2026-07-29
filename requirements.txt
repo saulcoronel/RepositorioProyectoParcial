@@ -4,3 +4,9 @@ pymongo
 chromadb
 sentence-transformers
 requests
+redis
+PyJWT
+python-multipart
+psycopg2-binary
+bcrypt
+boto3

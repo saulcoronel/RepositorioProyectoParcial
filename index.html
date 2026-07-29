@@ -12,6 +12,18 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
 }
 .header-logo { color: #66c0f4; font-size: 20px; font-weight: 500; }
 .header-sub { color: #8ba7c7; font-size: 13px; }
+.logout-btn {
+  margin-left: auto;
+  background: #2a1a1a;
+  border: 1px solid #5a3030;
+  border-radius: 3px;
+  padding: 6px 14px;
+  font-size: 12px;
+  color: #e8a0a0;
+  cursor: pointer;
+  font-family: inherit;
+}
+.logout-btn:hover { background: #3a2020; }
 
 .status-bar {
   background: #171d25;
@@ -85,6 +97,7 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
   gap: 7px;
 }
 .search-btn:hover { background: #3d6b8c; }
+.search-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
 .hint { font-size: 12px; color: #4a6480; margin-bottom: 20px; line-height: 1.5; }
 .results-label { font-size: 12px; color: #8ba7c7; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.8px; }
@@ -119,6 +132,16 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
   font-size: 11px;
   color: #66c0f4;
   font-family: monospace;
+}
+.cache-badge {
+  background: #2a2a1a;
+  border: 1px solid #5a5a30;
+  border-radius: 2px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: #e8d8a0;
+  font-family: monospace;
+  margin-left: 8px;
 }
 
 .add-results {
@@ -189,13 +212,138 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
 .loading { text-align: center; padding: 24px; color: #66c0f4; font-size: 13px; }
 .error-msg { background: #2d1a1a; border: 1px solid #5a2020; border-radius: 3px; padding: 10px 14px; font-size: 13px; color: #e8a0a0; margin-top: 10px; }
 .success-msg { background: #1a2d1a; border: 1px solid #205a20; border-radius: 3px; padding: 10px 14px; font-size: 13px; color: #a0e8a0; margin-top: 10px; }
+
+.login-screen {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-card {
+  background: #16202d;
+  border: 1px solid #2a3f5f;
+  border-radius: 6px;
+  padding: 32px;
+  width: 320px;
+}
+.login-title { color: #66c0f4; font-size: 20px; font-weight: 500; margin-bottom: 4px; text-align: center; }
+.login-sub { color: #8ba7c7; font-size: 13px; margin-bottom: 24px; text-align: center; }
+.login-field { margin-bottom: 14px; }
+.login-label { font-size: 12px; color: #8ba7c7; margin-bottom: 6px; display: block; }
+.login-btn {
+  width: 100%;
+  background: #2a475e;
+  border: none;
+  border-radius: 3px;
+  padding: 11px 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: #c6d4df;
+  cursor: pointer;
+  margin-top: 8px;
+  font-family: inherit;
+}
+.login-btn:hover { background: #3d6b8c; }
+.login-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.card-actions { display: flex; gap: 8px; margin-top: 10px; }
+.btn-play, .btn-media {
+  background: #2a475e;
+  border: none;
+  border-radius: 3px;
+  padding: 6px 12px;
+  font-size: 12px;
+  color: #66c0f4;
+  cursor: pointer;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.btn-play:hover, .btn-media:hover { background: #3d6b8c; }
+
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.modal-overlay.active { display: flex; }
+.modal-box {
+  background: #16202d;
+  border: 1px solid #2a3f5f;
+  border-radius: 6px;
+  padding: 18px;
+  max-width: 720px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+.modal-title-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.modal-title { color: #66c0f4; font-size: 16px; font-weight: 500; }
+.modal-close {
+  background: transparent;
+  border: none;
+  color: #8ba7c7;
+  font-size: 18px;
+  cursor: pointer;
+}
+.modal-video { width: 100%; border-radius: 4px; background: #000; }
+.media-gallery { display: flex; flex-wrap: wrap; gap: 10px; }
+.media-item { width: 140px; }
+.media-item img { width: 140px; height: 90px; object-fit: cover; border-radius: 3px; border: 1px solid #2a3f5f; }
+.media-item video { width: 140px; height: 90px; border-radius: 3px; background: #000; }
+.media-item .download-link { display: block; font-size: 11px; color: #66c0f4; text-align: center; margin-top: 4px; }
+
+.upload-form { display: flex; flex-direction: column; gap: 10px; max-width: 420px; }
+.upload-select {
+  background: #16202d;
+  border: 1px solid #2a3f5f;
+  border-radius: 3px;
+  padding: 10px 14px;
+  font-size: 14px;
+  color: #c6d4df;
+  font-family: inherit;
+}
 </style>
 
-<div style="background:#1b2838; min-height:100vh;">
+<div id="mediaModal" class="modal-overlay">
+  <div class="modal-box">
+    <div class="modal-title-row">
+      <div class="modal-title" id="mediaModalTitle">Media</div>
+      <button class="modal-close" onclick="cerrarModalMedia()">&#10005;</button>
+    </div>
+    <div id="mediaModalBody"></div>
+  </div>
+</div>
+
+<div id="loginScreen" class="login-screen">
+  <div class="login-card">
+    <div class="login-title">Steam Library</div>
+    <div class="login-sub">Inicia sesión para continuar</div>
+    <div class="login-field">
+      <label class="login-label">Usuario</label>
+      <input class="search-input" id="loginUser" placeholder="admin" onkeydown="if(event.key==='Enter') hacerLogin()" />
+    </div>
+    <div class="login-field">
+      <label class="login-label">Contraseña</label>
+      <input class="search-input" id="loginPass" type="password" placeholder="••••••••" onkeydown="if(event.key==='Enter') hacerLogin()" />
+    </div>
+    <button class="login-btn" id="loginBtn" onclick="hacerLogin()">Iniciar sesión</button>
+    <div id="loginMsg"></div>
+  </div>
+</div>
+
+<div id="appScreen" style="background:#1b2838; min-height:100vh; display:none;">
   <div class="header">
     <span style="color:#66c0f4; font-size:22px;">&#9881;</span>
     <span class="header-logo">Steam Library</span>
     <span class="header-sub">— buscador de juegos</span>
+    <button class="logout-btn" onclick="cerrarSesion()">Cerrar sesión</button>
   </div>
   <div class="status-bar">
     <div class="status-dot" id="statusDot"></div>
@@ -208,6 +356,7 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
       <button class="tab active" onclick="switchTab('nombre')" id="tab-nombre">Por nombre</button>
       <button class="tab" onclick="switchTab('concepto')" id="tab-concepto">Por concepto</button>
       <button class="tab" onclick="switchTab('agregar')" id="tab-agregar">Agregar juego</button>
+      <button class="tab" onclick="switchTab('media')" id="tab-media">Media (RustFS)</button>
     </div>
 
     <div class="search-section active" id="sec-nombre">
@@ -215,7 +364,7 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
         <input class="search-input" id="inputNombre" placeholder="Escribe el nombre del juego..." onkeydown="if(event.key==='Enter') buscarNombre()" />
         <button class="search-btn" onclick="buscarNombre()">Buscar</button>
       </div>
-      <div class="hint">Busca por nombre exacto o parcial en MongoDB.</div>
+      <div class="hint">Busca por nombre exacto o parcial en MongoDB. Resultados en cache por 5 min.</div>
       <div id="resNombre"></div>
     </div>
 
@@ -224,7 +373,7 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
         <input class="search-input" id="inputConcepto" placeholder="Ej: juegos de terror en primera persona..." onkeydown="if(event.key==='Enter') buscarConcepto()" />
         <button class="search-btn" onclick="buscarConcepto()">Buscar</button>
       </div>
-      <div class="hint">Describe el tipo de juego. Menor distancia = más similar.</div>
+      <div class="hint">Describe el tipo de juego. Menor distancia = más similar. Resultados en cache por 5 min.</div>
       <div id="resConcepto"></div>
     </div>
 
@@ -239,10 +388,39 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
         <div class="confirm-name" id="confirmName"></div>
         <div class="confirm-id" id="confirmId"></div>
         <div class="confirm-btns">
-        <button class="btn-confirm" onclick="confirmarAgregar()">Agregar a la biblioteca</button>          <button class="btn-cancel" onclick="cancelarAgregar()">Cancelar</button>
+          <button class="btn-confirm" onclick="confirmarAgregar()">Agregar a la biblioteca</button>
+          <button class="btn-cancel" onclick="cancelarAgregar()">Cancelar</button>
         </div>
       </div>
       <div id="addMsg"></div>
+    </div>
+
+    <div class="search-section" id="sec-media">
+      <div class="hint">Trae automáticamente las capturas de pantalla y el tráiler/gameplay que Steam ya tiene para un juego, y los guarda en RustFS. No necesitas subir nada a mano.</div>
+      <div class="search-box">
+        <input class="search-input" id="mediaSyncAppId" placeholder="App ID del juego (ej: 730)" onkeydown="if(event.key==='Enter') sincronizarMediaJuego()" />
+        <button class="search-btn" onclick="sincronizarMediaJuego()">Traer media de Steam</button>
+      </div>
+      <button class="btn-media" style="margin-top:8px;" onclick="sincronizarMediaTodos()">Sincronizar todos los juegos pendientes (lote de 20)</button>
+      <div id="mediaSyncMsg"></div>
+
+      <div class="hint" style="margin-top:24px;">¿Prefieres subir tú un archivo específico?</div>
+      <div class="upload-form">
+        <input class="search-input" id="mediaAppId" placeholder="App ID del juego (ej: 730)" />
+        <select class="upload-select" id="mediaTipo">
+          <option value="imagen">Imagen (catálogo)</option>
+          <option value="video">Video (gameplay)</option>
+        </select>
+        <input class="search-input" id="mediaArchivo" type="file" accept="image/*,video/*" />
+        <button class="search-btn" onclick="subirMedia()">Subir a RustFS</button>
+      </div>
+      <div id="mediaUploadMsg"></div>
+      <div class="hint" style="margin-top:20px;">Ver / descargar lo ya subido de un juego:</div>
+      <div class="search-box">
+        <input class="search-input" id="mediaVerAppId" placeholder="App ID del juego..." onkeydown="if(event.key==='Enter') verMediaJuego()" />
+        <button class="search-btn" onclick="verMediaJuego()">Ver media</button>
+      </div>
+      <div id="mediaVerResultado"></div>
     </div>
   </div>
 </div>
@@ -250,6 +428,58 @@ body { font-family: var(--font-sans, Arial, sans-serif); background: #1b2838; }
 <script>
 const API = 'http://localhost:8080';
 let selectedGame = null;
+let accessToken = null;
+
+function getAuthHeaders() {
+  return { 'Authorization': 'Bearer ' + accessToken };
+}
+
+async function hacerLogin() {
+  const user = document.getElementById('loginUser').value.trim();
+  const pass = document.getElementById('loginPass').value;
+  const btn = document.getElementById('loginBtn');
+  const msg = document.getElementById('loginMsg');
+
+  if (!user || !pass) return;
+
+  btn.disabled = true;
+  msg.innerHTML = '<div class="loading">Iniciando sesión...</div>';
+
+  try {
+    const r = await fetch(API + '/auth/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ username: user, password: pass })
+    });
+
+    if (!r.ok) {
+      msg.innerHTML = '<div class="error-msg">Usuario o contraseña incorrectos.</div>';
+      btn.disabled = false;
+      return;
+    }
+
+    const d = await r.json();
+    accessToken = d.access_token;
+    sessionStorage.setItem('steam_token', accessToken);
+
+    document.getElementById('loginScreen').style.display = 'none';
+    document.getElementById('appScreen').style.display = 'block';
+    checkHealth();
+  } catch {
+    msg.innerHTML = '<div class="error-msg">No se pudo conectar al servidor. ¿Está corriendo Docker?</div>';
+    btn.disabled = false;
+  }
+}
+
+function cerrarSesion() {
+  accessToken = null;
+  sessionStorage.removeItem('steam_token');
+  document.getElementById('appScreen').style.display = 'none';
+  document.getElementById('loginScreen').style.display = 'flex';
+  document.getElementById('loginPass').value = '';
+  document.getElementById('loginBtn').disabled = false;
+  document.getElementById('loginMsg').innerHTML = '';
+}
 
 async function checkHealth() {
   try {
@@ -260,7 +490,7 @@ async function checkHealth() {
     document.getElementById('statusCount').textContent = d.juegos_en_db + ' juegos en la base de datos';
   } catch {
     document.getElementById('statusDot').className = 'status-dot';
-    document.getElementById('statusText').textContent = 'Sin conexión — asegúrate de que uvicorn esté corriendo';
+    document.getElementById('statusText').textContent = 'Sin conexión — asegúrate de que Docker esté corriendo';
     document.getElementById('statusCount').textContent = '';
   }
 }
@@ -284,7 +514,20 @@ function renderGameCard(juego) {
         <div class="game-field">Lanzamiento: <span>${juego.fecha_lanzamiento || 'N/A'}</span></div>
         <div class="game-field">Valoración: <span class="game-rating">${juego.valoracion || 'N/A'}</span></div>
       </div>
+      <div class="card-actions">
+        <button class="btn-play" onclick="verGameplay(${juego.id}, '${(juego.nombre || '').replace(/'/g, "\\'")}')">&#9654; Reproducir</button>
+        <button class="btn-media" onclick="verMedia(${juego.id}, '${(juego.nombre || '').replace(/'/g, "\\'")}')">&#128247; Ver media</button>
+      </div>
     </div>`;
+}
+
+async function manejarRespuesta(r, el) {
+  if (r.status === 401) {
+    cerrarSesion();
+    el.innerHTML = '<div class="error-msg">Tu sesión expiró, inicia sesión de nuevo.</div>';
+    return null;
+  }
+  return r;
 }
 
 async function buscarNombre() {
@@ -293,12 +536,14 @@ async function buscarNombre() {
   if (!q) return;
   el.innerHTML = '<div class="loading">Buscando...</div>';
   try {
-    const r = await fetch(API + '/games/search?q=' + encodeURIComponent(q));
+    const r = await fetch(API + '/games/search?q=' + encodeURIComponent(q), { headers: getAuthHeaders() });
+    if (!(await manejarRespuesta(r, el))) return;
     if (!r.ok) { el.innerHTML = '<div class="error-msg">No se encontraron juegos para "' + q + '".</div>'; return; }
     const d = await r.json();
-    el.innerHTML = `<div class="results-label">${d.total} resultado(s)</div>` + d.juegos.map(renderGameCard).join('');
+    const cacheTag = d.cache ? '<span class="cache-badge">cache</span>' : '';
+    el.innerHTML = `<div class="results-label">${d.total} resultado(s) ${cacheTag}</div>` + d.juegos.map(renderGameCard).join('');
   } catch {
-    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
   }
 }
 
@@ -308,9 +553,11 @@ async function buscarConcepto() {
   if (!q) return;
   el.innerHTML = '<div class="loading">Calculando similitud...</div>';
   try {
-    const r = await fetch(API + '/games/similar?q=' + encodeURIComponent(q));
+    const r = await fetch(API + '/games/similar?q=' + encodeURIComponent(q), { headers: getAuthHeaders() });
+    if (!(await manejarRespuesta(r, el))) return;
     if (!r.ok) { el.innerHTML = '<div class="error-msg">No se pudieron obtener resultados.</div>'; return; }
     const d = await r.json();
+    const cacheTag = d.cache ? '<span class="cache-badge">cache</span>' : '';
     const cards = d.resultados.map(j => `
       <div class="game-card">
         <div style="display:flex; justify-content:space-between; align-items:center;">
@@ -318,9 +565,9 @@ async function buscarConcepto() {
           <span class="distance-badge">dist: ${j.distancia}</span>
         </div>
       </div>`).join('');
-    el.innerHTML = `<div class="results-label">Top ${d.resultados.length} resultado(s)</div>` + cards;
+    el.innerHTML = `<div class="results-label">Top ${d.resultados.length} resultado(s) ${cacheTag}</div>` + cards;
   } catch {
-    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
   }
 }
 
@@ -332,7 +579,8 @@ async function buscarEnSteam() {
   if (!q) return;
   el.innerHTML = '<div class="loading">Buscando en Steam...</div>';
   try {
-    const r = await fetch(API + '/steam/search?q=' + encodeURIComponent(q));
+    const r = await fetch(API + '/steam/search?q=' + encodeURIComponent(q), { headers: getAuthHeaders() });
+    if (!(await manejarRespuesta(r, el))) return;
     const d = await r.json();
     const items = d.items || [];
     if (!items.length) { el.innerHTML = '<div class="error-msg">No se encontraron resultados.</div>'; return; }
@@ -345,7 +593,7 @@ async function buscarEnSteam() {
         <button class="select-btn" onclick="seleccionarJuego(${item.id}, '${item.name.replace(/'/g, "\\'")}')">Seleccionar</button>
       </div>`).join('') + '</div>';
   } catch {
-    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo uvicorn?</div>';
+    el.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
   }
 }
 
@@ -369,11 +617,12 @@ async function confirmarAgregar() {
   try {
     const r = await fetch(API + '/games/add', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', ...getAuthHeaders() },
       body: JSON.stringify({ app_id: selectedGame.id })
     });
+    if (!(await manejarRespuesta(r, el))) return;
     if (r.ok) {
-      el.innerHTML = '<div class="success-msg">&#10004; "' + selectedGame.nombre + '" agregado exitosamente.</div>';
+      el.innerHTML = '<div class="success-msg">"' + selectedGame.nombre + '" agregado exitosamente.</div>';
       checkHealth();
     } else {
       const d = await r.json();
@@ -385,5 +634,162 @@ async function confirmarAgregar() {
   selectedGame = null;
 }
 
-checkHealth();
+// ================= RUSTFS: media =================
+
+async function sincronizarMediaJuego() {
+  const appId = document.getElementById('mediaSyncAppId').value.trim();
+  const msg = document.getElementById('mediaSyncMsg');
+  if (!appId) return;
+
+  msg.innerHTML = '<div class="loading">Descargando capturas y tráiler de Steam...</div>';
+  try {
+    const r = await fetch(API + '/games/' + appId + '/sync-media', {
+      method: 'POST',
+      headers: getAuthHeaders()
+    });
+    if (!(await manejarRespuesta(r, msg))) return;
+    if (!r.ok) {
+      const d = await r.json().catch(() => ({}));
+      msg.innerHTML = '<div class="error-msg">' + (d.detail || 'No se pudo sincronizar este juego.') + '</div>';
+      return;
+    }
+    const d = await r.json();
+    msg.innerHTML = `<div class="success-msg">Listo: ${d.imagenes} imagen(es) y ${d.videos} video(s) guardados en RustFS.</div>`;
+  } catch {
+    msg.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
+  }
+}
+
+async function sincronizarMediaTodos() {
+  const msg = document.getElementById('mediaSyncMsg');
+  msg.innerHTML = '<div class="loading">Sincronizando juegos pendientes (puede tardar un par de minutos)...</div>';
+  try {
+    const r = await fetch(API + '/media/sync-all?limite=20', {
+      method: 'POST',
+      headers: getAuthHeaders()
+    });
+    if (!(await manejarRespuesta(r, msg))) return;
+    if (!r.ok) {
+      const d = await r.json().catch(() => ({}));
+      msg.innerHTML = '<div class="error-msg">' + (d.detail || 'No se pudo sincronizar.') + '</div>';
+      return;
+    }
+    const d = await r.json();
+    msg.innerHTML = `<div class="success-msg">Procesados ${d.total_procesados} juego(s). Vuelve a presionar el botón para seguir con los siguientes pendientes.</div>`;
+  } catch {
+    msg.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
+  }
+}
+
+function cerrarModalMedia() {
+  document.getElementById('mediaModal').classList.remove('active');
+  document.getElementById('mediaModalBody').innerHTML = '';
+}
+
+async function verGameplay(appId, nombre) {
+  const modal = document.getElementById('mediaModal');
+  const body = document.getElementById('mediaModalBody');
+  document.getElementById('mediaModalTitle').textContent = 'Gameplay — ' + nombre;
+  body.innerHTML = '<div class="loading">Cargando video...</div>';
+  modal.classList.add('active');
+  try {
+    const r = await fetch(API + '/games/' + appId + '/gameplay', { headers: getAuthHeaders() });
+    if (!(await manejarRespuesta(r, body))) return;
+    if (!r.ok) {
+      const d = await r.json().catch(() => ({}));
+      body.innerHTML = '<div class="error-msg">' + (d.detail || 'Este juego no tiene video de gameplay todavía.') + '</div>';
+      return;
+    }
+    const d = await r.json();
+    body.innerHTML = `<video class="modal-video" src="${d.url}" controls autoplay></video>`;
+  } catch {
+    body.innerHTML = '<div class="error-msg">Error de conexión con RustFS.</div>';
+  }
+}
+
+async function verMedia(appId, nombre) {
+  const modal = document.getElementById('mediaModal');
+  const body = document.getElementById('mediaModalBody');
+  document.getElementById('mediaModalTitle').textContent = 'Media del catálogo — ' + nombre;
+  body.innerHTML = '<div class="loading">Cargando media...</div>';
+  modal.classList.add('active');
+  await cargarGaleria(appId, body);
+}
+
+async function cargarGaleria(appId, contenedor) {
+  try {
+    const r = await fetch(API + '/games/' + appId + '/media', { headers: getAuthHeaders() });
+    if (!(await manejarRespuesta(r, contenedor))) return;
+    if (!r.ok) { contenedor.innerHTML = '<div class="error-msg">No se pudo cargar la media de este juego.</div>'; return; }
+    const d = await r.json();
+    if (!d.imagenes.length && !d.videos.length) {
+      contenedor.innerHTML = '<div class="hint">Este juego todavía no tiene imágenes ni videos subidos. Usa la pestaña "Media (RustFS)" para agregar.</div>';
+      return;
+    }
+    const imgs = d.imagenes.map(m => `
+      <div class="media-item">
+        <img src="${m.url}" />
+        <a class="download-link" href="${API}/media/download/${encodeURIComponent(m.key)}" target="_blank">Descargar</a>
+      </div>`).join('');
+    const vids = d.videos.map(m => `
+      <div class="media-item">
+        <video src="${m.url}" controls></video>
+        <a class="download-link" href="${API}/media/download/${encodeURIComponent(m.key)}" target="_blank">Descargar</a>
+      </div>`).join('');
+    contenedor.innerHTML = `<div class="media-gallery">${imgs}${vids}</div>`;
+  } catch {
+    contenedor.innerHTML = '<div class="error-msg">Error de conexión con RustFS.</div>';
+  }
+}
+
+async function subirMedia() {
+  const appId = document.getElementById('mediaAppId').value.trim();
+  const tipo = document.getElementById('mediaTipo').value;
+  const archivo = document.getElementById('mediaArchivo').files[0];
+  const msg = document.getElementById('mediaUploadMsg');
+
+  if (!appId || !archivo) {
+    msg.innerHTML = '<div class="error-msg">Escribe el App ID y elige un archivo.</div>';
+    return;
+  }
+
+  const form = new FormData();
+  form.append('tipo', tipo);
+  form.append('file', archivo);
+
+  msg.innerHTML = '<div class="loading">Subiendo a RustFS...</div>';
+  try {
+    const r = await fetch(API + '/media/upload/' + appId, {
+      method: 'POST',
+      headers: getAuthHeaders(),
+      body: form
+    });
+    if (!(await manejarRespuesta(r, msg))) return;
+    if (r.ok) {
+      msg.innerHTML = '<div class="success-msg">Archivo subido correctamente a RustFS.</div>';
+      document.getElementById('mediaArchivo').value = '';
+    } else {
+      const d = await r.json().catch(() => ({}));
+      msg.innerHTML = '<div class="error-msg">' + (d.detail || 'Error al subir el archivo.') + '</div>';
+    }
+  } catch {
+    msg.innerHTML = '<div class="error-msg">Error de conexión. ¿Está corriendo Docker?</div>';
+  }
+}
+
+async function verMediaJuego() {
+  const appId = document.getElementById('mediaVerAppId').value.trim();
+  const contenedor = document.getElementById('mediaVerResultado');
+  if (!appId) return;
+  contenedor.innerHTML = '<div class="loading">Cargando...</div>';
+  await cargarGaleria(appId, contenedor);
+}
+
+const tokenGuardado = sessionStorage.getItem('steam_token');
+if (tokenGuardado) {
+  accessToken = tokenGuardado;
+  document.getElementById('loginScreen').style.display = 'none';
+  document.getElementById('appScreen').style.display = 'block';
+  checkHealth();
+}
 </script>

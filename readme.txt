@@ -26,11 +26,11 @@ docker compose up -d
 cd frontend && npm run dev
 ```
 
-Abrir `http://localhost:5173` en el navegador (ya no es `index.html`; el frontend ahora es una app de React servida por Vite).
+Abrir `http://localhost:5173` en el navegador.
 
 ## Sincronizar imágenes y video (opcional)
 
-Los juegos no traen imágenes/video automáticamente al importarlos. Desde el Dashboard, usa el botón **"Sincronizar imágenes y video"**, o llama directo al endpoint:
+Los juegos no traen imágenes/video automáticamente al importarlos. Desde el Dashboard, usar el botón **"Sincronizar imágenes y video"**, o llamar directo al endpoint:
 
 ```
 POST http://localhost:8080/media/sync-all?limite=20
